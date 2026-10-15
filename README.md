@@ -83,7 +83,7 @@ Built from my work packaging applications with SCCM, managing devices with Intun
 
 Want this adapted to your migration (your collections and waves, other gates, a scheduled weekly report, matching on serial numbers)? Get in touch:
 
-- Email: [inigogonzalezgarcia@yahoo.es](mailto:inigogonzalezgarcia@yahoo.es)
+- Website (contact form): [inigogonzalezgarcia.github.io](https://inigogonzalezgarcia.github.io/about.html#contacto)
 - LinkedIn: [linkedin.com/in/igonzalez93](https://www.linkedin.com/in/igonzalez93)
 
 ## License
