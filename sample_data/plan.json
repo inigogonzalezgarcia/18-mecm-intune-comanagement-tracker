@@ -1,0 +1,37 @@
+{
+  "pilot_collection": "CM - Co-management Pilot",
+  "workloads": {
+    "compliancePolicy": "intune",
+    "resourceAccess": "intune",
+    "deviceConfiguration": "pilot",
+    "windowsUpdateForBusiness": "pilot",
+    "modernApps": "pilot",
+    "endpointProtection": "configmgr",
+    "officeApps": "configmgr"
+  },
+  "waves": [
+    {
+      "name": "Wave 0 · IT pilot",
+      "collection": "W11 - Wave 0 Pilot",
+      "target": "2026-10-02"
+    },
+    {
+      "name": "Wave 1 · Finance and Operations",
+      "collection": "W11 - Wave 1",
+      "target": "2026-10-30"
+    },
+    {
+      "name": "Wave 2 · Rest of the office",
+      "collection": "W11 - Wave 2",
+      "target": "2026-11-27"
+    }
+  ],
+  "gates": {
+    "min_comanaged_pct": 95.0,
+    "min_client_healthy_pct": 95.0,
+    "min_pilot_compliant_pct": 90.0,
+    "max_pilot_mismatch_pct": 2.0
+  },
+  "stale_days": 14,
+  "win11_target_build": 22631
+}

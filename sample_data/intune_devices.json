@@ -1,0 +1,4749 @@
+{
+ "value": [
+  {
+   "id": "00000000-0000-4000-9000-000000000001",
+   "deviceName": "CTS-LT-0001",
+   "operatingSystem": "Windows",
+   "osVersion": "10.0.22631.4093",
+   "managementAgent": "configurationManagerClientMdm",
+   "complianceState": "compliant",
+   "lastSyncDateTime": "2026-10-18T00:00:00Z",
+   "serialNumber": "DEMO000001",
+   "configurationManagerClientEnabledFeatures": {
+    "compliancePolicy": true,
+    "deviceConfiguration": true,
+    "windowsUpdateForBusiness": true,
+    "endpointProtection": false,
+    "resourceAccess": true,
+    "officeApps": false,
+    "modernApps": true
+   }
+  },
+  {
+   "id": "00000000-0000-4000-9000-000000000002",
+   "deviceName": "CTS-LT-0002",
+   "operatingSystem": "Windows",
+   "osVersion": "10.0.22631.4345",
+   "managementAgent": "configurationManagerClientMdm",
+   "complianceState": "compliant",
+   "lastSyncDateTime": "2026-10-19T00:00:00Z",
+   "serialNumber": "DEMO000002",
+   "configurationManagerClientEnabledFeatures": {
+    "compliancePolicy": true,
+    "deviceConfiguration": true,
+    "windowsUpdateForBusiness": true,
+    "endpointProtection": false,
+    "resourceAccess": true,
+    "officeApps": false,
+    "modernApps": true
+   }
+  },
+  {
+   "id": "00000000-0000-4000-9000-000000000004",
+   "deviceName": "CTS-LT-0004",
+   "operatingSystem": "Windows",
+   "osVersion": "10.0.22631.4207",
+   "managementAgent": "mdm",
+   "complianceState": "compliant",
+   "lastSyncDateTime": "2026-10-18T15:00:00Z",
+   "serialNumber": "DEMO000004",
+   "configurationManagerClientEnabledFeatures": {
+    "compliancePolicy": false,
+    "deviceConfiguration": false,
+    "windowsUpdateForBusiness": false,
+    "endpointProtection": false,
+    "resourceAccess": false,
+    "officeApps": false,
+    "modernApps": false
+   }
+  },
+  {
+   "id": "00000000-0000-4000-9000-000000000005",
+   "deviceName": "CTS-LT-0005",
+   "operatingSystem": "Windows",
+   "osVersion": "10.0.26100.4138",
+   "managementAgent": "configurationManagerClientMdm",
+   "complianceState": "compliant",
+   "lastSyncDateTime": "2026-10-17T22:00:00Z",
+   "serialNumber": "DEMO000005",
+   "configurationManagerClientEnabledFeatures": {
+    "compliancePolicy": true,
+    "deviceConfiguration": true,
+    "windowsUpdateForBusiness": true,
+    "endpointProtection": false,
+    "resourceAccess": true,
+    "officeApps": false,
+    "modernApps": true
+   }
+  },
+  {
+   "id": "00000000-0000-4000-9000-000000000006",
+   "deviceName": "CTS-LT-0006",
+   "operatingSystem": "Windows",
+   "osVersion": "10.0.22631.4350",
+   "managementAgent": "configurationManagerClientMdm",
+   "complianceState": "compliant",
+   "lastSyncDateTime": "2026-10-17T23:00:00Z",
+   "serialNumber": "DEMO000006",
+   "configurationManagerClientEnabledFeatures": {
+    "compliancePolicy": true,
+    "deviceConfiguration": true,
+    "windowsUpdateForBusiness": true,
+    "endpointProtection": false,
+    "resourceAccess": true,
+    "officeApps": false,
+    "modernApps": true
+   }
+  },
+  {
+   "id": "00000000-0000-4000-9000-000000000007",
+   "deviceName": "CTS-LT-0007",
+   "operatingSystem": "Windows",
+   "osVersion": "10.0.22631.4262",
+   "managementAgent": "configurationManagerClientMdm",
+   "complianceState": "compliant",
+   "lastSyncDateTime": "2026-10-18T04:00:00Z",
+   "serialNumber": "DEMO000007",
+   "configurationManagerClientEnabledFeatures": {
+    "compliancePolicy": true,
+    "deviceConfiguration": false,
+    "windowsUpdateForBusiness": true,
+    "endpointProtection": false,
+    "resourceAccess": true,
+    "officeApps": false,
+    "modernApps": true
+   }
+  },
+  {
+   "id": "00000000-0000-4000-9000-000000000008",
+   "deviceName": "CTS-LT-0008",
+   "operatingSystem": "Windows",
+   "osVersion": "10.0.26100.4336",
+   "managementAgent": "configurationManagerClientMdm",
+   "complianceState": "compliant",
+   "lastSyncDateTime": "2026-10-17T21:00:00Z",
+   "serialNumber": "DEMO000008",
+   "configurationManagerClientEnabledFeatures": {
+    "compliancePolicy": true,
+    "deviceConfiguration": true,
+    "windowsUpdateForBusiness": true,
+    "endpointProtection": false,
+    "resourceAccess": true,
+    "officeApps": false,
+    "modernApps": true
+   }
+  },
+  {
+   "id": "00000000-0000-4000-9000-000000000009",
+   "deviceName": "CTS-LT-0009",
+   "operatingSystem": "Windows",
+   "osVersion": "10.0.22631.4047",
+   "managementAgent": "configurationManagerClientMdm",
+   "complianceState": "compliant",
+   "lastSyncDateTime": "2026-10-19T02:00:00Z",
+   "serialNumber": "DEMO000009",
+   "configurationManagerClientEnabledFeatures": {
+    "compliancePolicy": true,
+    "deviceConfiguration": true,
+    "windowsUpdateForBusiness": true,
+    "endpointProtection": false,
+    "resourceAccess": true,
+    "officeApps": false,
+    "modernApps": true
+   }
+  },
+  {
+   "id": "00000000-0000-4000-9000-000000000010",
+   "deviceName": "CTS-LT-0010",
+   "operatingSystem": "Windows",
+   "osVersion": "10.0.26100.4269",
+   "managementAgent": "configurationManagerClientMdm",
+   "complianceState": "compliant",
+   "lastSyncDateTime": "2026-10-17T21:00:00Z",
+   "serialNumber": "DEMO000010",
+   "configurationManagerClientEnabledFeatures": {
+    "compliancePolicy": true,
+    "deviceConfiguration": true,
+    "windowsUpdateForBusiness": true,
+    "endpointProtection": false,
+    "resourceAccess": true,
+    "officeApps": false,
+    "modernApps": true
+   }
+  },
+  {
+   "id": "00000000-0000-4000-9000-000000000011",
+   "deviceName": "CTS-LT-0011",
+   "operatingSystem": "Windows",
+   "osVersion": "10.0.26100.4207",
+   "managementAgent": "configurationManagerClientMdm",
+   "complianceState": "compliant",
+   "lastSyncDateTime": "2026-10-18T01:00:00Z",
+   "serialNumber": "DEMO000011",
+   "configurationManagerClientEnabledFeatures": {
+    "compliancePolicy": true,
+    "deviceConfiguration": true,
+    "windowsUpdateForBusiness": true,
+    "endpointProtection": false,
+    "resourceAccess": true,
+    "officeApps": false,
+    "modernApps": true
+   }
+  },
+  {
+   "id": "00000000-0000-4000-9000-000000000012",
+   "deviceName": "CTS-LT-0012",
+   "operatingSystem": "Windows",
+   "osVersion": "10.0.22631.4173",
+   "managementAgent": "configurationManagerClientMdm",
+   "complianceState": "compliant",
+   "lastSyncDateTime": "2026-10-18T08:00:00Z",
+   "serialNumber": "DEMO000012",
+   "configurationManagerClientEnabledFeatures": {
+    "compliancePolicy": true,
+    "deviceConfiguration": true,
+    "windowsUpdateForBusiness": true,
+    "endpointProtection": false,
+    "resourceAccess": true,
+    "officeApps": false,
+    "modernApps": true
+   }
+  },
+  {
+   "id": "00000000-0000-4000-9000-000000000013",
+   "deviceName": "CTS-LT-0013",
+   "operatingSystem": "Windows",
+   "osVersion": "10.0.22631.4292",
+   "managementAgent": "configurationManagerClientMdm",
+   "complianceState": "compliant",
+   "lastSyncDateTime": "2026-10-17T21:00:00Z",
+   "serialNumber": "DEMO000013",
+   "configurationManagerClientEnabledFeatures": {
+    "compliancePolicy": true,
+    "deviceConfiguration": true,
+    "windowsUpdateForBusiness": true,
+    "endpointProtection": false,
+    "resourceAccess": true,
+    "officeApps": false,
+    "modernApps": true
+   }
+  },
+  {
+   "id": "00000000-0000-4000-9000-000000000014",
+   "deviceName": "CTS-LT-0014",
+   "operatingSystem": "Windows",
+   "osVersion": "10.0.26100.4284",
+   "managementAgent": "mdm",
+   "complianceState": "compliant",
+   "lastSyncDateTime": "2026-10-18T04:00:00Z",
+   "serialNumber": "DEMO000014",
+   "configurationManagerClientEnabledFeatures": {
+    "compliancePolicy": false,
+    "deviceConfiguration": false,
+    "windowsUpdateForBusiness": false,
+    "endpointProtection": false,
+    "resourceAccess": false,
+    "officeApps": false,
+    "modernApps": false
+   }
+  },
+  {
+   "id": "00000000-0000-4000-9000-000000000015",
+   "deviceName": "CTS-LT-0015",
+   "operatingSystem": "Windows",
+   "osVersion": "10.0.22631.4206",
+   "managementAgent": "configurationManagerClientMdm",
+   "complianceState": "compliant",
+   "lastSyncDateTime": "2026-10-18T15:00:00Z",
+   "serialNumber": "DEMO000015",
+   "configurationManagerClientEnabledFeatures": {
+    "compliancePolicy": true,
+    "deviceConfiguration": true,
+    "windowsUpdateForBusiness": true,
+    "endpointProtection": false,
+    "resourceAccess": true,
+    "officeApps": false,
+    "modernApps": true
+   }
+  },
+  {
+   "id": "00000000-0000-4000-9000-000000000016",
+   "deviceName": "CTS-LT-0016",
+   "operatingSystem": "Windows",
+   "osVersion": "10.0.22631.4090",
+   "managementAgent": "configurationManagerClientMdm",
+   "complianceState": "compliant",
+   "lastSyncDateTime": "2026-10-18T22:00:00Z",
+   "serialNumber": "DEMO000016",
+   "configurationManagerClientEnabledFeatures": {
+    "compliancePolicy": true,
+    "deviceConfiguration": true,
+    "windowsUpdateForBusiness": true,
+    "endpointProtection": false,
+    "resourceAccess": true,
+    "officeApps": false,
+    "modernApps": true
+   }
+  },
+  {
+   "id": "00000000-0000-4000-9000-000000000017",
+   "deviceName": "CTS-DT-0017",
+   "operatingSystem": "Windows",
+   "osVersion": "10.0.22631.4388",
+   "managementAgent": "configurationManagerClientMdm",
+   "complianceState": "compliant",
+   "lastSyncDateTime": "2026-10-19T02:00:00Z",
+   "serialNumber": "DEMO000017",
+   "configurationManagerClientEnabledFeatures": {
+    "compliancePolicy": true,
+    "deviceConfiguration": true,
+    "windowsUpdateForBusiness": true,
+    "endpointProtection": false,
+    "resourceAccess": true,
+    "officeApps": false,
+    "modernApps": true
+   }
+  },
+  {
+   "id": "00000000-0000-4000-9000-000000000018",
+   "deviceName": "CTS-LT-0018",
+   "operatingSystem": "Windows",
+   "osVersion": "10.0.26100.4083",
+   "managementAgent": "configurationManagerClientMdm",
+   "complianceState": "compliant",
+   "lastSyncDateTime": "2026-10-18T15:00:00Z",
+   "serialNumber": "DEMO000018",
+   "configurationManagerClientEnabledFeatures": {
+    "compliancePolicy": true,
+    "deviceConfiguration": true,
+    "windowsUpdateForBusiness": true,
+    "endpointProtection": false,
+    "resourceAccess": true,
+    "officeApps": false,
+    "modernApps": true
+   }
+  },
+  {
+   "id": "00000000-0000-4000-9000-000000000019",
+   "deviceName": "CTS-DT-0019",
+   "operatingSystem": "Windows",
+   "osVersion": "10.0.22631.4033",
+   "managementAgent": "configurationManagerClientMdm",
+   "complianceState": "compliant",
+   "lastSyncDateTime": "2026-10-19T01:00:00Z",
+   "serialNumber": "DEMO000019",
+   "configurationManagerClientEnabledFeatures": {
+    "compliancePolicy": true,
+    "deviceConfiguration": true,
+    "windowsUpdateForBusiness": true,
+    "endpointProtection": false,
+    "resourceAccess": true,
+    "officeApps": false,
+    "modernApps": true
+   }
+  },
+  {
+   "id": "00000000-0000-4000-9000-000000000020",
+   "deviceName": "CTS-LT-0020",
+   "operatingSystem": "Windows",
+   "osVersion": "10.0.22631.4208",
+   "managementAgent": "configurationManagerClientMdm",
+   "complianceState": "compliant",
+   "lastSyncDateTime": "2026-10-18T21:00:00Z",
+   "serialNumber": "DEMO000020",
+   "configurationManagerClientEnabledFeatures": {
+    "compliancePolicy": true,
+    "deviceConfiguration": true,
+    "windowsUpdateForBusiness": true,
+    "endpointProtection": false,
+    "resourceAccess": true,
+    "officeApps": false,
+    "modernApps": true
+   }
+  },
+  {
+   "id": "00000000-0000-4000-9000-000000000021",
+   "deviceName": "CTS-DT-0021",
+   "operatingSystem": "Windows",
+   "osVersion": "10.0.26100.4023",
+   "managementAgent": "configurationManagerClientMdm",
+   "complianceState": "noncompliant",
+   "lastSyncDateTime": "2026-10-18T04:00:00Z",
+   "serialNumber": "DEMO000021",
+   "configurationManagerClientEnabledFeatures": {
+    "compliancePolicy": true,
+    "deviceConfiguration": true,
+    "windowsUpdateForBusiness": true,
+    "endpointProtection": false,
+    "resourceAccess": true,
+    "officeApps": false,
+    "modernApps": true
+   }
+  },
+  {
+   "id": "00000000-0000-4000-9000-000000000022",
+   "deviceName": "CTS-LT-0022",
+   "operatingSystem": "Windows",
+   "osVersion": "10.0.22631.4346",
+   "managementAgent": "configurationManagerClientMdm",
+   "complianceState": "compliant",
+   "lastSyncDateTime": "2026-10-18T08:00:00Z",
+   "serialNumber": "DEMO000022",
+   "configurationManagerClientEnabledFeatures": {
+    "compliancePolicy": true,
+    "deviceConfiguration": true,
+    "windowsUpdateForBusiness": true,
+    "endpointProtection": false,
+    "resourceAccess": true,
+    "officeApps": false,
+    "modernApps": true
+   }
+  },
+  {
+   "id": "00000000-0000-4000-9000-000000000023",
+   "deviceName": "CTS-LT-0023",
+   "operatingSystem": "Windows",
+   "osVersion": "10.0.22631.4271",
+   "managementAgent": "configurationManagerClientMdm",
+   "complianceState": "compliant",
+   "lastSyncDateTime": "2026-10-17T20:00:00Z",
+   "serialNumber": "DEMO000023",
+   "configurationManagerClientEnabledFeatures": {
+    "compliancePolicy": true,
+    "deviceConfiguration": true,
+    "windowsUpdateForBusiness": true,
+    "endpointProtection": false,
+    "resourceAccess": true,
+    "officeApps": false,
+    "modernApps": true
+   }
+  },
+  {
+   "id": "00000000-0000-4000-9000-000000000024",
+   "deviceName": "CTS-LT-0024",
+   "operatingSystem": "Windows",
+   "osVersion": "10.0.22631.4369",
+   "managementAgent": "configurationManagerClientMdm",
+   "complianceState": "compliant",
+   "lastSyncDateTime": "2026-10-18T11:00:00Z",
+   "serialNumber": "DEMO000024",
+   "configurationManagerClientEnabledFeatures": {
+    "compliancePolicy": true,
+    "deviceConfiguration": true,
+    "windowsUpdateForBusiness": true,
+    "endpointProtection": false,
+    "resourceAccess": true,
+    "officeApps": false,
+    "modernApps": true
+   }
+  },
+  {
+   "id": "00000000-0000-4000-9000-000000000025",
+   "deviceName": "CTS-LT-0025",
+   "operatingSystem": "Windows",
+   "osVersion": "10.0.26100.4259",
+   "managementAgent": "configurationManagerClientMdm",
+   "complianceState": "compliant",
+   "lastSyncDateTime": "2026-10-17T22:00:00Z",
+   "serialNumber": "DEMO000025",
+   "configurationManagerClientEnabledFeatures": {
+    "compliancePolicy": true,
+    "deviceConfiguration": true,
+    "windowsUpdateForBusiness": true,
+    "endpointProtection": false,
+    "resourceAccess": true,
+    "officeApps": false,
+    "modernApps": true
+   }
+  },
+  {
+   "id": "00000000-0000-4000-9000-000000000026",
+   "deviceName": "CTS-LT-0026",
+   "operatingSystem": "Windows",
+   "osVersion": "10.0.19045.5011",
+   "managementAgent": "configurationManagerClientMdm",
+   "complianceState": "compliant",
+   "lastSyncDateTime": "2026-10-17T23:00:00Z",
+   "serialNumber": "DEMO000026",
+   "configurationManagerClientEnabledFeatures": {
+    "compliancePolicy": true,
+    "deviceConfiguration": true,
+    "windowsUpdateForBusiness": true,
+    "endpointProtection": false,
+    "resourceAccess": true,
+    "officeApps": false,
+    "modernApps": true
+   }
+  },
+  {
+   "id": "00000000-0000-4000-9000-000000000027",
+   "deviceName": "CTS-DT-0027",
+   "operatingSystem": "Windows",
+   "osVersion": "10.0.22631.4295",
+   "managementAgent": "configurationManagerClientMdm",
+   "complianceState": "compliant",
+   "lastSyncDateTime": "2026-10-18T08:00:00Z",
+   "serialNumber": "DEMO000027",
+   "configurationManagerClientEnabledFeatures": {
+    "compliancePolicy": true,
+    "deviceConfiguration": true,
+    "windowsUpdateForBusiness": true,
+    "endpointProtection": false,
+    "resourceAccess": true,
+    "officeApps": false,
+    "modernApps": true
+   }
+  },
+  {
+   "id": "00000000-0000-4000-9000-000000000029",
+   "deviceName": "CTS-LT-0029",
+   "operatingSystem": "Windows",
+   "osVersion": "10.0.19045.5011",
+   "managementAgent": "configurationManagerClientMdm",
+   "complianceState": "compliant",
+   "lastSyncDateTime": "2026-10-17T23:00:00Z",
+   "serialNumber": "DEMO000029",
+   "configurationManagerClientEnabledFeatures": {
+    "compliancePolicy": true,
+    "deviceConfiguration": true,
+    "windowsUpdateForBusiness": true,
+    "endpointProtection": false,
+    "resourceAccess": true,
+    "officeApps": false,
+    "modernApps": true
+   }
+  },
+  {
+   "id": "00000000-0000-4000-9000-000000000030",
+   "deviceName": "CTS-LT-0030",
+   "operatingSystem": "Windows",
+   "osVersion": "10.0.19045.5011",
+   "managementAgent": "configurationManagerClientMdm",
+   "complianceState": "compliant",
+   "lastSyncDateTime": "2026-10-19T04:00:00Z",
+   "serialNumber": "DEMO000030",
+   "configurationManagerClientEnabledFeatures": {
+    "compliancePolicy": true,
+    "deviceConfiguration": true,
+    "windowsUpdateForBusiness": true,
+    "endpointProtection": false,
+    "resourceAccess": true,
+    "officeApps": false,
+    "modernApps": true
+   }
+  },
+  {
+   "id": "00000000-0000-4000-9000-000000000031",
+   "deviceName": "CTS-LT-0031",
+   "operatingSystem": "Windows",
+   "osVersion": "10.0.22631.4316",
+   "managementAgent": "configurationManagerClientMdm",
+   "complianceState": "compliant",
+   "lastSyncDateTime": "2026-10-18T13:00:00Z",
+   "serialNumber": "DEMO000031",
+   "configurationManagerClientEnabledFeatures": {
+    "compliancePolicy": true,
+    "deviceConfiguration": true,
+    "windowsUpdateForBusiness": true,
+    "endpointProtection": false,
+    "resourceAccess": true,
+    "officeApps": false,
+    "modernApps": true
+   }
+  },
+  {
+   "id": "00000000-0000-4000-9000-000000000032",
+   "deviceName": "CTS-LT-0032",
+   "operatingSystem": "Windows",
+   "osVersion": "10.0.19045.5011",
+   "managementAgent": "configurationManagerClientMdm",
+   "complianceState": "compliant",
+   "lastSyncDateTime": "2026-10-19T06:00:00Z",
+   "serialNumber": "DEMO000032",
+   "configurationManagerClientEnabledFeatures": {
+    "compliancePolicy": true,
+    "deviceConfiguration": true,
+    "windowsUpdateForBusiness": true,
+    "endpointProtection": false,
+    "resourceAccess": true,
+    "officeApps": false,
+    "modernApps": true
+   }
+  },
+  {
+   "id": "00000000-0000-4000-9000-000000000033",
+   "deviceName": "CTS-DT-0033",
+   "operatingSystem": "Windows",
+   "osVersion": "10.0.19045.5011",
+   "managementAgent": "configurationManagerClientMdm",
+   "complianceState": "compliant",
+   "lastSyncDateTime": "2026-10-17T20:00:00Z",
+   "serialNumber": "DEMO000033",
+   "configurationManagerClientEnabledFeatures": {
+    "compliancePolicy": true,
+    "deviceConfiguration": true,
+    "windowsUpdateForBusiness": true,
+    "endpointProtection": false,
+    "resourceAccess": true,
+    "officeApps": false,
+    "modernApps": true
+   }
+  },
+  {
+   "id": "00000000-0000-4000-9000-000000000034",
+   "deviceName": "CTS-LT-0034",
+   "operatingSystem": "Windows",
+   "osVersion": "10.0.22631.4096",
+   "managementAgent": "configurationManagerClientMdm",
+   "complianceState": "compliant",
+   "lastSyncDateTime": "2026-10-18T00:00:00Z",
+   "serialNumber": "DEMO000034",
+   "configurationManagerClientEnabledFeatures": {
+    "compliancePolicy": true,
+    "deviceConfiguration": true,
+    "windowsUpdateForBusiness": true,
+    "endpointProtection": false,
+    "resourceAccess": true,
+    "officeApps": false,
+    "modernApps": true
+   }
+  },
+  {
+   "id": "00000000-0000-4000-9000-000000000035",
+   "deviceName": "CTS-LT-0035",
+   "operatingSystem": "Windows",
+   "osVersion": "10.0.22631.4322",
+   "managementAgent": "configurationManagerClientMdm",
+   "complianceState": "compliant",
+   "lastSyncDateTime": "2026-10-18T19:00:00Z",
+   "serialNumber": "DEMO000035",
+   "configurationManagerClientEnabledFeatures": {
+    "compliancePolicy": true,
+    "deviceConfiguration": true,
+    "windowsUpdateForBusiness": true,
+    "endpointProtection": false,
+    "resourceAccess": true,
+    "officeApps": false,
+    "modernApps": true
+   }
+  },
+  {
+   "id": "00000000-0000-4000-9000-000000000036",
+   "deviceName": "CTS-LT-0036",
+   "operatingSystem": "Windows",
+   "osVersion": "10.0.19045.5011",
+   "managementAgent": "configurationManagerClientMdm",
+   "complianceState": "compliant",
+   "lastSyncDateTime": "2026-10-18T08:00:00Z",
+   "serialNumber": "DEMO000036",
+   "configurationManagerClientEnabledFeatures": {
+    "compliancePolicy": true,
+    "deviceConfiguration": false,
+    "windowsUpdateForBusiness": false,
+    "endpointProtection": false,
+    "resourceAccess": true,
+    "officeApps": false,
+    "modernApps": false
+   }
+  },
+  {
+   "id": "00000000-0000-4000-9000-000000000037",
+   "deviceName": "CTS-LT-0037",
+   "operatingSystem": "Windows",
+   "osVersion": "10.0.19045.5011",
+   "managementAgent": "configurationManagerClientMdm",
+   "complianceState": "compliant",
+   "lastSyncDateTime": "2026-10-18T06:00:00Z",
+   "serialNumber": "DEMO000037",
+   "configurationManagerClientEnabledFeatures": {
+    "compliancePolicy": true,
+    "deviceConfiguration": false,
+    "windowsUpdateForBusiness": false,
+    "endpointProtection": false,
+    "resourceAccess": true,
+    "officeApps": false,
+    "modernApps": false
+   }
+  },
+  {
+   "id": "00000000-0000-4000-9000-000000000038",
+   "deviceName": "CTS-DT-0038",
+   "operatingSystem": "Windows",
+   "osVersion": "10.0.22631.4077",
+   "managementAgent": "configurationManagerClientMdm",
+   "complianceState": "compliant",
+   "lastSyncDateTime": "2026-10-19T03:00:00Z",
+   "serialNumber": "DEMO000038",
+   "configurationManagerClientEnabledFeatures": {
+    "compliancePolicy": true,
+    "deviceConfiguration": false,
+    "windowsUpdateForBusiness": false,
+    "endpointProtection": false,
+    "resourceAccess": true,
+    "officeApps": false,
+    "modernApps": false
+   }
+  },
+  {
+   "id": "00000000-0000-4000-9000-000000000039",
+   "deviceName": "CTS-LT-0039",
+   "operatingSystem": "Windows",
+   "osVersion": "10.0.22631.4120",
+   "managementAgent": "configurationManagerClientMdm",
+   "complianceState": "noncompliant",
+   "lastSyncDateTime": "2026-10-18T13:00:00Z",
+   "serialNumber": "DEMO000039",
+   "configurationManagerClientEnabledFeatures": {
+    "compliancePolicy": true,
+    "deviceConfiguration": false,
+    "windowsUpdateForBusiness": false,
+    "endpointProtection": false,
+    "resourceAccess": true,
+    "officeApps": false,
+    "modernApps": false
+   }
+  },
+  {
+   "id": "00000000-0000-4000-9000-000000000040",
+   "deviceName": "CTS-DT-0040",
+   "operatingSystem": "Windows",
+   "osVersion": "10.0.22631.4064",
+   "managementAgent": "configurationManagerClientMdm",
+   "complianceState": "compliant",
+   "lastSyncDateTime": "2026-10-19T06:00:00Z",
+   "serialNumber": "DEMO000040",
+   "configurationManagerClientEnabledFeatures": {
+    "compliancePolicy": true,
+    "deviceConfiguration": false,
+    "windowsUpdateForBusiness": false,
+    "endpointProtection": false,
+    "resourceAccess": true,
+    "officeApps": false,
+    "modernApps": false
+   }
+  },
+  {
+   "id": "00000000-0000-4000-9000-000000000041",
+   "deviceName": "CTS-LT-0041",
+   "operatingSystem": "Windows",
+   "osVersion": "10.0.19045.5011",
+   "managementAgent": "configurationManagerClientMdm",
+   "complianceState": "compliant",
+   "lastSyncDateTime": "2026-10-18T21:00:00Z",
+   "serialNumber": "DEMO000041",
+   "configurationManagerClientEnabledFeatures": {
+    "compliancePolicy": true,
+    "deviceConfiguration": false,
+    "windowsUpdateForBusiness": false,
+    "endpointProtection": false,
+    "resourceAccess": true,
+    "officeApps": false,
+    "modernApps": false
+   }
+  },
+  {
+   "id": "00000000-0000-4000-9000-000000000042",
+   "deviceName": "CTS-LT-0042",
+   "operatingSystem": "Windows",
+   "osVersion": "10.0.26100.4132",
+   "managementAgent": "configurationManagerClientMdm",
+   "complianceState": "compliant",
+   "lastSyncDateTime": "2026-10-17T18:00:00Z",
+   "serialNumber": "DEMO000042",
+   "configurationManagerClientEnabledFeatures": {
+    "compliancePolicy": true,
+    "deviceConfiguration": false,
+    "windowsUpdateForBusiness": false,
+    "endpointProtection": false,
+    "resourceAccess": true,
+    "officeApps": false,
+    "modernApps": false
+   }
+  },
+  {
+   "id": "00000000-0000-4000-9000-000000000043",
+   "deviceName": "CTS-LT-0043",
+   "operatingSystem": "Windows",
+   "osVersion": "10.0.22631.4059",
+   "managementAgent": "configurationManagerClientMdm",
+   "complianceState": "compliant",
+   "lastSyncDateTime": "2026-10-18T08:00:00Z",
+   "serialNumber": "DEMO000043",
+   "configurationManagerClientEnabledFeatures": {
+    "compliancePolicy": true,
+    "deviceConfiguration": false,
+    "windowsUpdateForBusiness": false,
+    "endpointProtection": false,
+    "resourceAccess": true,
+    "officeApps": false,
+    "modernApps": false
+   }
+  },
+  {
+   "id": "00000000-0000-4000-9000-000000000044",
+   "deviceName": "CTS-LT-0044",
+   "operatingSystem": "Windows",
+   "osVersion": "10.0.22631.4097",
+   "managementAgent": "configurationManagerClientMdm",
+   "complianceState": "compliant",
+   "lastSyncDateTime": "2026-10-18T02:00:00Z",
+   "serialNumber": "DEMO000044",
+   "configurationManagerClientEnabledFeatures": {
+    "compliancePolicy": true,
+    "deviceConfiguration": false,
+    "windowsUpdateForBusiness": false,
+    "endpointProtection": false,
+    "resourceAccess": true,
+    "officeApps": false,
+    "modernApps": false
+   }
+  },
+  {
+   "id": "00000000-0000-4000-9000-000000000045",
+   "deviceName": "CTS-LT-0045",
+   "operatingSystem": "Windows",
+   "osVersion": "10.0.22631.4251",
+   "managementAgent": "configurationManagerClientMdm",
+   "complianceState": "compliant",
+   "lastSyncDateTime": "2026-10-18T15:00:00Z",
+   "serialNumber": "DEMO000045",
+   "configurationManagerClientEnabledFeatures": {
+    "compliancePolicy": true,
+    "deviceConfiguration": false,
+    "windowsUpdateForBusiness": false,
+    "endpointProtection": false,
+    "resourceAccess": true,
+    "officeApps": false,
+    "modernApps": false
+   }
+  },
+  {
+   "id": "00000000-0000-4000-9000-000000000046",
+   "deviceName": "CTS-LT-0046",
+   "operatingSystem": "Windows",
+   "osVersion": "10.0.22631.4345",
+   "managementAgent": "configurationManagerClientMdm",
+   "complianceState": "compliant",
+   "lastSyncDateTime": "2026-10-18T17:00:00Z",
+   "serialNumber": "DEMO000046",
+   "configurationManagerClientEnabledFeatures": {
+    "compliancePolicy": true,
+    "deviceConfiguration": false,
+    "windowsUpdateForBusiness": false,
+    "endpointProtection": false,
+    "resourceAccess": true,
+    "officeApps": false,
+    "modernApps": false
+   }
+  },
+  {
+   "id": "00000000-0000-4000-9000-000000000047",
+   "deviceName": "CTS-DT-0047",
+   "operatingSystem": "Windows",
+   "osVersion": "10.0.26100.4399",
+   "managementAgent": "mdm",
+   "complianceState": "compliant",
+   "lastSyncDateTime": "2026-10-18T09:00:00Z",
+   "serialNumber": "DEMO000047",
+   "configurationManagerClientEnabledFeatures": {
+    "compliancePolicy": false,
+    "deviceConfiguration": false,
+    "windowsUpdateForBusiness": false,
+    "endpointProtection": false,
+    "resourceAccess": false,
+    "officeApps": false,
+    "modernApps": false
+   }
+  },
+  {
+   "id": "00000000-0000-4000-9000-000000000048",
+   "deviceName": "CTS-LT-0048",
+   "operatingSystem": "Windows",
+   "osVersion": "10.0.22631.4284",
+   "managementAgent": "configurationManagerClientMdm",
+   "complianceState": "compliant",
+   "lastSyncDateTime": "2026-10-18T09:00:00Z",
+   "serialNumber": "DEMO000048",
+   "configurationManagerClientEnabledFeatures": {
+    "compliancePolicy": true,
+    "deviceConfiguration": false,
+    "windowsUpdateForBusiness": false,
+    "endpointProtection": false,
+    "resourceAccess": true,
+    "officeApps": false,
+    "modernApps": false
+   }
+  },
+  {
+   "id": "00000000-0000-4000-9000-000000000049",
+   "deviceName": "CTS-LT-0049",
+   "operatingSystem": "Windows",
+   "osVersion": "10.0.19045.5011",
+   "managementAgent": "configurationManagerClientMdm",
+   "complianceState": "compliant",
+   "lastSyncDateTime": "2026-10-18T06:00:00Z",
+   "serialNumber": "DEMO000049",
+   "configurationManagerClientEnabledFeatures": {
+    "compliancePolicy": true,
+    "deviceConfiguration": false,
+    "windowsUpdateForBusiness": false,
+    "endpointProtection": false,
+    "resourceAccess": true,
+    "officeApps": false,
+    "modernApps": false
+   }
+  },
+  {
+   "id": "00000000-0000-4000-9000-000000000050",
+   "deviceName": "CTS-LT-0050",
+   "operatingSystem": "Windows",
+   "osVersion": "10.0.19045.5011",
+   "managementAgent": "configurationManagerClientMdm",
+   "complianceState": "compliant",
+   "lastSyncDateTime": "2026-10-17T18:00:00Z",
+   "serialNumber": "DEMO000050",
+   "configurationManagerClientEnabledFeatures": {
+    "compliancePolicy": true,
+    "deviceConfiguration": false,
+    "windowsUpdateForBusiness": false,
+    "endpointProtection": false,
+    "resourceAccess": true,
+    "officeApps": false,
+    "modernApps": false
+   }
+  },
+  {
+   "id": "00000000-0000-4000-9000-000000000051",
+   "deviceName": "CTS-LT-0051",
+   "operatingSystem": "Windows",
+   "osVersion": "10.0.22631.4364",
+   "managementAgent": "configurationManagerClientMdm",
+   "complianceState": "compliant",
+   "lastSyncDateTime": "2026-10-18T08:00:00Z",
+   "serialNumber": "DEMO000051",
+   "configurationManagerClientEnabledFeatures": {
+    "compliancePolicy": true,
+    "deviceConfiguration": false,
+    "windowsUpdateForBusiness": false,
+    "endpointProtection": false,
+    "resourceAccess": true,
+    "officeApps": false,
+    "modernApps": false
+   }
+  },
+  {
+   "id": "00000000-0000-4000-9000-000000000052",
+   "deviceName": "CTS-LT-0052",
+   "operatingSystem": "Windows",
+   "osVersion": "10.0.22631.4124",
+   "managementAgent": "configurationManagerClientMdm",
+   "complianceState": "compliant",
+   "lastSyncDateTime": "2026-10-18T19:00:00Z",
+   "serialNumber": "DEMO000052",
+   "configurationManagerClientEnabledFeatures": {
+    "compliancePolicy": true,
+    "deviceConfiguration": false,
+    "windowsUpdateForBusiness": false,
+    "endpointProtection": false,
+    "resourceAccess": true,
+    "officeApps": false,
+    "modernApps": false
+   }
+  },
+  {
+   "id": "00000000-0000-4000-9000-000000000053",
+   "deviceName": "CTS-LT-0053",
+   "operatingSystem": "Windows",
+   "osVersion": "10.0.19045.5011",
+   "managementAgent": "configurationManagerClientMdm",
+   "complianceState": "compliant",
+   "lastSyncDateTime": "2026-10-18T11:00:00Z",
+   "serialNumber": "DEMO000053",
+   "configurationManagerClientEnabledFeatures": {
+    "compliancePolicy": true,
+    "deviceConfiguration": false,
+    "windowsUpdateForBusiness": false,
+    "endpointProtection": false,
+    "resourceAccess": true,
+    "officeApps": false,
+    "modernApps": false
+   }
+  },
+  {
+   "id": "00000000-0000-4000-9000-000000000054",
+   "deviceName": "CTS-LT-0054",
+   "operatingSystem": "Windows",
+   "osVersion": "10.0.22631.4035",
+   "managementAgent": "configurationManagerClientMdm",
+   "complianceState": "compliant",
+   "lastSyncDateTime": "2026-10-18T05:00:00Z",
+   "serialNumber": "DEMO000054",
+   "configurationManagerClientEnabledFeatures": {
+    "compliancePolicy": true,
+    "deviceConfiguration": false,
+    "windowsUpdateForBusiness": false,
+    "endpointProtection": false,
+    "resourceAccess": true,
+    "officeApps": false,
+    "modernApps": false
+   }
+  },
+  {
+   "id": "00000000-0000-4000-9000-000000000055",
+   "deviceName": "CTS-LT-0055",
+   "operatingSystem": "Windows",
+   "osVersion": "10.0.22631.4318",
+   "managementAgent": "configurationManagerClientMdm",
+   "complianceState": "compliant",
+   "lastSyncDateTime": "2026-10-19T06:00:00Z",
+   "serialNumber": "DEMO000055",
+   "configurationManagerClientEnabledFeatures": {
+    "compliancePolicy": true,
+    "deviceConfiguration": false,
+    "windowsUpdateForBusiness": false,
+    "endpointProtection": false,
+    "resourceAccess": true,
+    "officeApps": false,
+    "modernApps": false
+   }
+  },
+  {
+   "id": "00000000-0000-4000-9000-000000000057",
+   "deviceName": "CTS-LT-0057",
+   "operatingSystem": "Windows",
+   "osVersion": "10.0.26100.4209",
+   "managementAgent": "configurationManagerClientMdm",
+   "complianceState": "compliant",
+   "lastSyncDateTime": "2026-10-17T23:00:00Z",
+   "serialNumber": "DEMO000057",
+   "configurationManagerClientEnabledFeatures": {
+    "compliancePolicy": true,
+    "deviceConfiguration": false,
+    "windowsUpdateForBusiness": false,
+    "endpointProtection": false,
+    "resourceAccess": true,
+    "officeApps": false,
+    "modernApps": false
+   }
+  },
+  {
+   "id": "00000000-0000-4000-9000-000000000058",
+   "deviceName": "CTS-LT-0058",
+   "operatingSystem": "Windows",
+   "osVersion": "10.0.26100.4278",
+   "managementAgent": "configurationManagerClientMdm",
+   "complianceState": "compliant",
+   "lastSyncDateTime": "2026-10-18T04:00:00Z",
+   "serialNumber": "DEMO000058",
+   "configurationManagerClientEnabledFeatures": {
+    "compliancePolicy": true,
+    "deviceConfiguration": false,
+    "windowsUpdateForBusiness": false,
+    "endpointProtection": false,
+    "resourceAccess": true,
+    "officeApps": false,
+    "modernApps": false
+   }
+  },
+  {
+   "id": "00000000-0000-4000-9000-000000000059",
+   "deviceName": "CTS-LT-0059",
+   "operatingSystem": "Windows",
+   "osVersion": "10.0.26100.4211",
+   "managementAgent": "configurationManagerClientMdm",
+   "complianceState": "compliant",
+   "lastSyncDateTime": "2026-10-17T16:00:00Z",
+   "serialNumber": "DEMO000059",
+   "configurationManagerClientEnabledFeatures": {
+    "compliancePolicy": true,
+    "deviceConfiguration": false,
+    "windowsUpdateForBusiness": false,
+    "endpointProtection": false,
+    "resourceAccess": true,
+    "officeApps": false,
+    "modernApps": false
+   }
+  },
+  {
+   "id": "00000000-0000-4000-9000-000000000060",
+   "deviceName": "CTS-LT-0060",
+   "operatingSystem": "Windows",
+   "osVersion": "10.0.22631.4066",
+   "managementAgent": "configurationManagerClientMdm",
+   "complianceState": "compliant",
+   "lastSyncDateTime": "2026-10-18T14:00:00Z",
+   "serialNumber": "DEMO000060",
+   "configurationManagerClientEnabledFeatures": {
+    "compliancePolicy": true,
+    "deviceConfiguration": false,
+    "windowsUpdateForBusiness": false,
+    "endpointProtection": false,
+    "resourceAccess": true,
+    "officeApps": false,
+    "modernApps": false
+   }
+  },
+  {
+   "id": "00000000-0000-4000-9000-000000000062",
+   "deviceName": "CTS-LT-0062",
+   "operatingSystem": "Windows",
+   "osVersion": "10.0.22631.4201",
+   "managementAgent": "configurationManagerClientMdm",
+   "complianceState": "compliant",
+   "lastSyncDateTime": "2026-10-18T22:00:00Z",
+   "serialNumber": "DEMO000062",
+   "configurationManagerClientEnabledFeatures": {
+    "compliancePolicy": true,
+    "deviceConfiguration": false,
+    "windowsUpdateForBusiness": false,
+    "endpointProtection": false,
+    "resourceAccess": true,
+    "officeApps": false,
+    "modernApps": false
+   }
+  },
+  {
+   "id": "00000000-0000-4000-9000-000000000063",
+   "deviceName": "CTS-DT-0063",
+   "operatingSystem": "Windows",
+   "osVersion": "10.0.19045.5011",
+   "managementAgent": "configurationManagerClientMdm",
+   "complianceState": "compliant",
+   "lastSyncDateTime": "2026-10-19T03:00:00Z",
+   "serialNumber": "DEMO000063",
+   "configurationManagerClientEnabledFeatures": {
+    "compliancePolicy": true,
+    "deviceConfiguration": false,
+    "windowsUpdateForBusiness": false,
+    "endpointProtection": false,
+    "resourceAccess": true,
+    "officeApps": false,
+    "modernApps": false
+   }
+  },
+  {
+   "id": "00000000-0000-4000-9000-000000000064",
+   "deviceName": "CTS-LT-0064",
+   "operatingSystem": "Windows",
+   "osVersion": "10.0.19045.5011",
+   "managementAgent": "configurationManagerClientMdm",
+   "complianceState": "compliant",
+   "lastSyncDateTime": "2026-10-17T23:00:00Z",
+   "serialNumber": "DEMO000064",
+   "configurationManagerClientEnabledFeatures": {
+    "compliancePolicy": true,
+    "deviceConfiguration": false,
+    "windowsUpdateForBusiness": false,
+    "endpointProtection": false,
+    "resourceAccess": true,
+    "officeApps": false,
+    "modernApps": false
+   }
+  },
+  {
+   "id": "00000000-0000-4000-9000-000000000065",
+   "deviceName": "CTS-LT-0065",
+   "operatingSystem": "Windows",
+   "osVersion": "10.0.19045.5011",
+   "managementAgent": "configurationManagerClientMdm",
+   "complianceState": "compliant",
+   "lastSyncDateTime": "2026-10-19T03:00:00Z",
+   "serialNumber": "DEMO000065",
+   "configurationManagerClientEnabledFeatures": {
+    "compliancePolicy": true,
+    "deviceConfiguration": false,
+    "windowsUpdateForBusiness": false,
+    "endpointProtection": false,
+    "resourceAccess": true,
+    "officeApps": false,
+    "modernApps": false
+   }
+  },
+  {
+   "id": "00000000-0000-4000-9000-000000000066",
+   "deviceName": "CTS-LT-0066",
+   "operatingSystem": "Windows",
+   "osVersion": "10.0.22631.4278",
+   "managementAgent": "configurationManagerClientMdm",
+   "complianceState": "compliant",
+   "lastSyncDateTime": "2026-10-18T11:00:00Z",
+   "serialNumber": "DEMO000066",
+   "configurationManagerClientEnabledFeatures": {
+    "compliancePolicy": true,
+    "deviceConfiguration": false,
+    "windowsUpdateForBusiness": false,
+    "endpointProtection": false,
+    "resourceAccess": true,
+    "officeApps": false,
+    "modernApps": false
+   }
+  },
+  {
+   "id": "00000000-0000-4000-9000-000000000067",
+   "deviceName": "CTS-LT-0067",
+   "operatingSystem": "Windows",
+   "osVersion": "10.0.22631.4258",
+   "managementAgent": "configurationManagerClientMdm",
+   "complianceState": "compliant",
+   "lastSyncDateTime": "2026-10-18T01:00:00Z",
+   "serialNumber": "DEMO000067",
+   "configurationManagerClientEnabledFeatures": {
+    "compliancePolicy": true,
+    "deviceConfiguration": false,
+    "windowsUpdateForBusiness": false,
+    "endpointProtection": false,
+    "resourceAccess": true,
+    "officeApps": false,
+    "modernApps": false
+   }
+  },
+  {
+   "id": "00000000-0000-4000-9000-000000000068",
+   "deviceName": "CTS-LT-0068",
+   "operatingSystem": "Windows",
+   "osVersion": "10.0.19045.5011",
+   "managementAgent": "configurationManagerClientMdm",
+   "complianceState": "compliant",
+   "lastSyncDateTime": "2026-10-18T14:00:00Z",
+   "serialNumber": "DEMO000068",
+   "configurationManagerClientEnabledFeatures": {
+    "compliancePolicy": true,
+    "deviceConfiguration": false,
+    "windowsUpdateForBusiness": false,
+    "endpointProtection": false,
+    "resourceAccess": true,
+    "officeApps": false,
+    "modernApps": false
+   }
+  },
+  {
+   "id": "00000000-0000-4000-9000-000000000069",
+   "deviceName": "CTS-LT-0069",
+   "operatingSystem": "Windows",
+   "osVersion": "10.0.22631.4309",
+   "managementAgent": "configurationManagerClientMdm",
+   "complianceState": "compliant",
+   "lastSyncDateTime": "2026-10-18T16:00:00Z",
+   "serialNumber": "DEMO000069",
+   "configurationManagerClientEnabledFeatures": {
+    "compliancePolicy": true,
+    "deviceConfiguration": false,
+    "windowsUpdateForBusiness": false,
+    "endpointProtection": false,
+    "resourceAccess": true,
+    "officeApps": false,
+    "modernApps": false
+   }
+  },
+  {
+   "id": "00000000-0000-4000-9000-000000000070",
+   "deviceName": "CTS-LT-0070",
+   "operatingSystem": "Windows",
+   "osVersion": "10.0.22631.4074",
+   "managementAgent": "configurationManagerClientMdm",
+   "complianceState": "compliant",
+   "lastSyncDateTime": "2026-10-17T21:00:00Z",
+   "serialNumber": "DEMO000070",
+   "configurationManagerClientEnabledFeatures": {
+    "compliancePolicy": true,
+    "deviceConfiguration": false,
+    "windowsUpdateForBusiness": false,
+    "endpointProtection": false,
+    "resourceAccess": true,
+    "officeApps": false,
+    "modernApps": false
+   }
+  },
+  {
+   "id": "00000000-0000-4000-9000-000000000071",
+   "deviceName": "CTS-LT-0071",
+   "operatingSystem": "Windows",
+   "osVersion": "10.0.26100.4120",
+   "managementAgent": "configurationManagerClientMdm",
+   "complianceState": "compliant",
+   "lastSyncDateTime": "2026-10-18T02:00:00Z",
+   "serialNumber": "DEMO000071",
+   "configurationManagerClientEnabledFeatures": {
+    "compliancePolicy": true,
+    "deviceConfiguration": false,
+    "windowsUpdateForBusiness": false,
+    "endpointProtection": false,
+    "resourceAccess": true,
+    "officeApps": false,
+    "modernApps": false
+   }
+  },
+  {
+   "id": "00000000-0000-4000-9000-000000000072",
+   "deviceName": "CTS-LT-0072",
+   "operatingSystem": "Windows",
+   "osVersion": "10.0.19045.5011",
+   "managementAgent": "configurationManagerClientMdm",
+   "complianceState": "noncompliant",
+   "lastSyncDateTime": "2026-10-19T02:00:00Z",
+   "serialNumber": "DEMO000072",
+   "configurationManagerClientEnabledFeatures": {
+    "compliancePolicy": true,
+    "deviceConfiguration": false,
+    "windowsUpdateForBusiness": false,
+    "endpointProtection": false,
+    "resourceAccess": true,
+    "officeApps": false,
+    "modernApps": false
+   }
+  },
+  {
+   "id": "00000000-0000-4000-9000-000000000073",
+   "deviceName": "CTS-LT-0073",
+   "operatingSystem": "Windows",
+   "osVersion": "10.0.22631.4389",
+   "managementAgent": "configurationManagerClientMdm",
+   "complianceState": "compliant",
+   "lastSyncDateTime": "2026-10-17T20:00:00Z",
+   "serialNumber": "DEMO000073",
+   "configurationManagerClientEnabledFeatures": {
+    "compliancePolicy": true,
+    "deviceConfiguration": false,
+    "windowsUpdateForBusiness": false,
+    "endpointProtection": false,
+    "resourceAccess": true,
+    "officeApps": false,
+    "modernApps": false
+   }
+  },
+  {
+   "id": "00000000-0000-4000-9000-000000000074",
+   "deviceName": "CTS-LT-0074",
+   "operatingSystem": "Windows",
+   "osVersion": "10.0.22631.4343",
+   "managementAgent": "configurationManagerClientMdm",
+   "complianceState": "compliant",
+   "lastSyncDateTime": "2026-10-17T20:00:00Z",
+   "serialNumber": "DEMO000074",
+   "configurationManagerClientEnabledFeatures": {
+    "compliancePolicy": true,
+    "deviceConfiguration": false,
+    "windowsUpdateForBusiness": false,
+    "endpointProtection": false,
+    "resourceAccess": true,
+    "officeApps": false,
+    "modernApps": false
+   }
+  },
+  {
+   "id": "00000000-0000-4000-9000-000000000075",
+   "deviceName": "CTS-LT-0075",
+   "operatingSystem": "Windows",
+   "osVersion": "10.0.22631.4021",
+   "managementAgent": "configurationManagerClientMdm",
+   "complianceState": "compliant",
+   "lastSyncDateTime": "2026-10-18T20:00:00Z",
+   "serialNumber": "DEMO000075",
+   "configurationManagerClientEnabledFeatures": {
+    "compliancePolicy": true,
+    "deviceConfiguration": false,
+    "windowsUpdateForBusiness": false,
+    "endpointProtection": false,
+    "resourceAccess": true,
+    "officeApps": false,
+    "modernApps": false
+   }
+  },
+  {
+   "id": "00000000-0000-4000-9000-000000000076",
+   "deviceName": "CTS-DT-0076",
+   "operatingSystem": "Windows",
+   "osVersion": "10.0.22631.4333",
+   "managementAgent": "configurationManagerClientMdm",
+   "complianceState": "compliant",
+   "lastSyncDateTime": "2026-10-18T00:00:00Z",
+   "serialNumber": "DEMO000076",
+   "configurationManagerClientEnabledFeatures": {
+    "compliancePolicy": true,
+    "deviceConfiguration": false,
+    "windowsUpdateForBusiness": false,
+    "endpointProtection": false,
+    "resourceAccess": true,
+    "officeApps": false,
+    "modernApps": false
+   }
+  },
+  {
+   "id": "00000000-0000-4000-9000-000000000077",
+   "deviceName": "CTS-LT-0077",
+   "operatingSystem": "Windows",
+   "osVersion": "10.0.22631.4319",
+   "managementAgent": "configurationManagerClientMdm",
+   "complianceState": "compliant",
+   "lastSyncDateTime": "2026-10-18T04:00:00Z",
+   "serialNumber": "DEMO000077",
+   "configurationManagerClientEnabledFeatures": {
+    "compliancePolicy": true,
+    "deviceConfiguration": false,
+    "windowsUpdateForBusiness": false,
+    "endpointProtection": false,
+    "resourceAccess": true,
+    "officeApps": false,
+    "modernApps": false
+   }
+  },
+  {
+   "id": "00000000-0000-4000-9000-000000000078",
+   "deviceName": "CTS-LT-0078",
+   "operatingSystem": "Windows",
+   "osVersion": "10.0.22631.4277",
+   "managementAgent": "configurationManagerClientMdm",
+   "complianceState": "compliant",
+   "lastSyncDateTime": "2026-10-18T19:00:00Z",
+   "serialNumber": "DEMO000078",
+   "configurationManagerClientEnabledFeatures": {
+    "compliancePolicy": true,
+    "deviceConfiguration": false,
+    "windowsUpdateForBusiness": false,
+    "endpointProtection": false,
+    "resourceAccess": true,
+    "officeApps": false,
+    "modernApps": false
+   }
+  },
+  {
+   "id": "00000000-0000-4000-9000-000000000079",
+   "deviceName": "CTS-LT-0079",
+   "operatingSystem": "Windows",
+   "osVersion": "10.0.19045.5011",
+   "managementAgent": "configurationManagerClientMdm",
+   "complianceState": "compliant",
+   "lastSyncDateTime": "2026-10-18T04:00:00Z",
+   "serialNumber": "DEMO000079",
+   "configurationManagerClientEnabledFeatures": {
+    "compliancePolicy": true,
+    "deviceConfiguration": false,
+    "windowsUpdateForBusiness": false,
+    "endpointProtection": false,
+    "resourceAccess": true,
+    "officeApps": false,
+    "modernApps": false
+   }
+  },
+  {
+   "id": "00000000-0000-4000-9000-000000000080",
+   "deviceName": "CTS-DT-0080",
+   "operatingSystem": "Windows",
+   "osVersion": "10.0.26100.4020",
+   "managementAgent": "configurationManagerClientMdm",
+   "complianceState": "compliant",
+   "lastSyncDateTime": "2026-10-17T23:00:00Z",
+   "serialNumber": "DEMO000080",
+   "configurationManagerClientEnabledFeatures": {
+    "compliancePolicy": true,
+    "deviceConfiguration": false,
+    "windowsUpdateForBusiness": false,
+    "endpointProtection": false,
+    "resourceAccess": true,
+    "officeApps": false,
+    "modernApps": false
+   }
+  },
+  {
+   "id": "00000000-0000-4000-9000-000000000082",
+   "deviceName": "CTS-LT-0082",
+   "operatingSystem": "Windows",
+   "osVersion": "10.0.22631.4047",
+   "managementAgent": "configurationManagerClientMdm",
+   "complianceState": "compliant",
+   "lastSyncDateTime": "2026-10-18T17:00:00Z",
+   "serialNumber": "DEMO000082",
+   "configurationManagerClientEnabledFeatures": {
+    "compliancePolicy": true,
+    "deviceConfiguration": false,
+    "windowsUpdateForBusiness": false,
+    "endpointProtection": false,
+    "resourceAccess": true,
+    "officeApps": false,
+    "modernApps": false
+   }
+  },
+  {
+   "id": "00000000-0000-4000-9000-000000000083",
+   "deviceName": "CTS-DT-0083",
+   "operatingSystem": "Windows",
+   "osVersion": "10.0.22631.4126",
+   "managementAgent": "configurationManagerClientMdm",
+   "complianceState": "compliant",
+   "lastSyncDateTime": "2026-10-17T16:00:00Z",
+   "serialNumber": "DEMO000083",
+   "configurationManagerClientEnabledFeatures": {
+    "compliancePolicy": true,
+    "deviceConfiguration": false,
+    "windowsUpdateForBusiness": false,
+    "endpointProtection": false,
+    "resourceAccess": true,
+    "officeApps": false,
+    "modernApps": false
+   }
+  },
+  {
+   "id": "00000000-0000-4000-9000-000000000084",
+   "deviceName": "CTS-LT-0084",
+   "operatingSystem": "Windows",
+   "osVersion": "10.0.22631.4302",
+   "managementAgent": "configurationManagerClientMdm",
+   "complianceState": "compliant",
+   "lastSyncDateTime": "2026-10-18T12:00:00Z",
+   "serialNumber": "DEMO000084",
+   "configurationManagerClientEnabledFeatures": {
+    "compliancePolicy": true,
+    "deviceConfiguration": false,
+    "windowsUpdateForBusiness": false,
+    "endpointProtection": false,
+    "resourceAccess": true,
+    "officeApps": false,
+    "modernApps": false
+   }
+  },
+  {
+   "id": "00000000-0000-4000-9000-000000000085",
+   "deviceName": "CTS-LT-0085",
+   "operatingSystem": "Windows",
+   "osVersion": "10.0.19045.5011",
+   "managementAgent": "configurationManagerClientMdm",
+   "complianceState": "noncompliant",
+   "lastSyncDateTime": "2026-10-18T19:00:00Z",
+   "serialNumber": "DEMO000085",
+   "configurationManagerClientEnabledFeatures": {
+    "compliancePolicy": true,
+    "deviceConfiguration": false,
+    "windowsUpdateForBusiness": false,
+    "endpointProtection": false,
+    "resourceAccess": true,
+    "officeApps": false,
+    "modernApps": false
+   }
+  },
+  {
+   "id": "00000000-0000-4000-9000-000000000086",
+   "deviceName": "CTS-LT-0086",
+   "operatingSystem": "Windows",
+   "osVersion": "10.0.26100.4111",
+   "managementAgent": "configurationManagerClientMdm",
+   "complianceState": "compliant",
+   "lastSyncDateTime": "2026-10-18T13:00:00Z",
+   "serialNumber": "DEMO000086",
+   "configurationManagerClientEnabledFeatures": {
+    "compliancePolicy": true,
+    "deviceConfiguration": false,
+    "windowsUpdateForBusiness": false,
+    "endpointProtection": false,
+    "resourceAccess": true,
+    "officeApps": false,
+    "modernApps": false
+   }
+  },
+  {
+   "id": "00000000-0000-4000-9000-000000000087",
+   "deviceName": "CTS-DT-0087",
+   "operatingSystem": "Windows",
+   "osVersion": "10.0.19045.5011",
+   "managementAgent": "configurationManagerClientMdm",
+   "complianceState": "compliant",
+   "lastSyncDateTime": "2026-10-18T14:00:00Z",
+   "serialNumber": "DEMO000087",
+   "configurationManagerClientEnabledFeatures": {
+    "compliancePolicy": true,
+    "deviceConfiguration": false,
+    "windowsUpdateForBusiness": false,
+    "endpointProtection": false,
+    "resourceAccess": true,
+    "officeApps": false,
+    "modernApps": false
+   }
+  },
+  {
+   "id": "00000000-0000-4000-9000-000000000088",
+   "deviceName": "CTS-LT-0088",
+   "operatingSystem": "Windows",
+   "osVersion": "10.0.19045.5011",
+   "managementAgent": "mdm",
+   "complianceState": "compliant",
+   "lastSyncDateTime": "2026-10-18T07:00:00Z",
+   "serialNumber": "DEMO000088",
+   "configurationManagerClientEnabledFeatures": {
+    "compliancePolicy": false,
+    "deviceConfiguration": false,
+    "windowsUpdateForBusiness": false,
+    "endpointProtection": false,
+    "resourceAccess": false,
+    "officeApps": false,
+    "modernApps": false
+   }
+  },
+  {
+   "id": "00000000-0000-4000-9000-000000000089",
+   "deviceName": "CTS-LT-0089",
+   "operatingSystem": "Windows",
+   "osVersion": "10.0.19045.5011",
+   "managementAgent": "configurationManagerClientMdm",
+   "complianceState": "compliant",
+   "lastSyncDateTime": "2026-10-19T01:00:00Z",
+   "serialNumber": "DEMO000089",
+   "configurationManagerClientEnabledFeatures": {
+    "compliancePolicy": true,
+    "deviceConfiguration": false,
+    "windowsUpdateForBusiness": false,
+    "endpointProtection": false,
+    "resourceAccess": true,
+    "officeApps": false,
+    "modernApps": false
+   }
+  },
+  {
+   "id": "00000000-0000-4000-9000-000000000090",
+   "deviceName": "CTS-DT-0090",
+   "operatingSystem": "Windows",
+   "osVersion": "10.0.19045.5011",
+   "managementAgent": "configurationManagerClientMdm",
+   "complianceState": "compliant",
+   "lastSyncDateTime": "2026-10-18T15:00:00Z",
+   "serialNumber": "DEMO000090",
+   "configurationManagerClientEnabledFeatures": {
+    "compliancePolicy": true,
+    "deviceConfiguration": false,
+    "windowsUpdateForBusiness": false,
+    "endpointProtection": false,
+    "resourceAccess": true,
+    "officeApps": false,
+    "modernApps": false
+   }
+  },
+  {
+   "id": "00000000-0000-4000-9000-000000000091",
+   "deviceName": "CTS-LT-0091",
+   "operatingSystem": "Windows",
+   "osVersion": "10.0.22631.4223",
+   "managementAgent": "configurationManagerClientMdm",
+   "complianceState": "noncompliant",
+   "lastSyncDateTime": "2026-10-17T16:00:00Z",
+   "serialNumber": "DEMO000091",
+   "configurationManagerClientEnabledFeatures": {
+    "compliancePolicy": true,
+    "deviceConfiguration": false,
+    "windowsUpdateForBusiness": false,
+    "endpointProtection": false,
+    "resourceAccess": true,
+    "officeApps": false,
+    "modernApps": false
+   }
+  },
+  {
+   "id": "00000000-0000-4000-9000-000000000092",
+   "deviceName": "CTS-LT-0092",
+   "operatingSystem": "Windows",
+   "osVersion": "10.0.22631.4382",
+   "managementAgent": "configurationManagerClientMdm",
+   "complianceState": "compliant",
+   "lastSyncDateTime": "2026-10-18T05:00:00Z",
+   "serialNumber": "DEMO000092",
+   "configurationManagerClientEnabledFeatures": {
+    "compliancePolicy": true,
+    "deviceConfiguration": false,
+    "windowsUpdateForBusiness": false,
+    "endpointProtection": false,
+    "resourceAccess": true,
+    "officeApps": false,
+    "modernApps": false
+   }
+  },
+  {
+   "id": "00000000-0000-4000-9000-000000000093",
+   "deviceName": "CTS-LT-0093",
+   "operatingSystem": "Windows",
+   "osVersion": "10.0.19045.5011",
+   "managementAgent": "configurationManagerClientMdm",
+   "complianceState": "compliant",
+   "lastSyncDateTime": "2026-10-17T17:00:00Z",
+   "serialNumber": "DEMO000093",
+   "configurationManagerClientEnabledFeatures": {
+    "compliancePolicy": true,
+    "deviceConfiguration": false,
+    "windowsUpdateForBusiness": false,
+    "endpointProtection": false,
+    "resourceAccess": true,
+    "officeApps": false,
+    "modernApps": false
+   }
+  },
+  {
+   "id": "00000000-0000-4000-9000-000000000094",
+   "deviceName": "CTS-LT-0094",
+   "operatingSystem": "Windows",
+   "osVersion": "10.0.26100.4098",
+   "managementAgent": "configurationManagerClientMdm",
+   "complianceState": "compliant",
+   "lastSyncDateTime": "2026-10-18T01:00:00Z",
+   "serialNumber": "DEMO000094",
+   "configurationManagerClientEnabledFeatures": {
+    "compliancePolicy": true,
+    "deviceConfiguration": false,
+    "windowsUpdateForBusiness": false,
+    "endpointProtection": false,
+    "resourceAccess": true,
+    "officeApps": false,
+    "modernApps": false
+   }
+  },
+  {
+   "id": "00000000-0000-4000-9000-000000000095",
+   "deviceName": "CTS-LT-0095",
+   "operatingSystem": "Windows",
+   "osVersion": "10.0.26100.4063",
+   "managementAgent": "configurationManagerClientMdm",
+   "complianceState": "compliant",
+   "lastSyncDateTime": "2026-10-18T13:00:00Z",
+   "serialNumber": "DEMO000095",
+   "configurationManagerClientEnabledFeatures": {
+    "compliancePolicy": true,
+    "deviceConfiguration": false,
+    "windowsUpdateForBusiness": false,
+    "endpointProtection": false,
+    "resourceAccess": true,
+    "officeApps": false,
+    "modernApps": false
+   }
+  },
+  {
+   "id": "00000000-0000-4000-9000-000000000097",
+   "deviceName": "CTS-LT-0097",
+   "operatingSystem": "Windows",
+   "osVersion": "10.0.26100.4058",
+   "managementAgent": "configurationManagerClientMdm",
+   "complianceState": "compliant",
+   "lastSyncDateTime": "2026-10-19T04:00:00Z",
+   "serialNumber": "DEMO000097",
+   "configurationManagerClientEnabledFeatures": {
+    "compliancePolicy": true,
+    "deviceConfiguration": false,
+    "windowsUpdateForBusiness": false,
+    "endpointProtection": false,
+    "resourceAccess": true,
+    "officeApps": false,
+    "modernApps": false
+   }
+  },
+  {
+   "id": "00000000-0000-4000-9000-000000000098",
+   "deviceName": "CTS-DT-0098",
+   "operatingSystem": "Windows",
+   "osVersion": "10.0.19045.5011",
+   "managementAgent": "mdm",
+   "complianceState": "compliant",
+   "lastSyncDateTime": "2026-10-17T20:00:00Z",
+   "serialNumber": "DEMO000098",
+   "configurationManagerClientEnabledFeatures": {
+    "compliancePolicy": false,
+    "deviceConfiguration": false,
+    "windowsUpdateForBusiness": false,
+    "endpointProtection": false,
+    "resourceAccess": false,
+    "officeApps": false,
+    "modernApps": false
+   }
+  },
+  {
+   "id": "00000000-0000-4000-9000-000000000099",
+   "deviceName": "CTS-LT-0099",
+   "operatingSystem": "Windows",
+   "osVersion": "10.0.19045.5011",
+   "managementAgent": "configurationManagerClientMdm",
+   "complianceState": "compliant",
+   "lastSyncDateTime": "2026-10-18T06:00:00Z",
+   "serialNumber": "DEMO000099",
+   "configurationManagerClientEnabledFeatures": {
+    "compliancePolicy": true,
+    "deviceConfiguration": false,
+    "windowsUpdateForBusiness": false,
+    "endpointProtection": false,
+    "resourceAccess": true,
+    "officeApps": false,
+    "modernApps": false
+   }
+  },
+  {
+   "id": "00000000-0000-4000-9000-000000000100",
+   "deviceName": "CTS-LT-0100",
+   "operatingSystem": "Windows",
+   "osVersion": "10.0.26100.4257",
+   "managementAgent": "configurationManagerClientMdm",
+   "complianceState": "compliant",
+   "lastSyncDateTime": "2026-10-18T20:00:00Z",
+   "serialNumber": "DEMO000100",
+   "configurationManagerClientEnabledFeatures": {
+    "compliancePolicy": true,
+    "deviceConfiguration": false,
+    "windowsUpdateForBusiness": false,
+    "endpointProtection": false,
+    "resourceAccess": true,
+    "officeApps": false,
+    "modernApps": false
+   }
+  },
+  {
+   "id": "00000000-0000-4000-9000-000000000101",
+   "deviceName": "CTS-LT-0101",
+   "operatingSystem": "Windows",
+   "osVersion": "10.0.22631.4136",
+   "managementAgent": "mdm",
+   "complianceState": "compliant",
+   "lastSyncDateTime": "2026-10-19T04:00:00Z",
+   "serialNumber": "DEMO000101",
+   "configurationManagerClientEnabledFeatures": {
+    "compliancePolicy": false,
+    "deviceConfiguration": false,
+    "windowsUpdateForBusiness": false,
+    "endpointProtection": false,
+    "resourceAccess": false,
+    "officeApps": false,
+    "modernApps": false
+   }
+  },
+  {
+   "id": "00000000-0000-4000-9000-000000000102",
+   "deviceName": "CTS-LT-0102",
+   "operatingSystem": "Windows",
+   "osVersion": "10.0.22631.4019",
+   "managementAgent": "configurationManagerClientMdm",
+   "complianceState": "compliant",
+   "lastSyncDateTime": "2026-10-18T18:00:00Z",
+   "serialNumber": "DEMO000102",
+   "configurationManagerClientEnabledFeatures": {
+    "compliancePolicy": true,
+    "deviceConfiguration": false,
+    "windowsUpdateForBusiness": false,
+    "endpointProtection": false,
+    "resourceAccess": true,
+    "officeApps": false,
+    "modernApps": false
+   }
+  },
+  {
+   "id": "00000000-0000-4000-9000-000000000103",
+   "deviceName": "CTS-LT-0103",
+   "operatingSystem": "Windows",
+   "osVersion": "10.0.19045.5011",
+   "managementAgent": "configurationManagerClientMdm",
+   "complianceState": "compliant",
+   "lastSyncDateTime": "2026-10-17T22:00:00Z",
+   "serialNumber": "DEMO000103",
+   "configurationManagerClientEnabledFeatures": {
+    "compliancePolicy": true,
+    "deviceConfiguration": false,
+    "windowsUpdateForBusiness": false,
+    "endpointProtection": false,
+    "resourceAccess": true,
+    "officeApps": false,
+    "modernApps": false
+   }
+  },
+  {
+   "id": "00000000-0000-4000-9000-000000000104",
+   "deviceName": "CTS-LT-0104",
+   "operatingSystem": "Windows",
+   "osVersion": "10.0.22631.4321",
+   "managementAgent": "configurationManagerClientMdm",
+   "complianceState": "compliant",
+   "lastSyncDateTime": "2026-10-18T23:00:00Z",
+   "serialNumber": "DEMO000104",
+   "configurationManagerClientEnabledFeatures": {
+    "compliancePolicy": true,
+    "deviceConfiguration": false,
+    "windowsUpdateForBusiness": false,
+    "endpointProtection": false,
+    "resourceAccess": true,
+    "officeApps": false,
+    "modernApps": false
+   }
+  },
+  {
+   "id": "00000000-0000-4000-9000-000000000106",
+   "deviceName": "CTS-LT-0106",
+   "operatingSystem": "Windows",
+   "osVersion": "10.0.19045.5011",
+   "managementAgent": "configurationManagerClientMdm",
+   "complianceState": "compliant",
+   "lastSyncDateTime": "2026-10-19T04:00:00Z",
+   "serialNumber": "DEMO000106",
+   "configurationManagerClientEnabledFeatures": {
+    "compliancePolicy": true,
+    "deviceConfiguration": false,
+    "windowsUpdateForBusiness": false,
+    "endpointProtection": false,
+    "resourceAccess": true,
+    "officeApps": false,
+    "modernApps": false
+   }
+  },
+  {
+   "id": "00000000-0000-4000-9000-000000000108",
+   "deviceName": "CTS-LT-0108",
+   "operatingSystem": "Windows",
+   "osVersion": "10.0.22631.4131",
+   "managementAgent": "configurationManagerClientMdm",
+   "complianceState": "noncompliant",
+   "lastSyncDateTime": "2026-10-18T13:00:00Z",
+   "serialNumber": "DEMO000108",
+   "configurationManagerClientEnabledFeatures": {
+    "compliancePolicy": true,
+    "deviceConfiguration": false,
+    "windowsUpdateForBusiness": false,
+    "endpointProtection": false,
+    "resourceAccess": true,
+    "officeApps": false,
+    "modernApps": false
+   }
+  },
+  {
+   "id": "00000000-0000-4000-9000-000000000109",
+   "deviceName": "CTS-LT-0109",
+   "operatingSystem": "Windows",
+   "osVersion": "10.0.22631.4020",
+   "managementAgent": "configurationManagerClientMdm",
+   "complianceState": "compliant",
+   "lastSyncDateTime": "2026-10-19T07:00:00Z",
+   "serialNumber": "DEMO000109",
+   "configurationManagerClientEnabledFeatures": {
+    "compliancePolicy": true,
+    "deviceConfiguration": false,
+    "windowsUpdateForBusiness": false,
+    "endpointProtection": false,
+    "resourceAccess": true,
+    "officeApps": false,
+    "modernApps": false
+   }
+  },
+  {
+   "id": "00000000-0000-4000-9000-000000000110",
+   "deviceName": "CTS-LT-0110",
+   "operatingSystem": "Windows",
+   "osVersion": "10.0.26100.4157",
+   "managementAgent": "configurationManagerClientMdm",
+   "complianceState": "compliant",
+   "lastSyncDateTime": "2026-10-19T07:00:00Z",
+   "serialNumber": "DEMO000110",
+   "configurationManagerClientEnabledFeatures": {
+    "compliancePolicy": true,
+    "deviceConfiguration": false,
+    "windowsUpdateForBusiness": false,
+    "endpointProtection": false,
+    "resourceAccess": true,
+    "officeApps": false,
+    "modernApps": false
+   }
+  },
+  {
+   "id": "00000000-0000-4000-9000-000000000111",
+   "deviceName": "CTS-LT-0111",
+   "operatingSystem": "Windows",
+   "osVersion": "10.0.22631.4320",
+   "managementAgent": "configurationManagerClientMdm",
+   "complianceState": "compliant",
+   "lastSyncDateTime": "2026-10-19T06:00:00Z",
+   "serialNumber": "DEMO000111",
+   "configurationManagerClientEnabledFeatures": {
+    "compliancePolicy": true,
+    "deviceConfiguration": false,
+    "windowsUpdateForBusiness": false,
+    "endpointProtection": false,
+    "resourceAccess": true,
+    "officeApps": false,
+    "modernApps": false
+   }
+  },
+  {
+   "id": "00000000-0000-4000-9000-000000000112",
+   "deviceName": "CTS-LT-0112",
+   "operatingSystem": "Windows",
+   "osVersion": "10.0.26100.4108",
+   "managementAgent": "configurationManagerClientMdm",
+   "complianceState": "compliant",
+   "lastSyncDateTime": "2026-10-19T02:00:00Z",
+   "serialNumber": "DEMO000112",
+   "configurationManagerClientEnabledFeatures": {
+    "compliancePolicy": true,
+    "deviceConfiguration": false,
+    "windowsUpdateForBusiness": false,
+    "endpointProtection": false,
+    "resourceAccess": true,
+    "officeApps": false,
+    "modernApps": false
+   }
+  },
+  {
+   "id": "00000000-0000-4000-9000-000000000113",
+   "deviceName": "CTS-LT-0113",
+   "operatingSystem": "Windows",
+   "osVersion": "10.0.19045.5011",
+   "managementAgent": "configurationManagerClientMdm",
+   "complianceState": "compliant",
+   "lastSyncDateTime": "2026-10-19T07:00:00Z",
+   "serialNumber": "DEMO000113",
+   "configurationManagerClientEnabledFeatures": {
+    "compliancePolicy": true,
+    "deviceConfiguration": false,
+    "windowsUpdateForBusiness": false,
+    "endpointProtection": false,
+    "resourceAccess": true,
+    "officeApps": false,
+    "modernApps": false
+   }
+  },
+  {
+   "id": "00000000-0000-4000-9000-000000000114",
+   "deviceName": "CTS-LT-0114",
+   "operatingSystem": "Windows",
+   "osVersion": "10.0.19045.5011",
+   "managementAgent": "configurationManagerClientMdm",
+   "complianceState": "compliant",
+   "lastSyncDateTime": "2026-10-18T03:00:00Z",
+   "serialNumber": "DEMO000114",
+   "configurationManagerClientEnabledFeatures": {
+    "compliancePolicy": true,
+    "deviceConfiguration": false,
+    "windowsUpdateForBusiness": false,
+    "endpointProtection": false,
+    "resourceAccess": true,
+    "officeApps": false,
+    "modernApps": false
+   }
+  },
+  {
+   "id": "00000000-0000-4000-9000-000000000115",
+   "deviceName": "CTS-LT-0115",
+   "operatingSystem": "Windows",
+   "osVersion": "10.0.26100.4187",
+   "managementAgent": "configurationManagerClientMdm",
+   "complianceState": "compliant",
+   "lastSyncDateTime": "2026-10-17T19:00:00Z",
+   "serialNumber": "DEMO000115",
+   "configurationManagerClientEnabledFeatures": {
+    "compliancePolicy": true,
+    "deviceConfiguration": false,
+    "windowsUpdateForBusiness": false,
+    "endpointProtection": false,
+    "resourceAccess": true,
+    "officeApps": false,
+    "modernApps": false
+   }
+  },
+  {
+   "id": "00000000-0000-4000-9000-000000000116",
+   "deviceName": "CTS-LT-0116",
+   "operatingSystem": "Windows",
+   "osVersion": "10.0.22631.4108",
+   "managementAgent": "configurationManagerClientMdm",
+   "complianceState": "compliant",
+   "lastSyncDateTime": "2026-10-18T11:00:00Z",
+   "serialNumber": "DEMO000116",
+   "configurationManagerClientEnabledFeatures": {
+    "compliancePolicy": true,
+    "deviceConfiguration": false,
+    "windowsUpdateForBusiness": false,
+    "endpointProtection": false,
+    "resourceAccess": true,
+    "officeApps": false,
+    "modernApps": false
+   }
+  },
+  {
+   "id": "00000000-0000-4000-9000-000000000117",
+   "deviceName": "CTS-LT-0117",
+   "operatingSystem": "Windows",
+   "osVersion": "10.0.22631.4273",
+   "managementAgent": "configurationManagerClientMdm",
+   "complianceState": "compliant",
+   "lastSyncDateTime": "2026-10-18T11:00:00Z",
+   "serialNumber": "DEMO000117",
+   "configurationManagerClientEnabledFeatures": {
+    "compliancePolicy": true,
+    "deviceConfiguration": false,
+    "windowsUpdateForBusiness": false,
+    "endpointProtection": false,
+    "resourceAccess": true,
+    "officeApps": false,
+    "modernApps": false
+   }
+  },
+  {
+   "id": "00000000-0000-4000-9000-000000000118",
+   "deviceName": "CTS-DT-0118",
+   "operatingSystem": "Windows",
+   "osVersion": "10.0.19045.5011",
+   "managementAgent": "configurationManagerClientMdm",
+   "complianceState": "compliant",
+   "lastSyncDateTime": "2026-10-18T04:00:00Z",
+   "serialNumber": "DEMO000118",
+   "configurationManagerClientEnabledFeatures": {
+    "compliancePolicy": true,
+    "deviceConfiguration": false,
+    "windowsUpdateForBusiness": false,
+    "endpointProtection": false,
+    "resourceAccess": true,
+    "officeApps": false,
+    "modernApps": false
+   }
+  },
+  {
+   "id": "00000000-0000-4000-9000-000000000119",
+   "deviceName": "CTS-LT-0119",
+   "operatingSystem": "Windows",
+   "osVersion": "10.0.22631.4138",
+   "managementAgent": "configurationManagerClientMdm",
+   "complianceState": "compliant",
+   "lastSyncDateTime": "2026-10-17T23:00:00Z",
+   "serialNumber": "DEMO000119",
+   "configurationManagerClientEnabledFeatures": {
+    "compliancePolicy": true,
+    "deviceConfiguration": false,
+    "windowsUpdateForBusiness": false,
+    "endpointProtection": false,
+    "resourceAccess": true,
+    "officeApps": false,
+    "modernApps": false
+   }
+  },
+  {
+   "id": "00000000-0000-4000-9000-000000000120",
+   "deviceName": "CTS-LT-0120",
+   "operatingSystem": "Windows",
+   "osVersion": "10.0.26100.4091",
+   "managementAgent": "configurationManagerClientMdm",
+   "complianceState": "compliant",
+   "lastSyncDateTime": "2026-10-18T19:00:00Z",
+   "serialNumber": "DEMO000120",
+   "configurationManagerClientEnabledFeatures": {
+    "compliancePolicy": true,
+    "deviceConfiguration": false,
+    "windowsUpdateForBusiness": false,
+    "endpointProtection": false,
+    "resourceAccess": true,
+    "officeApps": false,
+    "modernApps": false
+   }
+  },
+  {
+   "id": "00000000-0000-4000-9000-000000000121",
+   "deviceName": "CTS-LT-0121",
+   "operatingSystem": "Windows",
+   "osVersion": "10.0.19045.5011",
+   "managementAgent": "configurationManagerClientMdm",
+   "complianceState": "compliant",
+   "lastSyncDateTime": "2026-10-17T19:00:00Z",
+   "serialNumber": "DEMO000121",
+   "configurationManagerClientEnabledFeatures": {
+    "compliancePolicy": true,
+    "deviceConfiguration": false,
+    "windowsUpdateForBusiness": false,
+    "endpointProtection": false,
+    "resourceAccess": true,
+    "officeApps": false,
+    "modernApps": false
+   }
+  },
+  {
+   "id": "00000000-0000-4000-9000-000000000122",
+   "deviceName": "CTS-LT-0122",
+   "operatingSystem": "Windows",
+   "osVersion": "10.0.19045.5011",
+   "managementAgent": "configurationManagerClientMdm",
+   "complianceState": "compliant",
+   "lastSyncDateTime": "2026-10-18T18:00:00Z",
+   "serialNumber": "DEMO000122",
+   "configurationManagerClientEnabledFeatures": {
+    "compliancePolicy": true,
+    "deviceConfiguration": false,
+    "windowsUpdateForBusiness": false,
+    "endpointProtection": false,
+    "resourceAccess": true,
+    "officeApps": false,
+    "modernApps": false
+   }
+  },
+  {
+   "id": "00000000-0000-4000-9000-000000000123",
+   "deviceName": "CTS-LT-0123",
+   "operatingSystem": "Windows",
+   "osVersion": "10.0.22631.4356",
+   "managementAgent": "configurationManagerClientMdm",
+   "complianceState": "compliant",
+   "lastSyncDateTime": "2026-09-30T08:00:00Z",
+   "serialNumber": "DEMO000123",
+   "configurationManagerClientEnabledFeatures": {
+    "compliancePolicy": true,
+    "deviceConfiguration": false,
+    "windowsUpdateForBusiness": false,
+    "endpointProtection": false,
+    "resourceAccess": true,
+    "officeApps": false,
+    "modernApps": false
+   }
+  },
+  {
+   "id": "00000000-0000-4000-9000-000000000124",
+   "deviceName": "CTS-LT-0124",
+   "operatingSystem": "Windows",
+   "osVersion": "10.0.19045.5011",
+   "managementAgent": "configurationManagerClientMdm",
+   "complianceState": "compliant",
+   "lastSyncDateTime": "2026-10-17T16:00:00Z",
+   "serialNumber": "DEMO000124",
+   "configurationManagerClientEnabledFeatures": {
+    "compliancePolicy": true,
+    "deviceConfiguration": false,
+    "windowsUpdateForBusiness": false,
+    "endpointProtection": false,
+    "resourceAccess": true,
+    "officeApps": false,
+    "modernApps": false
+   }
+  },
+  {
+   "id": "00000000-0000-4000-9000-000000000125",
+   "deviceName": "CTS-LT-0125",
+   "operatingSystem": "Windows",
+   "osVersion": "10.0.26100.4111",
+   "managementAgent": "configurationManagerClientMdm",
+   "complianceState": "compliant",
+   "lastSyncDateTime": "2026-10-17T16:00:00Z",
+   "serialNumber": "DEMO000125",
+   "configurationManagerClientEnabledFeatures": {
+    "compliancePolicy": true,
+    "deviceConfiguration": false,
+    "windowsUpdateForBusiness": false,
+    "endpointProtection": false,
+    "resourceAccess": true,
+    "officeApps": false,
+    "modernApps": false
+   }
+  },
+  {
+   "id": "00000000-0000-4000-9000-000000000126",
+   "deviceName": "CTS-LT-0126",
+   "operatingSystem": "Windows",
+   "osVersion": "10.0.19045.5011",
+   "managementAgent": "configurationManagerClientMdm",
+   "complianceState": "compliant",
+   "lastSyncDateTime": "2026-09-28T08:00:00Z",
+   "serialNumber": "DEMO000126",
+   "configurationManagerClientEnabledFeatures": {
+    "compliancePolicy": true,
+    "deviceConfiguration": false,
+    "windowsUpdateForBusiness": false,
+    "endpointProtection": false,
+    "resourceAccess": true,
+    "officeApps": false,
+    "modernApps": false
+   }
+  },
+  {
+   "id": "00000000-0000-4000-9000-000000000127",
+   "deviceName": "CTS-DT-0127",
+   "operatingSystem": "Windows",
+   "osVersion": "10.0.19045.5011",
+   "managementAgent": "configurationManagerClientMdm",
+   "complianceState": "noncompliant",
+   "lastSyncDateTime": "2026-10-17T20:00:00Z",
+   "serialNumber": "DEMO000127",
+   "configurationManagerClientEnabledFeatures": {
+    "compliancePolicy": true,
+    "deviceConfiguration": false,
+    "windowsUpdateForBusiness": false,
+    "endpointProtection": false,
+    "resourceAccess": true,
+    "officeApps": false,
+    "modernApps": false
+   }
+  },
+  {
+   "id": "00000000-0000-4000-9000-000000000128",
+   "deviceName": "CTS-DT-0128",
+   "operatingSystem": "Windows",
+   "osVersion": "10.0.19045.5011",
+   "managementAgent": "configurationManagerClientMdm",
+   "complianceState": "compliant",
+   "lastSyncDateTime": "2026-10-18T13:00:00Z",
+   "serialNumber": "DEMO000128",
+   "configurationManagerClientEnabledFeatures": {
+    "compliancePolicy": true,
+    "deviceConfiguration": false,
+    "windowsUpdateForBusiness": false,
+    "endpointProtection": false,
+    "resourceAccess": true,
+    "officeApps": false,
+    "modernApps": false
+   }
+  },
+  {
+   "id": "00000000-0000-4000-9000-000000000129",
+   "deviceName": "CTS-LT-0129",
+   "operatingSystem": "Windows",
+   "osVersion": "10.0.19045.5011",
+   "managementAgent": "configurationManagerClientMdm",
+   "complianceState": "compliant",
+   "lastSyncDateTime": "2026-10-18T06:00:00Z",
+   "serialNumber": "DEMO000129",
+   "configurationManagerClientEnabledFeatures": {
+    "compliancePolicy": true,
+    "deviceConfiguration": false,
+    "windowsUpdateForBusiness": false,
+    "endpointProtection": false,
+    "resourceAccess": true,
+    "officeApps": false,
+    "modernApps": false
+   }
+  },
+  {
+   "id": "00000000-0000-4000-9000-000000000130",
+   "deviceName": "CTS-LT-0130",
+   "operatingSystem": "Windows",
+   "osVersion": "10.0.19045.5011",
+   "managementAgent": "configurationManagerClientMdm",
+   "complianceState": "compliant",
+   "lastSyncDateTime": "2026-10-18T11:00:00Z",
+   "serialNumber": "DEMO000130",
+   "configurationManagerClientEnabledFeatures": {
+    "compliancePolicy": true,
+    "deviceConfiguration": false,
+    "windowsUpdateForBusiness": false,
+    "endpointProtection": false,
+    "resourceAccess": true,
+    "officeApps": false,
+    "modernApps": false
+   }
+  },
+  {
+   "id": "00000000-0000-4000-9000-000000000131",
+   "deviceName": "CTS-DT-0131",
+   "operatingSystem": "Windows",
+   "osVersion": "10.0.19045.5011",
+   "managementAgent": "configurationManagerClientMdm",
+   "complianceState": "compliant",
+   "lastSyncDateTime": "2026-10-18T01:00:00Z",
+   "serialNumber": "DEMO000131",
+   "configurationManagerClientEnabledFeatures": {
+    "compliancePolicy": true,
+    "deviceConfiguration": false,
+    "windowsUpdateForBusiness": false,
+    "endpointProtection": false,
+    "resourceAccess": true,
+    "officeApps": false,
+    "modernApps": false
+   }
+  },
+  {
+   "id": "00000000-0000-4000-9000-000000000132",
+   "deviceName": "CTS-LT-0132",
+   "operatingSystem": "Windows",
+   "osVersion": "10.0.19045.5011",
+   "managementAgent": "configurationManagerClientMdm",
+   "complianceState": "compliant",
+   "lastSyncDateTime": "2026-10-19T03:00:00Z",
+   "serialNumber": "DEMO000132",
+   "configurationManagerClientEnabledFeatures": {
+    "compliancePolicy": true,
+    "deviceConfiguration": false,
+    "windowsUpdateForBusiness": false,
+    "endpointProtection": false,
+    "resourceAccess": true,
+    "officeApps": false,
+    "modernApps": false
+   }
+  },
+  {
+   "id": "00000000-0000-4000-9000-000000000133",
+   "deviceName": "CTS-LT-0133",
+   "operatingSystem": "Windows",
+   "osVersion": "10.0.19045.5011",
+   "managementAgent": "configurationManagerClientMdm",
+   "complianceState": "compliant",
+   "lastSyncDateTime": "2026-10-18T17:00:00Z",
+   "serialNumber": "DEMO000133",
+   "configurationManagerClientEnabledFeatures": {
+    "compliancePolicy": true,
+    "deviceConfiguration": false,
+    "windowsUpdateForBusiness": false,
+    "endpointProtection": false,
+    "resourceAccess": true,
+    "officeApps": false,
+    "modernApps": false
+   }
+  },
+  {
+   "id": "00000000-0000-4000-9000-000000000134",
+   "deviceName": "CTS-LT-0134",
+   "operatingSystem": "Windows",
+   "osVersion": "10.0.19045.5011",
+   "managementAgent": "configurationManagerClientMdm",
+   "complianceState": "compliant",
+   "lastSyncDateTime": "2026-10-18T03:00:00Z",
+   "serialNumber": "DEMO000134",
+   "configurationManagerClientEnabledFeatures": {
+    "compliancePolicy": true,
+    "deviceConfiguration": false,
+    "windowsUpdateForBusiness": false,
+    "endpointProtection": false,
+    "resourceAccess": true,
+    "officeApps": false,
+    "modernApps": false
+   }
+  },
+  {
+   "id": "00000000-0000-4000-9000-000000000135",
+   "deviceName": "CTS-LT-0135",
+   "operatingSystem": "Windows",
+   "osVersion": "10.0.22631.4151",
+   "managementAgent": "configurationManagerClientMdm",
+   "complianceState": "compliant",
+   "lastSyncDateTime": "2026-10-18T18:00:00Z",
+   "serialNumber": "DEMO000135",
+   "configurationManagerClientEnabledFeatures": {
+    "compliancePolicy": true,
+    "deviceConfiguration": false,
+    "windowsUpdateForBusiness": false,
+    "endpointProtection": false,
+    "resourceAccess": true,
+    "officeApps": false,
+    "modernApps": false
+   }
+  },
+  {
+   "id": "00000000-0000-4000-9000-000000000136",
+   "deviceName": "CTS-DT-0136",
+   "operatingSystem": "Windows",
+   "osVersion": "10.0.19045.5011",
+   "managementAgent": "configurationManagerClientMdm",
+   "complianceState": "compliant",
+   "lastSyncDateTime": "2026-10-17T23:00:00Z",
+   "serialNumber": "DEMO000136",
+   "configurationManagerClientEnabledFeatures": {
+    "compliancePolicy": true,
+    "deviceConfiguration": false,
+    "windowsUpdateForBusiness": false,
+    "endpointProtection": false,
+    "resourceAccess": true,
+    "officeApps": false,
+    "modernApps": false
+   }
+  },
+  {
+   "id": "00000000-0000-4000-9000-000000000137",
+   "deviceName": "CTS-DT-0137",
+   "operatingSystem": "Windows",
+   "osVersion": "10.0.19045.5011",
+   "managementAgent": "configurationManagerClientMdm",
+   "complianceState": "compliant",
+   "lastSyncDateTime": "2026-10-18T20:00:00Z",
+   "serialNumber": "DEMO000137",
+   "configurationManagerClientEnabledFeatures": {
+    "compliancePolicy": true,
+    "deviceConfiguration": false,
+    "windowsUpdateForBusiness": false,
+    "endpointProtection": false,
+    "resourceAccess": true,
+    "officeApps": false,
+    "modernApps": false
+   }
+  },
+  {
+   "id": "00000000-0000-4000-9000-000000000138",
+   "deviceName": "CTS-DT-0138",
+   "operatingSystem": "Windows",
+   "osVersion": "10.0.19045.5011",
+   "managementAgent": "configurationManagerClientMdm",
+   "complianceState": "compliant",
+   "lastSyncDateTime": "2026-10-18T09:00:00Z",
+   "serialNumber": "DEMO000138",
+   "configurationManagerClientEnabledFeatures": {
+    "compliancePolicy": true,
+    "deviceConfiguration": false,
+    "windowsUpdateForBusiness": false,
+    "endpointProtection": false,
+    "resourceAccess": true,
+    "officeApps": false,
+    "modernApps": false
+   }
+  },
+  {
+   "id": "00000000-0000-4000-9000-000000000139",
+   "deviceName": "CTS-LT-0139",
+   "operatingSystem": "Windows",
+   "osVersion": "10.0.19045.5011",
+   "managementAgent": "configurationManagerClientMdm",
+   "complianceState": "compliant",
+   "lastSyncDateTime": "2026-10-19T07:00:00Z",
+   "serialNumber": "DEMO000139",
+   "configurationManagerClientEnabledFeatures": {
+    "compliancePolicy": true,
+    "deviceConfiguration": false,
+    "windowsUpdateForBusiness": false,
+    "endpointProtection": false,
+    "resourceAccess": true,
+    "officeApps": false,
+    "modernApps": false
+   }
+  },
+  {
+   "id": "00000000-0000-4000-9000-000000000140",
+   "deviceName": "CTS-LT-0140",
+   "operatingSystem": "Windows",
+   "osVersion": "10.0.19045.5011",
+   "managementAgent": "configurationManagerClientMdm",
+   "complianceState": "compliant",
+   "lastSyncDateTime": "2026-10-18T14:00:00Z",
+   "serialNumber": "DEMO000140",
+   "configurationManagerClientEnabledFeatures": {
+    "compliancePolicy": true,
+    "deviceConfiguration": false,
+    "windowsUpdateForBusiness": false,
+    "endpointProtection": false,
+    "resourceAccess": true,
+    "officeApps": false,
+    "modernApps": false
+   }
+  },
+  {
+   "id": "00000000-0000-4000-9000-000000000142",
+   "deviceName": "CTS-LT-0142",
+   "operatingSystem": "Windows",
+   "osVersion": "10.0.19045.5011",
+   "managementAgent": "configurationManagerClientMdm",
+   "complianceState": "compliant",
+   "lastSyncDateTime": "2026-10-18T00:00:00Z",
+   "serialNumber": "DEMO000142",
+   "configurationManagerClientEnabledFeatures": {
+    "compliancePolicy": true,
+    "deviceConfiguration": false,
+    "windowsUpdateForBusiness": false,
+    "endpointProtection": false,
+    "resourceAccess": true,
+    "officeApps": false,
+    "modernApps": false
+   }
+  },
+  {
+   "id": "00000000-0000-4000-9000-000000000143",
+   "deviceName": "CTS-LT-0143",
+   "operatingSystem": "Windows",
+   "osVersion": "10.0.19045.5011",
+   "managementAgent": "configurationManagerClientMdm",
+   "complianceState": "compliant",
+   "lastSyncDateTime": "2026-10-18T07:00:00Z",
+   "serialNumber": "DEMO000143",
+   "configurationManagerClientEnabledFeatures": {
+    "compliancePolicy": true,
+    "deviceConfiguration": false,
+    "windowsUpdateForBusiness": false,
+    "endpointProtection": false,
+    "resourceAccess": true,
+    "officeApps": false,
+    "modernApps": false
+   }
+  },
+  {
+   "id": "00000000-0000-4000-9000-000000000144",
+   "deviceName": "CTS-LT-0144",
+   "operatingSystem": "Windows",
+   "osVersion": "10.0.19045.5011",
+   "managementAgent": "configurationManagerClientMdm",
+   "complianceState": "compliant",
+   "lastSyncDateTime": "2026-10-19T06:00:00Z",
+   "serialNumber": "DEMO000144",
+   "configurationManagerClientEnabledFeatures": {
+    "compliancePolicy": true,
+    "deviceConfiguration": false,
+    "windowsUpdateForBusiness": false,
+    "endpointProtection": false,
+    "resourceAccess": true,
+    "officeApps": false,
+    "modernApps": false
+   }
+  },
+  {
+   "id": "00000000-0000-4000-9000-000000000145",
+   "deviceName": "CTS-LT-0145",
+   "operatingSystem": "Windows",
+   "osVersion": "10.0.19045.5011",
+   "managementAgent": "configurationManagerClientMdm",
+   "complianceState": "compliant",
+   "lastSyncDateTime": "2026-10-18T09:00:00Z",
+   "serialNumber": "DEMO000145",
+   "configurationManagerClientEnabledFeatures": {
+    "compliancePolicy": true,
+    "deviceConfiguration": false,
+    "windowsUpdateForBusiness": false,
+    "endpointProtection": false,
+    "resourceAccess": true,
+    "officeApps": false,
+    "modernApps": false
+   }
+  },
+  {
+   "id": "00000000-0000-4000-9000-000000000146",
+   "deviceName": "CTS-LT-0146",
+   "operatingSystem": "Windows",
+   "osVersion": "10.0.19045.5011",
+   "managementAgent": "configurationManagerClientMdm",
+   "complianceState": "compliant",
+   "lastSyncDateTime": "2026-10-18T19:00:00Z",
+   "serialNumber": "DEMO000146",
+   "configurationManagerClientEnabledFeatures": {
+    "compliancePolicy": true,
+    "deviceConfiguration": false,
+    "windowsUpdateForBusiness": false,
+    "endpointProtection": false,
+    "resourceAccess": true,
+    "officeApps": false,
+    "modernApps": false
+   }
+  },
+  {
+   "id": "00000000-0000-4000-9000-000000000147",
+   "deviceName": "CTS-LT-0147",
+   "operatingSystem": "Windows",
+   "osVersion": "10.0.19045.5011",
+   "managementAgent": "configurationManagerClientMdm",
+   "complianceState": "compliant",
+   "lastSyncDateTime": "2026-10-18T03:00:00Z",
+   "serialNumber": "DEMO000147",
+   "configurationManagerClientEnabledFeatures": {
+    "compliancePolicy": true,
+    "deviceConfiguration": false,
+    "windowsUpdateForBusiness": false,
+    "endpointProtection": false,
+    "resourceAccess": true,
+    "officeApps": false,
+    "modernApps": false
+   }
+  },
+  {
+   "id": "00000000-0000-4000-9000-000000000148",
+   "deviceName": "CTS-LT-0148",
+   "operatingSystem": "Windows",
+   "osVersion": "10.0.19045.5011",
+   "managementAgent": "configurationManagerClientMdm",
+   "complianceState": "compliant",
+   "lastSyncDateTime": "2026-10-18T10:00:00Z",
+   "serialNumber": "DEMO000148",
+   "configurationManagerClientEnabledFeatures": {
+    "compliancePolicy": true,
+    "deviceConfiguration": false,
+    "windowsUpdateForBusiness": false,
+    "endpointProtection": false,
+    "resourceAccess": true,
+    "officeApps": false,
+    "modernApps": false
+   }
+  },
+  {
+   "id": "00000000-0000-4000-9000-000000000149",
+   "deviceName": "CTS-DT-0149",
+   "operatingSystem": "Windows",
+   "osVersion": "10.0.19045.5011",
+   "managementAgent": "configurationManagerClientMdm",
+   "complianceState": "compliant",
+   "lastSyncDateTime": "2026-10-18T05:00:00Z",
+   "serialNumber": "DEMO000149",
+   "configurationManagerClientEnabledFeatures": {
+    "compliancePolicy": true,
+    "deviceConfiguration": false,
+    "windowsUpdateForBusiness": false,
+    "endpointProtection": false,
+    "resourceAccess": true,
+    "officeApps": false,
+    "modernApps": false
+   }
+  },
+  {
+   "id": "00000000-0000-4000-9000-000000000150",
+   "deviceName": "CTS-LT-0150",
+   "operatingSystem": "Windows",
+   "osVersion": "10.0.26100.4132",
+   "managementAgent": "configurationManagerClientMdm",
+   "complianceState": "compliant",
+   "lastSyncDateTime": "2026-10-17T19:00:00Z",
+   "serialNumber": "DEMO000150",
+   "configurationManagerClientEnabledFeatures": {
+    "compliancePolicy": true,
+    "deviceConfiguration": false,
+    "windowsUpdateForBusiness": false,
+    "endpointProtection": false,
+    "resourceAccess": true,
+    "officeApps": false,
+    "modernApps": false
+   }
+  },
+  {
+   "id": "00000000-0000-4000-9000-000000000151",
+   "deviceName": "CTS-LT-0151",
+   "operatingSystem": "Windows",
+   "osVersion": "10.0.19045.5011",
+   "managementAgent": "configurationManagerClientMdm",
+   "complianceState": "compliant",
+   "lastSyncDateTime": "2026-10-18T11:00:00Z",
+   "serialNumber": "DEMO000151",
+   "configurationManagerClientEnabledFeatures": {
+    "compliancePolicy": true,
+    "deviceConfiguration": false,
+    "windowsUpdateForBusiness": false,
+    "endpointProtection": false,
+    "resourceAccess": true,
+    "officeApps": false,
+    "modernApps": false
+   }
+  },
+  {
+   "id": "00000000-0000-4000-9000-000000000154",
+   "deviceName": "CTS-LT-0154",
+   "operatingSystem": "Windows",
+   "osVersion": "10.0.19045.5011",
+   "managementAgent": "configurationManagerClientMdm",
+   "complianceState": "compliant",
+   "lastSyncDateTime": "2026-10-17T17:00:00Z",
+   "serialNumber": "DEMO000154",
+   "configurationManagerClientEnabledFeatures": {
+    "compliancePolicy": true,
+    "deviceConfiguration": false,
+    "windowsUpdateForBusiness": false,
+    "endpointProtection": false,
+    "resourceAccess": true,
+    "officeApps": false,
+    "modernApps": false
+   }
+  },
+  {
+   "id": "00000000-0000-4000-9000-000000000155",
+   "deviceName": "CTS-LT-0155",
+   "operatingSystem": "Windows",
+   "osVersion": "10.0.19045.5011",
+   "managementAgent": "configurationManagerClientMdm",
+   "complianceState": "compliant",
+   "lastSyncDateTime": "2026-10-18T15:00:00Z",
+   "serialNumber": "DEMO000155",
+   "configurationManagerClientEnabledFeatures": {
+    "compliancePolicy": true,
+    "deviceConfiguration": false,
+    "windowsUpdateForBusiness": false,
+    "endpointProtection": false,
+    "resourceAccess": true,
+    "officeApps": false,
+    "modernApps": false
+   }
+  },
+  {
+   "id": "00000000-0000-4000-9000-000000000156",
+   "deviceName": "CTS-LT-0156",
+   "operatingSystem": "Windows",
+   "osVersion": "10.0.19045.5011",
+   "managementAgent": "configurationManagerClientMdm",
+   "complianceState": "compliant",
+   "lastSyncDateTime": "2026-10-18T00:00:00Z",
+   "serialNumber": "DEMO000156",
+   "configurationManagerClientEnabledFeatures": {
+    "compliancePolicy": true,
+    "deviceConfiguration": false,
+    "windowsUpdateForBusiness": false,
+    "endpointProtection": false,
+    "resourceAccess": true,
+    "officeApps": false,
+    "modernApps": false
+   }
+  },
+  {
+   "id": "00000000-0000-4000-9000-000000000157",
+   "deviceName": "CTS-DT-0157",
+   "operatingSystem": "Windows",
+   "osVersion": "10.0.19045.5011",
+   "managementAgent": "configurationManagerClientMdm",
+   "complianceState": "compliant",
+   "lastSyncDateTime": "2026-10-18T16:00:00Z",
+   "serialNumber": "DEMO000157",
+   "configurationManagerClientEnabledFeatures": {
+    "compliancePolicy": true,
+    "deviceConfiguration": false,
+    "windowsUpdateForBusiness": false,
+    "endpointProtection": false,
+    "resourceAccess": true,
+    "officeApps": false,
+    "modernApps": false
+   }
+  },
+  {
+   "id": "00000000-0000-4000-9000-000000000158",
+   "deviceName": "CTS-LT-0158",
+   "operatingSystem": "Windows",
+   "osVersion": "10.0.19045.5011",
+   "managementAgent": "configurationManagerClientMdm",
+   "complianceState": "compliant",
+   "lastSyncDateTime": "2026-10-17T17:00:00Z",
+   "serialNumber": "DEMO000158",
+   "configurationManagerClientEnabledFeatures": {
+    "compliancePolicy": true,
+    "deviceConfiguration": false,
+    "windowsUpdateForBusiness": false,
+    "endpointProtection": false,
+    "resourceAccess": true,
+    "officeApps": false,
+    "modernApps": false
+   }
+  },
+  {
+   "id": "00000000-0000-4000-9000-000000000159",
+   "deviceName": "CTS-LT-0159",
+   "operatingSystem": "Windows",
+   "osVersion": "10.0.19045.5011",
+   "managementAgent": "configurationManagerClientMdm",
+   "complianceState": "compliant",
+   "lastSyncDateTime": "2026-10-18T11:00:00Z",
+   "serialNumber": "DEMO000159",
+   "configurationManagerClientEnabledFeatures": {
+    "compliancePolicy": true,
+    "deviceConfiguration": false,
+    "windowsUpdateForBusiness": false,
+    "endpointProtection": false,
+    "resourceAccess": true,
+    "officeApps": false,
+    "modernApps": false
+   }
+  },
+  {
+   "id": "00000000-0000-4000-9000-000000000160",
+   "deviceName": "CTS-DT-0160",
+   "operatingSystem": "Windows",
+   "osVersion": "10.0.19045.5011",
+   "managementAgent": "configurationManagerClientMdm",
+   "complianceState": "compliant",
+   "lastSyncDateTime": "2026-10-18T07:00:00Z",
+   "serialNumber": "DEMO000160",
+   "configurationManagerClientEnabledFeatures": {
+    "compliancePolicy": true,
+    "deviceConfiguration": false,
+    "windowsUpdateForBusiness": false,
+    "endpointProtection": false,
+    "resourceAccess": true,
+    "officeApps": false,
+    "modernApps": false
+   }
+  },
+  {
+   "id": "00000000-0000-4000-9000-000000000161",
+   "deviceName": "CTS-LT-0161",
+   "operatingSystem": "Windows",
+   "osVersion": "10.0.19045.5011",
+   "managementAgent": "configurationManagerClientMdm",
+   "complianceState": "compliant",
+   "lastSyncDateTime": "2026-10-19T00:00:00Z",
+   "serialNumber": "DEMO000161",
+   "configurationManagerClientEnabledFeatures": {
+    "compliancePolicy": true,
+    "deviceConfiguration": false,
+    "windowsUpdateForBusiness": false,
+    "endpointProtection": false,
+    "resourceAccess": true,
+    "officeApps": false,
+    "modernApps": false
+   }
+  },
+  {
+   "id": "00000000-0000-4000-9000-000000000162",
+   "deviceName": "CTS-LT-0162",
+   "operatingSystem": "Windows",
+   "osVersion": "10.0.19045.5011",
+   "managementAgent": "configurationManagerClientMdm",
+   "complianceState": "compliant",
+   "lastSyncDateTime": "2026-10-18T22:00:00Z",
+   "serialNumber": "DEMO000162",
+   "configurationManagerClientEnabledFeatures": {
+    "compliancePolicy": true,
+    "deviceConfiguration": false,
+    "windowsUpdateForBusiness": false,
+    "endpointProtection": false,
+    "resourceAccess": true,
+    "officeApps": false,
+    "modernApps": false
+   }
+  },
+  {
+   "id": "00000000-0000-4000-9000-000000000163",
+   "deviceName": "CTS-LT-0163",
+   "operatingSystem": "Windows",
+   "osVersion": "10.0.19045.5011",
+   "managementAgent": "configurationManagerClientMdm",
+   "complianceState": "compliant",
+   "lastSyncDateTime": "2026-10-19T06:00:00Z",
+   "serialNumber": "DEMO000163",
+   "configurationManagerClientEnabledFeatures": {
+    "compliancePolicy": true,
+    "deviceConfiguration": false,
+    "windowsUpdateForBusiness": false,
+    "endpointProtection": false,
+    "resourceAccess": true,
+    "officeApps": false,
+    "modernApps": false
+   }
+  },
+  {
+   "id": "00000000-0000-4000-9000-000000000164",
+   "deviceName": "CTS-LT-0164",
+   "operatingSystem": "Windows",
+   "osVersion": "10.0.19045.5011",
+   "managementAgent": "mdm",
+   "complianceState": "compliant",
+   "lastSyncDateTime": "2026-10-18T00:00:00Z",
+   "serialNumber": "DEMO000164",
+   "configurationManagerClientEnabledFeatures": {
+    "compliancePolicy": false,
+    "deviceConfiguration": false,
+    "windowsUpdateForBusiness": false,
+    "endpointProtection": false,
+    "resourceAccess": false,
+    "officeApps": false,
+    "modernApps": false
+   }
+  },
+  {
+   "id": "00000000-0000-4000-9000-000000000165",
+   "deviceName": "CTS-LT-0165",
+   "operatingSystem": "Windows",
+   "osVersion": "10.0.19045.5011",
+   "managementAgent": "configurationManagerClientMdm",
+   "complianceState": "compliant",
+   "lastSyncDateTime": "2026-10-18T09:00:00Z",
+   "serialNumber": "DEMO000165",
+   "configurationManagerClientEnabledFeatures": {
+    "compliancePolicy": true,
+    "deviceConfiguration": false,
+    "windowsUpdateForBusiness": false,
+    "endpointProtection": false,
+    "resourceAccess": true,
+    "officeApps": false,
+    "modernApps": false
+   }
+  },
+  {
+   "id": "00000000-0000-4000-9000-000000000166",
+   "deviceName": "CTS-DT-0166",
+   "operatingSystem": "Windows",
+   "osVersion": "10.0.22631.4301",
+   "managementAgent": "configurationManagerClientMdm",
+   "complianceState": "compliant",
+   "lastSyncDateTime": "2026-10-18T22:00:00Z",
+   "serialNumber": "DEMO000166",
+   "configurationManagerClientEnabledFeatures": {
+    "compliancePolicy": true,
+    "deviceConfiguration": false,
+    "windowsUpdateForBusiness": false,
+    "endpointProtection": false,
+    "resourceAccess": true,
+    "officeApps": false,
+    "modernApps": false
+   }
+  },
+  {
+   "id": "00000000-0000-4000-9000-000000000167",
+   "deviceName": "CTS-LT-0167",
+   "operatingSystem": "Windows",
+   "osVersion": "10.0.19045.5011",
+   "managementAgent": "configurationManagerClientMdm",
+   "complianceState": "compliant",
+   "lastSyncDateTime": "2026-10-18T12:00:00Z",
+   "serialNumber": "DEMO000167",
+   "configurationManagerClientEnabledFeatures": {
+    "compliancePolicy": true,
+    "deviceConfiguration": false,
+    "windowsUpdateForBusiness": false,
+    "endpointProtection": false,
+    "resourceAccess": true,
+    "officeApps": false,
+    "modernApps": false
+   }
+  },
+  {
+   "id": "00000000-0000-4000-9000-000000000168",
+   "deviceName": "CTS-LT-0168",
+   "operatingSystem": "Windows",
+   "osVersion": "10.0.19045.5011",
+   "managementAgent": "configurationManagerClientMdm",
+   "complianceState": "compliant",
+   "lastSyncDateTime": "2026-10-17T22:00:00Z",
+   "serialNumber": "DEMO000168",
+   "configurationManagerClientEnabledFeatures": {
+    "compliancePolicy": true,
+    "deviceConfiguration": false,
+    "windowsUpdateForBusiness": false,
+    "endpointProtection": false,
+    "resourceAccess": true,
+    "officeApps": false,
+    "modernApps": false
+   }
+  },
+  {
+   "id": "00000000-0000-4000-9000-000000000169",
+   "deviceName": "CTS-LT-0169",
+   "operatingSystem": "Windows",
+   "osVersion": "10.0.22631.4204",
+   "managementAgent": "configurationManagerClientMdm",
+   "complianceState": "compliant",
+   "lastSyncDateTime": "2026-09-14T08:00:00Z",
+   "serialNumber": "DEMO000169",
+   "configurationManagerClientEnabledFeatures": {
+    "compliancePolicy": true,
+    "deviceConfiguration": false,
+    "windowsUpdateForBusiness": false,
+    "endpointProtection": false,
+    "resourceAccess": true,
+    "officeApps": false,
+    "modernApps": false
+   }
+  },
+  {
+   "id": "00000000-0000-4000-9000-000000000170",
+   "deviceName": "CTS-LT-0170",
+   "operatingSystem": "Windows",
+   "osVersion": "10.0.19045.5011",
+   "managementAgent": "configurationManagerClientMdm",
+   "complianceState": "compliant",
+   "lastSyncDateTime": "2026-10-18T03:00:00Z",
+   "serialNumber": "DEMO000170",
+   "configurationManagerClientEnabledFeatures": {
+    "compliancePolicy": true,
+    "deviceConfiguration": false,
+    "windowsUpdateForBusiness": false,
+    "endpointProtection": false,
+    "resourceAccess": true,
+    "officeApps": false,
+    "modernApps": false
+   }
+  },
+  {
+   "id": "00000000-0000-4000-9000-000000000171",
+   "deviceName": "CTS-LT-0171",
+   "operatingSystem": "Windows",
+   "osVersion": "10.0.19045.5011",
+   "managementAgent": "configurationManagerClientMdm",
+   "complianceState": "compliant",
+   "lastSyncDateTime": "2026-10-18T10:00:00Z",
+   "serialNumber": "DEMO000171",
+   "configurationManagerClientEnabledFeatures": {
+    "compliancePolicy": true,
+    "deviceConfiguration": false,
+    "windowsUpdateForBusiness": false,
+    "endpointProtection": false,
+    "resourceAccess": true,
+    "officeApps": false,
+    "modernApps": false
+   }
+  },
+  {
+   "id": "00000000-0000-4000-9000-000000000172",
+   "deviceName": "CTS-LT-0172",
+   "operatingSystem": "Windows",
+   "osVersion": "10.0.19045.5011",
+   "managementAgent": "configurationManagerClientMdm",
+   "complianceState": "compliant",
+   "lastSyncDateTime": "2026-10-19T06:00:00Z",
+   "serialNumber": "DEMO000172",
+   "configurationManagerClientEnabledFeatures": {
+    "compliancePolicy": true,
+    "deviceConfiguration": false,
+    "windowsUpdateForBusiness": false,
+    "endpointProtection": false,
+    "resourceAccess": true,
+    "officeApps": false,
+    "modernApps": false
+   }
+  },
+  {
+   "id": "00000000-0000-4000-9000-000000000173",
+   "deviceName": "CTS-LT-0173",
+   "operatingSystem": "Windows",
+   "osVersion": "10.0.19045.5011",
+   "managementAgent": "configurationManagerClientMdm",
+   "complianceState": "compliant",
+   "lastSyncDateTime": "2026-10-17T20:00:00Z",
+   "serialNumber": "DEMO000173",
+   "configurationManagerClientEnabledFeatures": {
+    "compliancePolicy": true,
+    "deviceConfiguration": false,
+    "windowsUpdateForBusiness": false,
+    "endpointProtection": false,
+    "resourceAccess": true,
+    "officeApps": false,
+    "modernApps": false
+   }
+  },
+  {
+   "id": "00000000-0000-4000-9000-000000000174",
+   "deviceName": "CTS-LT-0174",
+   "operatingSystem": "Windows",
+   "osVersion": "10.0.19045.5011",
+   "managementAgent": "configurationManagerClientMdm",
+   "complianceState": "compliant",
+   "lastSyncDateTime": "2026-10-18T05:00:00Z",
+   "serialNumber": "DEMO000174",
+   "configurationManagerClientEnabledFeatures": {
+    "compliancePolicy": true,
+    "deviceConfiguration": false,
+    "windowsUpdateForBusiness": false,
+    "endpointProtection": false,
+    "resourceAccess": true,
+    "officeApps": false,
+    "modernApps": false
+   }
+  },
+  {
+   "id": "00000000-0000-4000-9000-000000000175",
+   "deviceName": "CTS-LT-0175",
+   "operatingSystem": "Windows",
+   "osVersion": "10.0.19045.5011",
+   "managementAgent": "configurationManagerClientMdm",
+   "complianceState": "compliant",
+   "lastSyncDateTime": "2026-10-19T07:00:00Z",
+   "serialNumber": "DEMO000175",
+   "configurationManagerClientEnabledFeatures": {
+    "compliancePolicy": true,
+    "deviceConfiguration": false,
+    "windowsUpdateForBusiness": false,
+    "endpointProtection": false,
+    "resourceAccess": true,
+    "officeApps": false,
+    "modernApps": false
+   }
+  },
+  {
+   "id": "00000000-0000-4000-9000-000000000176",
+   "deviceName": "CTS-DT-0176",
+   "operatingSystem": "Windows",
+   "osVersion": "10.0.19045.5011",
+   "managementAgent": "configurationManagerClientMdm",
+   "complianceState": "compliant",
+   "lastSyncDateTime": "2026-10-19T00:00:00Z",
+   "serialNumber": "DEMO000176",
+   "configurationManagerClientEnabledFeatures": {
+    "compliancePolicy": true,
+    "deviceConfiguration": false,
+    "windowsUpdateForBusiness": false,
+    "endpointProtection": false,
+    "resourceAccess": true,
+    "officeApps": false,
+    "modernApps": false
+   }
+  },
+  {
+   "id": "00000000-0000-4000-9000-000000000177",
+   "deviceName": "CTS-LT-0177",
+   "operatingSystem": "Windows",
+   "osVersion": "10.0.19045.5011",
+   "managementAgent": "configurationManagerClientMdm",
+   "complianceState": "compliant",
+   "lastSyncDateTime": "2026-10-17T16:00:00Z",
+   "serialNumber": "DEMO000177",
+   "configurationManagerClientEnabledFeatures": {
+    "compliancePolicy": true,
+    "deviceConfiguration": false,
+    "windowsUpdateForBusiness": false,
+    "endpointProtection": false,
+    "resourceAccess": true,
+    "officeApps": false,
+    "modernApps": false
+   }
+  },
+  {
+   "id": "00000000-0000-4000-9000-000000000178",
+   "deviceName": "CTS-LT-0178",
+   "operatingSystem": "Windows",
+   "osVersion": "10.0.19045.5011",
+   "managementAgent": "configurationManagerClientMdm",
+   "complianceState": "compliant",
+   "lastSyncDateTime": "2026-10-17T18:00:00Z",
+   "serialNumber": "DEMO000178",
+   "configurationManagerClientEnabledFeatures": {
+    "compliancePolicy": true,
+    "deviceConfiguration": false,
+    "windowsUpdateForBusiness": false,
+    "endpointProtection": false,
+    "resourceAccess": true,
+    "officeApps": false,
+    "modernApps": false
+   }
+  },
+  {
+   "id": "00000000-0000-4000-9000-000000000179",
+   "deviceName": "CTS-LT-0179",
+   "operatingSystem": "Windows",
+   "osVersion": "10.0.19045.5011",
+   "managementAgent": "configurationManagerClientMdm",
+   "complianceState": "compliant",
+   "lastSyncDateTime": "2026-10-18T11:00:00Z",
+   "serialNumber": "DEMO000179",
+   "configurationManagerClientEnabledFeatures": {
+    "compliancePolicy": true,
+    "deviceConfiguration": false,
+    "windowsUpdateForBusiness": false,
+    "endpointProtection": false,
+    "resourceAccess": true,
+    "officeApps": false,
+    "modernApps": false
+   }
+  },
+  {
+   "id": "00000000-0000-4000-9000-000000000180",
+   "deviceName": "CTS-LT-0180",
+   "operatingSystem": "Windows",
+   "osVersion": "10.0.19045.5011",
+   "managementAgent": "configurationManagerClientMdm",
+   "complianceState": "compliant",
+   "lastSyncDateTime": "2026-10-19T04:00:00Z",
+   "serialNumber": "DEMO000180",
+   "configurationManagerClientEnabledFeatures": {
+    "compliancePolicy": true,
+    "deviceConfiguration": false,
+    "windowsUpdateForBusiness": false,
+    "endpointProtection": false,
+    "resourceAccess": true,
+    "officeApps": false,
+    "modernApps": false
+   }
+  },
+  {
+   "id": "00000000-0000-4000-9000-000000000181",
+   "deviceName": "CTS-DT-0181",
+   "operatingSystem": "Windows",
+   "osVersion": "10.0.19045.5011",
+   "managementAgent": "configurationManagerClientMdm",
+   "complianceState": "compliant",
+   "lastSyncDateTime": "2026-10-18T09:00:00Z",
+   "serialNumber": "DEMO000181",
+   "configurationManagerClientEnabledFeatures": {
+    "compliancePolicy": true,
+    "deviceConfiguration": false,
+    "windowsUpdateForBusiness": false,
+    "endpointProtection": false,
+    "resourceAccess": true,
+    "officeApps": false,
+    "modernApps": false
+   }
+  },
+  {
+   "id": "00000000-0000-4000-9000-000000000182",
+   "deviceName": "CTS-DT-0182",
+   "operatingSystem": "Windows",
+   "osVersion": "10.0.19045.5011",
+   "managementAgent": "configurationManagerClientMdm",
+   "complianceState": "compliant",
+   "lastSyncDateTime": "2026-10-17T17:00:00Z",
+   "serialNumber": "DEMO000182",
+   "configurationManagerClientEnabledFeatures": {
+    "compliancePolicy": true,
+    "deviceConfiguration": false,
+    "windowsUpdateForBusiness": false,
+    "endpointProtection": false,
+    "resourceAccess": true,
+    "officeApps": false,
+    "modernApps": false
+   }
+  },
+  {
+   "id": "00000000-0000-4000-9000-000000000183",
+   "deviceName": "CTS-DT-0183",
+   "operatingSystem": "Windows",
+   "osVersion": "10.0.19045.5011",
+   "managementAgent": "configurationManagerClientMdm",
+   "complianceState": "compliant",
+   "lastSyncDateTime": "2026-10-18T19:00:00Z",
+   "serialNumber": "DEMO000183",
+   "configurationManagerClientEnabledFeatures": {
+    "compliancePolicy": true,
+    "deviceConfiguration": false,
+    "windowsUpdateForBusiness": false,
+    "endpointProtection": false,
+    "resourceAccess": true,
+    "officeApps": false,
+    "modernApps": false
+   }
+  },
+  {
+   "id": "00000000-0000-4000-9000-000000000184",
+   "deviceName": "CTS-LT-0184",
+   "operatingSystem": "Windows",
+   "osVersion": "10.0.22631.4000",
+   "managementAgent": "configurationManagerClientMdm",
+   "complianceState": "compliant",
+   "lastSyncDateTime": "2026-10-19T04:00:00Z",
+   "serialNumber": "DEMO000184",
+   "configurationManagerClientEnabledFeatures": {
+    "compliancePolicy": true,
+    "deviceConfiguration": false,
+    "windowsUpdateForBusiness": false,
+    "endpointProtection": false,
+    "resourceAccess": true,
+    "officeApps": false,
+    "modernApps": false
+   }
+  },
+  {
+   "id": "00000000-0000-4000-9000-000000000185",
+   "deviceName": "CTS-DT-0185",
+   "operatingSystem": "Windows",
+   "osVersion": "10.0.22631.4370",
+   "managementAgent": "configurationManagerClientMdm",
+   "complianceState": "compliant",
+   "lastSyncDateTime": "2026-10-18T16:00:00Z",
+   "serialNumber": "DEMO000185",
+   "configurationManagerClientEnabledFeatures": {
+    "compliancePolicy": true,
+    "deviceConfiguration": false,
+    "windowsUpdateForBusiness": false,
+    "endpointProtection": false,
+    "resourceAccess": true,
+    "officeApps": false,
+    "modernApps": false
+   }
+  },
+  {
+   "id": "00000000-0000-4000-9000-000000000186",
+   "deviceName": "CTS-LT-0186",
+   "operatingSystem": "Windows",
+   "osVersion": "10.0.19045.5011",
+   "managementAgent": "configurationManagerClientMdm",
+   "complianceState": "compliant",
+   "lastSyncDateTime": "2026-10-18T00:00:00Z",
+   "serialNumber": "DEMO000186",
+   "configurationManagerClientEnabledFeatures": {
+    "compliancePolicy": true,
+    "deviceConfiguration": false,
+    "windowsUpdateForBusiness": false,
+    "endpointProtection": false,
+    "resourceAccess": true,
+    "officeApps": false,
+    "modernApps": false
+   }
+  },
+  {
+   "id": "00000000-0000-4000-9000-000000000187",
+   "deviceName": "CTS-LT-0187",
+   "operatingSystem": "Windows",
+   "osVersion": "10.0.19045.5011",
+   "managementAgent": "configurationManagerClientMdm",
+   "complianceState": "compliant",
+   "lastSyncDateTime": "2026-10-18T08:00:00Z",
+   "serialNumber": "DEMO000187",
+   "configurationManagerClientEnabledFeatures": {
+    "compliancePolicy": true,
+    "deviceConfiguration": false,
+    "windowsUpdateForBusiness": false,
+    "endpointProtection": false,
+    "resourceAccess": true,
+    "officeApps": false,
+    "modernApps": false
+   }
+  },
+  {
+   "id": "00000000-0000-4000-9000-000000000188",
+   "deviceName": "CTS-LT-0188",
+   "operatingSystem": "Windows",
+   "osVersion": "10.0.19045.5011",
+   "managementAgent": "configurationManagerClientMdm",
+   "complianceState": "compliant",
+   "lastSyncDateTime": "2026-10-18T14:00:00Z",
+   "serialNumber": "DEMO000188",
+   "configurationManagerClientEnabledFeatures": {
+    "compliancePolicy": true,
+    "deviceConfiguration": false,
+    "windowsUpdateForBusiness": false,
+    "endpointProtection": false,
+    "resourceAccess": true,
+    "officeApps": false,
+    "modernApps": false
+   }
+  },
+  {
+   "id": "00000000-0000-4000-9000-000000000189",
+   "deviceName": "CTS-LT-0189",
+   "operatingSystem": "Windows",
+   "osVersion": "10.0.26100.4071",
+   "managementAgent": "configurationManagerClientMdm",
+   "complianceState": "compliant",
+   "lastSyncDateTime": "2026-10-18T17:00:00Z",
+   "serialNumber": "DEMO000189",
+   "configurationManagerClientEnabledFeatures": {
+    "compliancePolicy": true,
+    "deviceConfiguration": false,
+    "windowsUpdateForBusiness": false,
+    "endpointProtection": false,
+    "resourceAccess": true,
+    "officeApps": false,
+    "modernApps": false
+   }
+  },
+  {
+   "id": "00000000-0000-4000-9000-000000000190",
+   "deviceName": "CTS-LT-0190",
+   "operatingSystem": "Windows",
+   "osVersion": "10.0.19045.5011",
+   "managementAgent": "configurationManagerClientMdm",
+   "complianceState": "compliant",
+   "lastSyncDateTime": "2026-10-18T06:00:00Z",
+   "serialNumber": "DEMO000190",
+   "configurationManagerClientEnabledFeatures": {
+    "compliancePolicy": true,
+    "deviceConfiguration": false,
+    "windowsUpdateForBusiness": false,
+    "endpointProtection": false,
+    "resourceAccess": true,
+    "officeApps": false,
+    "modernApps": false
+   }
+  },
+  {
+   "id": "00000000-0000-4000-9000-000000000191",
+   "deviceName": "CTS-LT-0191",
+   "operatingSystem": "Windows",
+   "osVersion": "10.0.19045.5011",
+   "managementAgent": "configurationManagerClientMdm",
+   "complianceState": "compliant",
+   "lastSyncDateTime": "2026-10-17T17:00:00Z",
+   "serialNumber": "DEMO000191",
+   "configurationManagerClientEnabledFeatures": {
+    "compliancePolicy": true,
+    "deviceConfiguration": false,
+    "windowsUpdateForBusiness": false,
+    "endpointProtection": false,
+    "resourceAccess": true,
+    "officeApps": false,
+    "modernApps": false
+   }
+  },
+  {
+   "id": "00000000-0000-4000-9000-000000000192",
+   "deviceName": "CTS-LT-0192",
+   "operatingSystem": "Windows",
+   "osVersion": "10.0.19045.5011",
+   "managementAgent": "configurationManagerClientMdm",
+   "complianceState": "compliant",
+   "lastSyncDateTime": "2026-10-18T07:00:00Z",
+   "serialNumber": "DEMO000192",
+   "configurationManagerClientEnabledFeatures": {
+    "compliancePolicy": true,
+    "deviceConfiguration": false,
+    "windowsUpdateForBusiness": false,
+    "endpointProtection": false,
+    "resourceAccess": true,
+    "officeApps": false,
+    "modernApps": false
+   }
+  },
+  {
+   "id": "00000000-0000-4000-9000-000000000193",
+   "deviceName": "CTS-LT-0193",
+   "operatingSystem": "Windows",
+   "osVersion": "10.0.19045.5011",
+   "managementAgent": "configurationManagerClientMdm",
+   "complianceState": "compliant",
+   "lastSyncDateTime": "2026-10-19T06:00:00Z",
+   "serialNumber": "DEMO000193",
+   "configurationManagerClientEnabledFeatures": {
+    "compliancePolicy": true,
+    "deviceConfiguration": false,
+    "windowsUpdateForBusiness": false,
+    "endpointProtection": false,
+    "resourceAccess": true,
+    "officeApps": false,
+    "modernApps": false
+   }
+  },
+  {
+   "id": "00000000-0000-4000-9000-000000000194",
+   "deviceName": "CTS-LT-0194",
+   "operatingSystem": "Windows",
+   "osVersion": "10.0.22631.4099",
+   "managementAgent": "configurationManagerClientMdm",
+   "complianceState": "compliant",
+   "lastSyncDateTime": "2026-10-18T17:00:00Z",
+   "serialNumber": "DEMO000194",
+   "configurationManagerClientEnabledFeatures": {
+    "compliancePolicy": true,
+    "deviceConfiguration": false,
+    "windowsUpdateForBusiness": false,
+    "endpointProtection": false,
+    "resourceAccess": true,
+    "officeApps": false,
+    "modernApps": false
+   }
+  },
+  {
+   "id": "00000000-0000-4000-9000-000000000195",
+   "deviceName": "CTS-LT-0195",
+   "operatingSystem": "Windows",
+   "osVersion": "10.0.19045.5011",
+   "managementAgent": "configurationManagerClientMdm",
+   "complianceState": "compliant",
+   "lastSyncDateTime": "2026-10-18T05:00:00Z",
+   "serialNumber": "DEMO000195",
+   "configurationManagerClientEnabledFeatures": {
+    "compliancePolicy": true,
+    "deviceConfiguration": false,
+    "windowsUpdateForBusiness": false,
+    "endpointProtection": false,
+    "resourceAccess": true,
+    "officeApps": false,
+    "modernApps": false
+   }
+  },
+  {
+   "id": "00000000-0000-4000-9000-000000000196",
+   "deviceName": "CTS-LT-0196",
+   "operatingSystem": "Windows",
+   "osVersion": "10.0.19045.5011",
+   "managementAgent": "configurationManagerClientMdm",
+   "complianceState": "compliant",
+   "lastSyncDateTime": "2026-10-19T07:00:00Z",
+   "serialNumber": "DEMO000196",
+   "configurationManagerClientEnabledFeatures": {
+    "compliancePolicy": true,
+    "deviceConfiguration": false,
+    "windowsUpdateForBusiness": false,
+    "endpointProtection": false,
+    "resourceAccess": true,
+    "officeApps": false,
+    "modernApps": false
+   }
+  },
+  {
+   "id": "00000000-0000-4000-9000-000000000197",
+   "deviceName": "CTS-DT-0197",
+   "operatingSystem": "Windows",
+   "osVersion": "10.0.19045.5011",
+   "managementAgent": "configurationManagerClientMdm",
+   "complianceState": "compliant",
+   "lastSyncDateTime": "2026-10-17T16:00:00Z",
+   "serialNumber": "DEMO000197",
+   "configurationManagerClientEnabledFeatures": {
+    "compliancePolicy": true,
+    "deviceConfiguration": false,
+    "windowsUpdateForBusiness": false,
+    "endpointProtection": false,
+    "resourceAccess": true,
+    "officeApps": false,
+    "modernApps": false
+   }
+  },
+  {
+   "id": "00000000-0000-4000-9000-000000000198",
+   "deviceName": "CTS-LT-0198",
+   "operatingSystem": "Windows",
+   "osVersion": "10.0.19045.5011",
+   "managementAgent": "configurationManagerClientMdm",
+   "complianceState": "compliant",
+   "lastSyncDateTime": "2026-10-18T21:00:00Z",
+   "serialNumber": "DEMO000198",
+   "configurationManagerClientEnabledFeatures": {
+    "compliancePolicy": true,
+    "deviceConfiguration": false,
+    "windowsUpdateForBusiness": false,
+    "endpointProtection": false,
+    "resourceAccess": true,
+    "officeApps": false,
+    "modernApps": false
+   }
+  },
+  {
+   "id": "00000000-0000-4000-9000-000000000199",
+   "deviceName": "CTS-LT-0199",
+   "operatingSystem": "Windows",
+   "osVersion": "10.0.19045.5011",
+   "managementAgent": "configurationManagerClientMdm",
+   "complianceState": "compliant",
+   "lastSyncDateTime": "2026-10-18T01:00:00Z",
+   "serialNumber": "DEMO000199",
+   "configurationManagerClientEnabledFeatures": {
+    "compliancePolicy": true,
+    "deviceConfiguration": false,
+    "windowsUpdateForBusiness": false,
+    "endpointProtection": false,
+    "resourceAccess": true,
+    "officeApps": false,
+    "modernApps": false
+   }
+  },
+  {
+   "id": "00000000-0000-4000-9000-000000000200",
+   "deviceName": "CTS-LT-0200",
+   "operatingSystem": "Windows",
+   "osVersion": "10.0.19045.5011",
+   "managementAgent": "configurationManagerClientMdm",
+   "complianceState": "compliant",
+   "lastSyncDateTime": "2026-10-18T23:00:00Z",
+   "serialNumber": "DEMO000200",
+   "configurationManagerClientEnabledFeatures": {
+    "compliancePolicy": true,
+    "deviceConfiguration": false,
+    "windowsUpdateForBusiness": false,
+    "endpointProtection": false,
+    "resourceAccess": true,
+    "officeApps": false,
+    "modernApps": false
+   }
+  },
+  {
+   "id": "00000000-0000-4000-9000-000000000201",
+   "deviceName": "CTS-LT-0201",
+   "operatingSystem": "Windows",
+   "osVersion": "10.0.19045.5011",
+   "managementAgent": "configurationManagerClientMdm",
+   "complianceState": "compliant",
+   "lastSyncDateTime": "2026-09-07T08:00:00Z",
+   "serialNumber": "DEMO000201",
+   "configurationManagerClientEnabledFeatures": {
+    "compliancePolicy": true,
+    "deviceConfiguration": false,
+    "windowsUpdateForBusiness": false,
+    "endpointProtection": false,
+    "resourceAccess": true,
+    "officeApps": false,
+    "modernApps": false
+   }
+  },
+  {
+   "id": "00000000-0000-4000-9000-000000000202",
+   "deviceName": "CTS-LT-0202",
+   "operatingSystem": "Windows",
+   "osVersion": "10.0.19045.5011",
+   "managementAgent": "configurationManagerClientMdm",
+   "complianceState": "compliant",
+   "lastSyncDateTime": "2026-10-18T23:00:00Z",
+   "serialNumber": "DEMO000202",
+   "configurationManagerClientEnabledFeatures": {
+    "compliancePolicy": true,
+    "deviceConfiguration": false,
+    "windowsUpdateForBusiness": false,
+    "endpointProtection": false,
+    "resourceAccess": true,
+    "officeApps": false,
+    "modernApps": false
+   }
+  },
+  {
+   "id": "00000000-0000-4000-9000-000000000204",
+   "deviceName": "CTS-LT-0204",
+   "operatingSystem": "Windows",
+   "osVersion": "10.0.26100.4233",
+   "managementAgent": "configurationManagerClientMdm",
+   "complianceState": "compliant",
+   "lastSyncDateTime": "2026-10-18T11:00:00Z",
+   "serialNumber": "DEMO000204",
+   "configurationManagerClientEnabledFeatures": {
+    "compliancePolicy": true,
+    "deviceConfiguration": false,
+    "windowsUpdateForBusiness": false,
+    "endpointProtection": false,
+    "resourceAccess": true,
+    "officeApps": false,
+    "modernApps": false
+   }
+  },
+  {
+   "id": "00000000-0000-4000-9000-000000000205",
+   "deviceName": "CTS-LT-0205",
+   "operatingSystem": "Windows",
+   "osVersion": "10.0.19045.5011",
+   "managementAgent": "configurationManagerClientMdm",
+   "complianceState": "compliant",
+   "lastSyncDateTime": "2026-10-18T20:00:00Z",
+   "serialNumber": "DEMO000205",
+   "configurationManagerClientEnabledFeatures": {
+    "compliancePolicy": true,
+    "deviceConfiguration": false,
+    "windowsUpdateForBusiness": false,
+    "endpointProtection": false,
+    "resourceAccess": true,
+    "officeApps": false,
+    "modernApps": false
+   }
+  },
+  {
+   "id": "00000000-0000-4000-9000-000000000206",
+   "deviceName": "CTS-LT-0206",
+   "operatingSystem": "Windows",
+   "osVersion": "10.0.19045.5011",
+   "managementAgent": "configurationManagerClientMdm",
+   "complianceState": "compliant",
+   "lastSyncDateTime": "2026-10-18T09:00:00Z",
+   "serialNumber": "DEMO000206",
+   "configurationManagerClientEnabledFeatures": {
+    "compliancePolicy": true,
+    "deviceConfiguration": false,
+    "windowsUpdateForBusiness": false,
+    "endpointProtection": false,
+    "resourceAccess": true,
+    "officeApps": false,
+    "modernApps": false
+   }
+  },
+  {
+   "id": "00000000-0000-4000-9000-000000000207",
+   "deviceName": "CTS-DT-0207",
+   "operatingSystem": "Windows",
+   "osVersion": "10.0.19045.5011",
+   "managementAgent": "configurationManagerClientMdm",
+   "complianceState": "compliant",
+   "lastSyncDateTime": "2026-10-18T12:00:00Z",
+   "serialNumber": "DEMO000207",
+   "configurationManagerClientEnabledFeatures": {
+    "compliancePolicy": true,
+    "deviceConfiguration": false,
+    "windowsUpdateForBusiness": false,
+    "endpointProtection": false,
+    "resourceAccess": true,
+    "officeApps": false,
+    "modernApps": false
+   }
+  },
+  {
+   "id": "00000000-0000-4000-9000-000000000208",
+   "deviceName": "CTS-LT-0208",
+   "operatingSystem": "Windows",
+   "osVersion": "10.0.19045.5011",
+   "managementAgent": "configurationManagerClientMdm",
+   "complianceState": "compliant",
+   "lastSyncDateTime": "2026-10-19T05:00:00Z",
+   "serialNumber": "DEMO000208",
+   "configurationManagerClientEnabledFeatures": {
+    "compliancePolicy": true,
+    "deviceConfiguration": false,
+    "windowsUpdateForBusiness": false,
+    "endpointProtection": false,
+    "resourceAccess": true,
+    "officeApps": false,
+    "modernApps": false
+   }
+  },
+  {
+   "id": "00000000-0000-4000-9000-000000000209",
+   "deviceName": "CTS-LT-0209",
+   "operatingSystem": "Windows",
+   "osVersion": "10.0.19045.5011",
+   "managementAgent": "configurationManagerClientMdm",
+   "complianceState": "compliant",
+   "lastSyncDateTime": "2026-10-18T20:00:00Z",
+   "serialNumber": "DEMO000209",
+   "configurationManagerClientEnabledFeatures": {
+    "compliancePolicy": true,
+    "deviceConfiguration": false,
+    "windowsUpdateForBusiness": false,
+    "endpointProtection": false,
+    "resourceAccess": true,
+    "officeApps": false,
+    "modernApps": false
+   }
+  },
+  {
+   "id": "00000000-0000-4000-9000-000000000210",
+   "deviceName": "CTS-LT-0210",
+   "operatingSystem": "Windows",
+   "osVersion": "10.0.19045.5011",
+   "managementAgent": "configurationManagerClientMdm",
+   "complianceState": "compliant",
+   "lastSyncDateTime": "2026-10-18T18:00:00Z",
+   "serialNumber": "DEMO000210",
+   "configurationManagerClientEnabledFeatures": {
+    "compliancePolicy": true,
+    "deviceConfiguration": false,
+    "windowsUpdateForBusiness": false,
+    "endpointProtection": false,
+    "resourceAccess": true,
+    "officeApps": false,
+    "modernApps": false
+   }
+  },
+  {
+   "id": "00000000-0000-4000-9000-000000000211",
+   "deviceName": "CTS-LT-0211",
+   "operatingSystem": "Windows",
+   "osVersion": "10.0.19045.5011",
+   "managementAgent": "configurationManagerClientMdm",
+   "complianceState": "compliant",
+   "lastSyncDateTime": "2026-10-17T23:00:00Z",
+   "serialNumber": "DEMO000211",
+   "configurationManagerClientEnabledFeatures": {
+    "compliancePolicy": true,
+    "deviceConfiguration": false,
+    "windowsUpdateForBusiness": false,
+    "endpointProtection": false,
+    "resourceAccess": true,
+    "officeApps": false,
+    "modernApps": false
+   }
+  },
+  {
+   "id": "00000000-0000-4000-9000-000000000212",
+   "deviceName": "CTS-LT-0212",
+   "operatingSystem": "Windows",
+   "osVersion": "10.0.19045.5011",
+   "managementAgent": "configurationManagerClientMdm",
+   "complianceState": "compliant",
+   "lastSyncDateTime": "2026-10-18T00:00:00Z",
+   "serialNumber": "DEMO000212",
+   "configurationManagerClientEnabledFeatures": {
+    "compliancePolicy": true,
+    "deviceConfiguration": false,
+    "windowsUpdateForBusiness": false,
+    "endpointProtection": false,
+    "resourceAccess": true,
+    "officeApps": false,
+    "modernApps": false
+   }
+  },
+  {
+   "id": "00000000-0000-4000-9000-000000000213",
+   "deviceName": "CTS-LT-0213",
+   "operatingSystem": "Windows",
+   "osVersion": "10.0.19045.5011",
+   "managementAgent": "configurationManagerClientMdm",
+   "complianceState": "compliant",
+   "lastSyncDateTime": "2026-09-12T08:00:00Z",
+   "serialNumber": "DEMO000213",
+   "configurationManagerClientEnabledFeatures": {
+    "compliancePolicy": true,
+    "deviceConfiguration": false,
+    "windowsUpdateForBusiness": false,
+    "endpointProtection": false,
+    "resourceAccess": true,
+    "officeApps": false,
+    "modernApps": false
+   }
+  },
+  {
+   "id": "00000000-0000-4000-9000-000000000214",
+   "deviceName": "CTS-LT-0214",
+   "operatingSystem": "Windows",
+   "osVersion": "10.0.19045.5011",
+   "managementAgent": "configurationManagerClientMdm",
+   "complianceState": "compliant",
+   "lastSyncDateTime": "2026-10-18T00:00:00Z",
+   "serialNumber": "DEMO000214",
+   "configurationManagerClientEnabledFeatures": {
+    "compliancePolicy": true,
+    "deviceConfiguration": false,
+    "windowsUpdateForBusiness": false,
+    "endpointProtection": false,
+    "resourceAccess": true,
+    "officeApps": false,
+    "modernApps": false
+   }
+  },
+  {
+   "id": "00000000-0000-4000-9000-000000000215",
+   "deviceName": "CTS-DT-0215",
+   "operatingSystem": "Windows",
+   "osVersion": "10.0.19045.5011",
+   "managementAgent": "configurationManagerClientMdm",
+   "complianceState": "compliant",
+   "lastSyncDateTime": "2026-10-19T01:00:00Z",
+   "serialNumber": "DEMO000215",
+   "configurationManagerClientEnabledFeatures": {
+    "compliancePolicy": true,
+    "deviceConfiguration": false,
+    "windowsUpdateForBusiness": false,
+    "endpointProtection": false,
+    "resourceAccess": true,
+    "officeApps": false,
+    "modernApps": false
+   }
+  },
+  {
+   "id": "00000000-0000-4000-9000-000000000216",
+   "deviceName": "CTS-LT-0216",
+   "operatingSystem": "Windows",
+   "osVersion": "10.0.19045.5011",
+   "managementAgent": "configurationManagerClientMdm",
+   "complianceState": "compliant",
+   "lastSyncDateTime": "2026-10-19T03:00:00Z",
+   "serialNumber": "DEMO000216",
+   "configurationManagerClientEnabledFeatures": {
+    "compliancePolicy": true,
+    "deviceConfiguration": false,
+    "windowsUpdateForBusiness": false,
+    "endpointProtection": false,
+    "resourceAccess": true,
+    "officeApps": false,
+    "modernApps": false
+   }
+  },
+  {
+   "id": "00000000-0000-4000-9000-000000000217",
+   "deviceName": "CTS-LT-0217",
+   "operatingSystem": "Windows",
+   "osVersion": "10.0.19045.5011",
+   "managementAgent": "configurationManagerClientMdm",
+   "complianceState": "compliant",
+   "lastSyncDateTime": "2026-10-19T02:00:00Z",
+   "serialNumber": "DEMO000217",
+   "configurationManagerClientEnabledFeatures": {
+    "compliancePolicy": true,
+    "deviceConfiguration": false,
+    "windowsUpdateForBusiness": false,
+    "endpointProtection": false,
+    "resourceAccess": true,
+    "officeApps": false,
+    "modernApps": false
+   }
+  },
+  {
+   "id": "00000000-0000-4000-9000-000000000218",
+   "deviceName": "CTS-LT-0218",
+   "operatingSystem": "Windows",
+   "osVersion": "10.0.19045.5011",
+   "managementAgent": "configurationManagerClientMdm",
+   "complianceState": "compliant",
+   "lastSyncDateTime": "2026-09-04T08:00:00Z",
+   "serialNumber": "DEMO000218",
+   "configurationManagerClientEnabledFeatures": {
+    "compliancePolicy": true,
+    "deviceConfiguration": false,
+    "windowsUpdateForBusiness": false,
+    "endpointProtection": false,
+    "resourceAccess": true,
+    "officeApps": false,
+    "modernApps": false
+   }
+  },
+  {
+   "id": "00000000-0000-4000-9000-000000000219",
+   "deviceName": "CTS-LT-0219",
+   "operatingSystem": "Windows",
+   "osVersion": "10.0.19045.5011",
+   "managementAgent": "configurationManagerClientMdm",
+   "complianceState": "compliant",
+   "lastSyncDateTime": "2026-10-18T15:00:00Z",
+   "serialNumber": "DEMO000219",
+   "configurationManagerClientEnabledFeatures": {
+    "compliancePolicy": true,
+    "deviceConfiguration": false,
+    "windowsUpdateForBusiness": false,
+    "endpointProtection": false,
+    "resourceAccess": true,
+    "officeApps": false,
+    "modernApps": false
+   }
+  },
+  {
+   "id": "00000000-0000-4000-9000-000000000220",
+   "deviceName": "CTS-DT-0220",
+   "operatingSystem": "Windows",
+   "osVersion": "10.0.19045.5011",
+   "managementAgent": "configurationManagerClientMdm",
+   "complianceState": "compliant",
+   "lastSyncDateTime": "2026-10-19T00:00:00Z",
+   "serialNumber": "DEMO000220",
+   "configurationManagerClientEnabledFeatures": {
+    "compliancePolicy": true,
+    "deviceConfiguration": false,
+    "windowsUpdateForBusiness": false,
+    "endpointProtection": false,
+    "resourceAccess": true,
+    "officeApps": false,
+    "modernApps": false
+   }
+  },
+  {
+   "id": "00000000-0000-4000-9000-000000000221",
+   "deviceName": "CTS-LT-0221",
+   "operatingSystem": "Windows",
+   "osVersion": "10.0.19045.5011",
+   "managementAgent": "configurationManagerClientMdm",
+   "complianceState": "compliant",
+   "lastSyncDateTime": "2026-10-18T21:00:00Z",
+   "serialNumber": "DEMO000221",
+   "configurationManagerClientEnabledFeatures": {
+    "compliancePolicy": true,
+    "deviceConfiguration": false,
+    "windowsUpdateForBusiness": false,
+    "endpointProtection": false,
+    "resourceAccess": true,
+    "officeApps": false,
+    "modernApps": false
+   }
+  },
+  {
+   "id": "00000000-0000-4000-9000-000000000223",
+   "deviceName": "CTS-LT-0223",
+   "operatingSystem": "Windows",
+   "osVersion": "10.0.19045.5011",
+   "managementAgent": "configurationManagerClientMdm",
+   "complianceState": "noncompliant",
+   "lastSyncDateTime": "2026-10-18T16:00:00Z",
+   "serialNumber": "DEMO000223",
+   "configurationManagerClientEnabledFeatures": {
+    "compliancePolicy": true,
+    "deviceConfiguration": false,
+    "windowsUpdateForBusiness": false,
+    "endpointProtection": false,
+    "resourceAccess": true,
+    "officeApps": false,
+    "modernApps": false
+   }
+  },
+  {
+   "id": "00000000-0000-4000-9000-000000000224",
+   "deviceName": "CTS-DT-0224",
+   "operatingSystem": "Windows",
+   "osVersion": "10.0.19045.5011",
+   "managementAgent": "configurationManagerClientMdm",
+   "complianceState": "compliant",
+   "lastSyncDateTime": "2026-10-18T21:00:00Z",
+   "serialNumber": "DEMO000224",
+   "configurationManagerClientEnabledFeatures": {
+    "compliancePolicy": true,
+    "deviceConfiguration": false,
+    "windowsUpdateForBusiness": false,
+    "endpointProtection": false,
+    "resourceAccess": true,
+    "officeApps": false,
+    "modernApps": false
+   }
+  },
+  {
+   "id": "00000000-0000-4000-9000-000000000225",
+   "deviceName": "CTS-LT-0225",
+   "operatingSystem": "Windows",
+   "osVersion": "10.0.22631.4270",
+   "managementAgent": "configurationManagerClientMdm",
+   "complianceState": "compliant",
+   "lastSyncDateTime": "2026-10-18T05:00:00Z",
+   "serialNumber": "DEMO000225",
+   "configurationManagerClientEnabledFeatures": {
+    "compliancePolicy": true,
+    "deviceConfiguration": false,
+    "windowsUpdateForBusiness": false,
+    "endpointProtection": false,
+    "resourceAccess": true,
+    "officeApps": false,
+    "modernApps": false
+   }
+  },
+  {
+   "id": "00000000-0000-4000-9000-000000000226",
+   "deviceName": "CTS-LT-0226",
+   "operatingSystem": "Windows",
+   "osVersion": "10.0.19045.5011",
+   "managementAgent": "configurationManagerClientMdm",
+   "complianceState": "compliant",
+   "lastSyncDateTime": "2026-09-12T08:00:00Z",
+   "serialNumber": "DEMO000226",
+   "configurationManagerClientEnabledFeatures": {
+    "compliancePolicy": true,
+    "deviceConfiguration": false,
+    "windowsUpdateForBusiness": false,
+    "endpointProtection": false,
+    "resourceAccess": true,
+    "officeApps": false,
+    "modernApps": false
+   }
+  },
+  {
+   "id": "00000000-0000-4000-9000-000000000227",
+   "deviceName": "CTS-DT-0227",
+   "operatingSystem": "Windows",
+   "osVersion": "10.0.19045.5011",
+   "managementAgent": "configurationManagerClientMdm",
+   "complianceState": "compliant",
+   "lastSyncDateTime": "2026-10-17T23:00:00Z",
+   "serialNumber": "DEMO000227",
+   "configurationManagerClientEnabledFeatures": {
+    "compliancePolicy": true,
+    "deviceConfiguration": false,
+    "windowsUpdateForBusiness": false,
+    "endpointProtection": false,
+    "resourceAccess": true,
+    "officeApps": false,
+    "modernApps": false
+   }
+  },
+  {
+   "id": "00000000-0000-4000-9000-000000000228",
+   "deviceName": "CTS-LT-0228",
+   "operatingSystem": "Windows",
+   "osVersion": "10.0.19045.5011",
+   "managementAgent": "configurationManagerClientMdm",
+   "complianceState": "compliant",
+   "lastSyncDateTime": "2026-10-17T19:00:00Z",
+   "serialNumber": "DEMO000228",
+   "configurationManagerClientEnabledFeatures": {
+    "compliancePolicy": true,
+    "deviceConfiguration": false,
+    "windowsUpdateForBusiness": false,
+    "endpointProtection": false,
+    "resourceAccess": true,
+    "officeApps": false,
+    "modernApps": false
+   }
+  },
+  {
+   "id": "00000000-0000-4000-9000-000000000229",
+   "deviceName": "CTS-LT-0229",
+   "operatingSystem": "Windows",
+   "osVersion": "10.0.19045.5011",
+   "managementAgent": "configurationManagerClientMdm",
+   "complianceState": "compliant",
+   "lastSyncDateTime": "2026-10-17T18:00:00Z",
+   "serialNumber": "DEMO000229",
+   "configurationManagerClientEnabledFeatures": {
+    "compliancePolicy": true,
+    "deviceConfiguration": false,
+    "windowsUpdateForBusiness": false,
+    "endpointProtection": false,
+    "resourceAccess": true,
+    "officeApps": false,
+    "modernApps": false
+   }
+  },
+  {
+   "id": "00000000-0000-4000-9000-000000000230",
+   "deviceName": "CTS-LT-0230",
+   "operatingSystem": "Windows",
+   "osVersion": "10.0.19045.5011",
+   "managementAgent": "configurationManagerClientMdm",
+   "complianceState": "compliant",
+   "lastSyncDateTime": "2026-10-19T00:00:00Z",
+   "serialNumber": "DEMO000230",
+   "configurationManagerClientEnabledFeatures": {
+    "compliancePolicy": true,
+    "deviceConfiguration": false,
+    "windowsUpdateForBusiness": false,
+    "endpointProtection": false,
+    "resourceAccess": true,
+    "officeApps": false,
+    "modernApps": false
+   }
+  },
+  {
+   "id": "00000000-0000-4000-9000-000000000231",
+   "deviceName": "CTS-LT-0231",
+   "operatingSystem": "Windows",
+   "osVersion": "10.0.19045.5011",
+   "managementAgent": "configurationManagerClientMdm",
+   "complianceState": "compliant",
+   "lastSyncDateTime": "2026-10-18T08:00:00Z",
+   "serialNumber": "DEMO000231",
+   "configurationManagerClientEnabledFeatures": {
+    "compliancePolicy": true,
+    "deviceConfiguration": false,
+    "windowsUpdateForBusiness": false,
+    "endpointProtection": false,
+    "resourceAccess": true,
+    "officeApps": false,
+    "modernApps": false
+   }
+  },
+  {
+   "id": "00000000-0000-4000-9000-000000000232",
+   "deviceName": "CTS-DT-0232",
+   "operatingSystem": "Windows",
+   "osVersion": "10.0.19045.5011",
+   "managementAgent": "configurationManagerClientMdm",
+   "complianceState": "compliant",
+   "lastSyncDateTime": "2026-10-18T05:00:00Z",
+   "serialNumber": "DEMO000232",
+   "configurationManagerClientEnabledFeatures": {
+    "compliancePolicy": true,
+    "deviceConfiguration": false,
+    "windowsUpdateForBusiness": false,
+    "endpointProtection": false,
+    "resourceAccess": true,
+    "officeApps": false,
+    "modernApps": false
+   }
+  },
+  {
+   "id": "00000000-0000-4000-9000-000000000233",
+   "deviceName": "CTS-DT-0233",
+   "operatingSystem": "Windows",
+   "osVersion": "10.0.19045.5011",
+   "managementAgent": "configurationManagerClientMdm",
+   "complianceState": "compliant",
+   "lastSyncDateTime": "2026-10-19T00:00:00Z",
+   "serialNumber": "DEMO000233",
+   "configurationManagerClientEnabledFeatures": {
+    "compliancePolicy": true,
+    "deviceConfiguration": false,
+    "windowsUpdateForBusiness": false,
+    "endpointProtection": false,
+    "resourceAccess": true,
+    "officeApps": false,
+    "modernApps": false
+   }
+  },
+  {
+   "id": "00000000-0000-4000-9000-000000000234",
+   "deviceName": "CTS-DT-0234",
+   "operatingSystem": "Windows",
+   "osVersion": "10.0.19045.5011",
+   "managementAgent": "configurationManagerClientMdm",
+   "complianceState": "compliant",
+   "lastSyncDateTime": "2026-10-18T12:00:00Z",
+   "serialNumber": "DEMO000234",
+   "configurationManagerClientEnabledFeatures": {
+    "compliancePolicy": true,
+    "deviceConfiguration": false,
+    "windowsUpdateForBusiness": false,
+    "endpointProtection": false,
+    "resourceAccess": true,
+    "officeApps": false,
+    "modernApps": false
+   }
+  },
+  {
+   "id": "00000000-0000-4000-9000-000000000236",
+   "deviceName": "CTS-LT-0236",
+   "operatingSystem": "Windows",
+   "osVersion": "10.0.19045.5011",
+   "managementAgent": "configurationManagerClientMdm",
+   "complianceState": "compliant",
+   "lastSyncDateTime": "2026-10-18T08:00:00Z",
+   "serialNumber": "DEMO000236",
+   "configurationManagerClientEnabledFeatures": {
+    "compliancePolicy": true,
+    "deviceConfiguration": false,
+    "windowsUpdateForBusiness": false,
+    "endpointProtection": false,
+    "resourceAccess": true,
+    "officeApps": false,
+    "modernApps": false
+   }
+  },
+  {
+   "id": "00000000-0000-4000-9000-000000000237",
+   "deviceName": "CTS-DT-0237",
+   "operatingSystem": "Windows",
+   "osVersion": "10.0.19045.5011",
+   "managementAgent": "configurationManagerClientMdm",
+   "complianceState": "compliant",
+   "lastSyncDateTime": "2026-10-19T00:00:00Z",
+   "serialNumber": "DEMO000237",
+   "configurationManagerClientEnabledFeatures": {
+    "compliancePolicy": true,
+    "deviceConfiguration": false,
+    "windowsUpdateForBusiness": false,
+    "endpointProtection": false,
+    "resourceAccess": true,
+    "officeApps": false,
+    "modernApps": false
+   }
+  },
+  {
+   "id": "00000000-0000-4000-9000-000000000238",
+   "deviceName": "CTS-LT-0238",
+   "operatingSystem": "Windows",
+   "osVersion": "10.0.19045.5011",
+   "managementAgent": "configurationManagerClientMdm",
+   "complianceState": "compliant",
+   "lastSyncDateTime": "2026-10-18T15:00:00Z",
+   "serialNumber": "DEMO000238",
+   "configurationManagerClientEnabledFeatures": {
+    "compliancePolicy": true,
+    "deviceConfiguration": false,
+    "windowsUpdateForBusiness": false,
+    "endpointProtection": false,
+    "resourceAccess": true,
+    "officeApps": false,
+    "modernApps": false
+   }
+  },
+  {
+   "id": "00000000-0000-4000-9000-000000000239",
+   "deviceName": "CTS-LT-0239",
+   "operatingSystem": "Windows",
+   "osVersion": "10.0.19045.5011",
+   "managementAgent": "configurationManagerClientMdm",
+   "complianceState": "compliant",
+   "lastSyncDateTime": "2026-10-17T22:00:00Z",
+   "serialNumber": "DEMO000239",
+   "configurationManagerClientEnabledFeatures": {
+    "compliancePolicy": true,
+    "deviceConfiguration": false,
+    "windowsUpdateForBusiness": false,
+    "endpointProtection": false,
+    "resourceAccess": true,
+    "officeApps": false,
+    "modernApps": false
+   }
+  },
+  {
+   "id": "00000000-0000-4000-9000-000000000240",
+   "deviceName": "CTS-LT-0240",
+   "operatingSystem": "Windows",
+   "osVersion": "10.0.19045.5011",
+   "managementAgent": "configurationManagerClientMdm",
+   "complianceState": "compliant",
+   "lastSyncDateTime": "2026-10-17T20:00:00Z",
+   "serialNumber": "DEMO000240",
+   "configurationManagerClientEnabledFeatures": {
+    "compliancePolicy": true,
+    "deviceConfiguration": false,
+    "windowsUpdateForBusiness": false,
+    "endpointProtection": false,
+    "resourceAccess": true,
+    "officeApps": false,
+    "modernApps": false
+   }
+  },
+  {
+   "id": "00000000-0000-4000-9000-000000000241",
+   "deviceName": "CTS-LT-0241",
+   "operatingSystem": "Windows",
+   "osVersion": "10.0.19045.5011",
+   "managementAgent": "configurationManagerClientMdm",
+   "complianceState": "compliant",
+   "lastSyncDateTime": "2026-10-18T17:00:00Z",
+   "serialNumber": "DEMO000241",
+   "configurationManagerClientEnabledFeatures": {
+    "compliancePolicy": true,
+    "deviceConfiguration": false,
+    "windowsUpdateForBusiness": false,
+    "endpointProtection": false,
+    "resourceAccess": true,
+    "officeApps": false,
+    "modernApps": false
+   }
+  },
+  {
+   "id": "00000000-0000-4000-9000-000000000242",
+   "deviceName": "CTS-LT-0242",
+   "operatingSystem": "Windows",
+   "osVersion": "10.0.19045.5011",
+   "managementAgent": "configurationManagerClientMdm",
+   "complianceState": "compliant",
+   "lastSyncDateTime": "2026-10-17T23:00:00Z",
+   "serialNumber": "DEMO000242",
+   "configurationManagerClientEnabledFeatures": {
+    "compliancePolicy": true,
+    "deviceConfiguration": false,
+    "windowsUpdateForBusiness": false,
+    "endpointProtection": false,
+    "resourceAccess": true,
+    "officeApps": false,
+    "modernApps": false
+   }
+  },
+  {
+   "id": "00000000-0000-4000-9000-000000000243",
+   "deviceName": "CTS-LT-0243",
+   "operatingSystem": "Windows",
+   "osVersion": "10.0.19045.5011",
+   "managementAgent": "configurationManagerClientMdm",
+   "complianceState": "compliant",
+   "lastSyncDateTime": "2026-10-17T17:00:00Z",
+   "serialNumber": "DEMO000243",
+   "configurationManagerClientEnabledFeatures": {
+    "compliancePolicy": true,
+    "deviceConfiguration": false,
+    "windowsUpdateForBusiness": false,
+    "endpointProtection": false,
+    "resourceAccess": true,
+    "officeApps": false,
+    "modernApps": false
+   }
+  },
+  {
+   "id": "00000000-0000-4000-9000-000000000244",
+   "deviceName": "CTS-DT-0244",
+   "operatingSystem": "Windows",
+   "osVersion": "10.0.19045.5011",
+   "managementAgent": "configurationManagerClientMdm",
+   "complianceState": "compliant",
+   "lastSyncDateTime": "2026-10-18T09:00:00Z",
+   "serialNumber": "DEMO000244",
+   "configurationManagerClientEnabledFeatures": {
+    "compliancePolicy": true,
+    "deviceConfiguration": false,
+    "windowsUpdateForBusiness": false,
+    "endpointProtection": false,
+    "resourceAccess": true,
+    "officeApps": false,
+    "modernApps": false
+   }
+  },
+  {
+   "id": "00000000-0000-4000-9000-000000000245",
+   "deviceName": "CTS-LT-0245",
+   "operatingSystem": "Windows",
+   "osVersion": "10.0.19045.5011",
+   "managementAgent": "configurationManagerClientMdm",
+   "complianceState": "compliant",
+   "lastSyncDateTime": "2026-10-17T23:00:00Z",
+   "serialNumber": "DEMO000245",
+   "configurationManagerClientEnabledFeatures": {
+    "compliancePolicy": true,
+    "deviceConfiguration": false,
+    "windowsUpdateForBusiness": false,
+    "endpointProtection": false,
+    "resourceAccess": true,
+    "officeApps": false,
+    "modernApps": false
+   }
+  },
+  {
+   "id": "00000000-0000-4000-9000-000000000246",
+   "deviceName": "CTS-LT-0246",
+   "operatingSystem": "Windows",
+   "osVersion": "10.0.19045.5011",
+   "managementAgent": "configurationManagerClientMdm",
+   "complianceState": "compliant",
+   "lastSyncDateTime": "2026-10-18T03:00:00Z",
+   "serialNumber": "DEMO000246",
+   "configurationManagerClientEnabledFeatures": {
+    "compliancePolicy": true,
+    "deviceConfiguration": false,
+    "windowsUpdateForBusiness": false,
+    "endpointProtection": false,
+    "resourceAccess": true,
+    "officeApps": false,
+    "modernApps": false
+   }
+  },
+  {
+   "id": "00000000-0000-4000-9000-000000000247",
+   "deviceName": "CTS-LT-0247",
+   "operatingSystem": "Windows",
+   "osVersion": "10.0.19045.5011",
+   "managementAgent": "configurationManagerClientMdm",
+   "complianceState": "compliant",
+   "lastSyncDateTime": "2026-10-18T15:00:00Z",
+   "serialNumber": "DEMO000247",
+   "configurationManagerClientEnabledFeatures": {
+    "compliancePolicy": true,
+    "deviceConfiguration": false,
+    "windowsUpdateForBusiness": false,
+    "endpointProtection": false,
+    "resourceAccess": true,
+    "officeApps": false,
+    "modernApps": false
+   }
+  },
+  {
+   "id": "00000000-0000-4000-9000-000000000248",
+   "deviceName": "CTS-LT-0248",
+   "operatingSystem": "Windows",
+   "osVersion": "10.0.19045.5011",
+   "managementAgent": "configurationManagerClientMdm",
+   "complianceState": "compliant",
+   "lastSyncDateTime": "2026-10-19T02:00:00Z",
+   "serialNumber": "DEMO000248",
+   "configurationManagerClientEnabledFeatures": {
+    "compliancePolicy": true,
+    "deviceConfiguration": false,
+    "windowsUpdateForBusiness": false,
+    "endpointProtection": false,
+    "resourceAccess": true,
+    "officeApps": false,
+    "modernApps": false
+   }
+  },
+  {
+   "id": "00000000-0000-4000-9000-000000000249",
+   "deviceName": "CTS-LT-0249",
+   "operatingSystem": "Windows",
+   "osVersion": "10.0.19045.5011",
+   "managementAgent": "configurationManagerClientMdm",
+   "complianceState": "compliant",
+   "lastSyncDateTime": "2026-10-18T19:00:00Z",
+   "serialNumber": "DEMO000249",
+   "configurationManagerClientEnabledFeatures": {
+    "compliancePolicy": true,
+    "deviceConfiguration": false,
+    "windowsUpdateForBusiness": false,
+    "endpointProtection": false,
+    "resourceAccess": true,
+    "officeApps": false,
+    "modernApps": false
+   }
+  },
+  {
+   "id": "00000000-0000-4000-9000-000000000250",
+   "deviceName": "CTS-LT-0250",
+   "operatingSystem": "Windows",
+   "osVersion": "10.0.19045.5011",
+   "managementAgent": "configurationManagerClientMdm",
+   "complianceState": "compliant",
+   "lastSyncDateTime": "2026-10-18T15:00:00Z",
+   "serialNumber": "DEMO000250",
+   "configurationManagerClientEnabledFeatures": {
+    "compliancePolicy": true,
+    "deviceConfiguration": false,
+    "windowsUpdateForBusiness": false,
+    "endpointProtection": false,
+    "resourceAccess": true,
+    "officeApps": false,
+    "modernApps": false
+   }
+  },
+  {
+   "id": "00000000-0000-4000-9000-000000000251",
+   "deviceName": "CTS-DT-0251",
+   "operatingSystem": "Windows",
+   "osVersion": "10.0.19045.5011",
+   "managementAgent": "configurationManagerClientMdm",
+   "complianceState": "compliant",
+   "lastSyncDateTime": "2026-10-19T00:00:00Z",
+   "serialNumber": "DEMO000251",
+   "configurationManagerClientEnabledFeatures": {
+    "compliancePolicy": true,
+    "deviceConfiguration": false,
+    "windowsUpdateForBusiness": false,
+    "endpointProtection": false,
+    "resourceAccess": true,
+    "officeApps": false,
+    "modernApps": false
+   }
+  },
+  {
+   "id": "00000000-0000-4000-9000-000000000252",
+   "deviceName": "CTS-LT-0252",
+   "operatingSystem": "Windows",
+   "osVersion": "10.0.19045.5011",
+   "managementAgent": "configurationManagerClientMdm",
+   "complianceState": "compliant",
+   "lastSyncDateTime": "2026-10-18T09:00:00Z",
+   "serialNumber": "DEMO000252",
+   "configurationManagerClientEnabledFeatures": {
+    "compliancePolicy": true,
+    "deviceConfiguration": false,
+    "windowsUpdateForBusiness": false,
+    "endpointProtection": false,
+    "resourceAccess": true,
+    "officeApps": false,
+    "modernApps": false
+   }
+  },
+  {
+   "id": "00000000-0000-4000-9000-000000000253",
+   "deviceName": "CTS-DT-0253",
+   "operatingSystem": "Windows",
+   "osVersion": "10.0.19045.5011",
+   "managementAgent": "configurationManagerClientMdm",
+   "complianceState": "compliant",
+   "lastSyncDateTime": "2026-10-17T23:00:00Z",
+   "serialNumber": "DEMO000253",
+   "configurationManagerClientEnabledFeatures": {
+    "compliancePolicy": true,
+    "deviceConfiguration": false,
+    "windowsUpdateForBusiness": false,
+    "endpointProtection": false,
+    "resourceAccess": true,
+    "officeApps": false,
+    "modernApps": false
+   }
+  },
+  {
+   "id": "00000000-0000-4000-9000-000000000254",
+   "deviceName": "CTS-DT-0254",
+   "operatingSystem": "Windows",
+   "osVersion": "10.0.19045.5011",
+   "managementAgent": "configurationManagerClientMdm",
+   "complianceState": "compliant",
+   "lastSyncDateTime": "2026-10-17T19:00:00Z",
+   "serialNumber": "DEMO000254",
+   "configurationManagerClientEnabledFeatures": {
+    "compliancePolicy": true,
+    "deviceConfiguration": false,
+    "windowsUpdateForBusiness": false,
+    "endpointProtection": false,
+    "resourceAccess": true,
+    "officeApps": false,
+    "modernApps": false
+   }
+  },
+  {
+   "id": "00000000-0000-4000-9000-000000000255",
+   "deviceName": "CTS-LT-0255",
+   "operatingSystem": "Windows",
+   "osVersion": "10.0.19045.5011",
+   "managementAgent": "configurationManagerClientMdm",
+   "complianceState": "compliant",
+   "lastSyncDateTime": "2026-10-18T12:00:00Z",
+   "serialNumber": "DEMO000255",
+   "configurationManagerClientEnabledFeatures": {
+    "compliancePolicy": true,
+    "deviceConfiguration": false,
+    "windowsUpdateForBusiness": false,
+    "endpointProtection": false,
+    "resourceAccess": true,
+    "officeApps": false,
+    "modernApps": false
+   }
+  },
+  {
+   "id": "00000000-0000-4000-9000-000000000256",
+   "deviceName": "CTS-LT-0256",
+   "operatingSystem": "Windows",
+   "osVersion": "10.0.19045.5011",
+   "managementAgent": "configurationManagerClientMdm",
+   "complianceState": "compliant",
+   "lastSyncDateTime": "2026-10-18T18:00:00Z",
+   "serialNumber": "DEMO000256",
+   "configurationManagerClientEnabledFeatures": {
+    "compliancePolicy": true,
+    "deviceConfiguration": false,
+    "windowsUpdateForBusiness": false,
+    "endpointProtection": false,
+    "resourceAccess": true,
+    "officeApps": false,
+    "modernApps": false
+   }
+  },
+  {
+   "id": "00000000-0000-4000-9000-000000000257",
+   "deviceName": "CTS-LT-0257",
+   "operatingSystem": "Windows",
+   "osVersion": "10.0.19045.5011",
+   "managementAgent": "configurationManagerClientMdm",
+   "complianceState": "compliant",
+   "lastSyncDateTime": "2026-10-17T23:00:00Z",
+   "serialNumber": "DEMO000257",
+   "configurationManagerClientEnabledFeatures": {
+    "compliancePolicy": true,
+    "deviceConfiguration": false,
+    "windowsUpdateForBusiness": false,
+    "endpointProtection": false,
+    "resourceAccess": true,
+    "officeApps": false,
+    "modernApps": false
+   }
+  },
+  {
+   "id": "00000000-0000-4000-9000-000000000258",
+   "deviceName": "CTS-LT-0258",
+   "operatingSystem": "Windows",
+   "osVersion": "10.0.19045.5011",
+   "managementAgent": "configurationManagerClientMdm",
+   "complianceState": "compliant",
+   "lastSyncDateTime": "2026-10-18T05:00:00Z",
+   "serialNumber": "DEMO000258",
+   "configurationManagerClientEnabledFeatures": {
+    "compliancePolicy": true,
+    "deviceConfiguration": false,
+    "windowsUpdateForBusiness": false,
+    "endpointProtection": false,
+    "resourceAccess": true,
+    "officeApps": false,
+    "modernApps": false
+   }
+  },
+  {
+   "id": "00000000-0000-4000-9000-000000000259",
+   "deviceName": "CTS-LT-0259",
+   "operatingSystem": "Windows",
+   "osVersion": "10.0.19045.5011",
+   "managementAgent": "configurationManagerClientMdm",
+   "complianceState": "compliant",
+   "lastSyncDateTime": "2026-10-18T17:00:00Z",
+   "serialNumber": "DEMO000259",
+   "configurationManagerClientEnabledFeatures": {
+    "compliancePolicy": true,
+    "deviceConfiguration": false,
+    "windowsUpdateForBusiness": false,
+    "endpointProtection": false,
+    "resourceAccess": true,
+    "officeApps": false,
+    "modernApps": false
+   }
+  },
+  {
+   "id": "00000000-0000-4000-9000-000000000260",
+   "deviceName": "CTS-LT-0260",
+   "operatingSystem": "Windows",
+   "osVersion": "10.0.19045.5011",
+   "managementAgent": "configurationManagerClientMdm",
+   "complianceState": "compliant",
+   "lastSyncDateTime": "2026-10-19T06:00:00Z",
+   "serialNumber": "DEMO000260",
+   "configurationManagerClientEnabledFeatures": {
+    "compliancePolicy": true,
+    "deviceConfiguration": false,
+    "windowsUpdateForBusiness": false,
+    "endpointProtection": false,
+    "resourceAccess": true,
+    "officeApps": false,
+    "modernApps": false
+   }
+  },
+  {
+   "id": "00000000-0000-4000-9100-000000000001",
+   "deviceName": "CTS-AP-0001",
+   "operatingSystem": "Windows",
+   "osVersion": "10.0.26100.4202",
+   "managementAgent": "mdm",
+   "complianceState": "compliant",
+   "lastSyncDateTime": "2026-10-19T07:00:00Z",
+   "serialNumber": "DEMOAP0001",
+   "configurationManagerClientEnabledFeatures": null
+  },
+  {
+   "id": "00000000-0000-4000-9100-000000000002",
+   "deviceName": "CTS-AP-0002",
+   "operatingSystem": "Windows",
+   "osVersion": "10.0.26100.4202",
+   "managementAgent": "mdm",
+   "complianceState": "compliant",
+   "lastSyncDateTime": "2026-10-19T06:00:00Z",
+   "serialNumber": "DEMOAP0002",
+   "configurationManagerClientEnabledFeatures": null
+  },
+  {
+   "id": "00000000-0000-4000-9100-000000000003",
+   "deviceName": "CTS-AP-0003",
+   "operatingSystem": "Windows",
+   "osVersion": "10.0.26100.4202",
+   "managementAgent": "mdm",
+   "complianceState": "compliant",
+   "lastSyncDateTime": "2026-10-19T05:00:00Z",
+   "serialNumber": "DEMOAP0003",
+   "configurationManagerClientEnabledFeatures": null
+  },
+  {
+   "id": "00000000-0000-4000-9100-000000000004",
+   "deviceName": "CTS-AP-0004",
+   "operatingSystem": "Windows",
+   "osVersion": "10.0.26100.4202",
+   "managementAgent": "mdm",
+   "complianceState": "compliant",
+   "lastSyncDateTime": "2026-10-19T04:00:00Z",
+   "serialNumber": "DEMOAP0004",
+   "configurationManagerClientEnabledFeatures": null
+  },
+  {
+   "id": "00000000-0000-4000-9200-000000000001",
+   "deviceName": "CTS-DT-0033",
+   "operatingSystem": "Windows",
+   "osVersion": "10.0.19045.5011",
+   "managementAgent": "configurationManagerClientMdm",
+   "complianceState": "noncompliant",
+   "lastSyncDateTime": "2026-07-21T08:00:00Z",
+   "serialNumber": "DEMO000033",
+   "configurationManagerClientEnabledFeatures": {
+    "compliancePolicy": true,
+    "deviceConfiguration": true,
+    "windowsUpdateForBusiness": true,
+    "endpointProtection": false,
+    "resourceAccess": true,
+    "officeApps": false,
+    "modernApps": true
+   }
+  },
+  {
+   "id": "00000000-0000-4000-9300-000000000001",
+   "deviceName": "iPhone de demo",
+   "operatingSystem": "iOS",
+   "managementAgent": "mdm",
+   "complianceState": "compliant",
+   "lastSyncDateTime": "2026-10-19T08:00:00Z"
+  }
+ ]
+}

@@ -1,0 +1,261 @@
+name,resource_id,client,client_active,last_policy_request,os_build,win11_hw_ready,collections
+CTS-LT-0001,16777001,1,1,2026-10-19T00:00:00Z,22631,,All Windows Workstations;CM - Co-management;W11 - Wave 0 Pilot;CM - Co-management Pilot
+CTS-LT-0002,16777002,1,1,2026-10-19T01:00:00Z,22631,,All Windows Workstations;CM - Co-management;W11 - Wave 0 Pilot;CM - Co-management Pilot
+CTS-LT-0003,16777003,0,0,,22631,,All Windows Workstations;CM - Co-management;W11 - Wave 0 Pilot;CM - Co-management Pilot
+CTS-LT-0004,16777004,1,1,2026-10-19T01:00:00Z,22631,,All Windows Workstations;CM - Co-management;W11 - Wave 0 Pilot;CM - Co-management Pilot
+CTS-LT-0005,16777005,1,1,2026-10-18T20:00:00Z,26100,,All Windows Workstations;CM - Co-management;W11 - Wave 0 Pilot;CM - Co-management Pilot
+CTS-LT-0006,16777006,1,1,2026-10-18T22:00:00Z,22631,,All Windows Workstations;CM - Co-management;W11 - Wave 0 Pilot;CM - Co-management Pilot
+CTS-LT-0007,16777007,1,1,2026-10-19T01:00:00Z,22631,,All Windows Workstations;CM - Co-management;W11 - Wave 0 Pilot;CM - Co-management Pilot
+CTS-LT-0008,16777008,1,1,2026-10-19T01:00:00Z,26100,,All Windows Workstations;CM - Co-management;W11 - Wave 0 Pilot;CM - Co-management Pilot
+CTS-LT-0009,16777009,1,1,2026-10-18T16:00:00Z,22631,,All Windows Workstations;CM - Co-management;W11 - Wave 0 Pilot;CM - Co-management Pilot
+CTS-LT-0010,16777010,1,1,2026-10-18T19:00:00Z,26100,,All Windows Workstations;CM - Co-management;W11 - Wave 0 Pilot;CM - Co-management Pilot
+CTS-LT-0011,16777011,1,1,2026-10-18T04:00:00Z,26100,,All Windows Workstations;CM - Co-management;W11 - Wave 0 Pilot;CM - Co-management Pilot
+CTS-LT-0012,16777012,1,1,2026-10-18T09:00:00Z,22631,,All Windows Workstations;CM - Co-management;W11 - Wave 0 Pilot;CM - Co-management Pilot
+CTS-LT-0013,16777013,1,1,2026-10-18T18:00:00Z,22631,,All Windows Workstations;CM - Co-management;W11 - Wave 0 Pilot;CM - Co-management Pilot
+CTS-LT-0014,16777014,1,1,2026-10-18T08:00:00Z,26100,,All Windows Workstations;CM - Co-management;W11 - Wave 0 Pilot;CM - Co-management Pilot
+CTS-LT-0015,16777015,1,1,2026-10-19T07:00:00Z,22631,,All Windows Workstations;CM - Co-management;W11 - Wave 0 Pilot;CM - Co-management Pilot
+CTS-LT-0016,16777016,1,1,2026-10-18T05:00:00Z,22631,,All Windows Workstations;CM - Co-management;W11 - Wave 0 Pilot;CM - Co-management Pilot
+CTS-DT-0017,16777017,1,1,2026-10-18T16:00:00Z,22631,,All Windows Workstations;CM - Co-management;W11 - Wave 0 Pilot;CM - Co-management Pilot
+CTS-LT-0018,16777018,1,1,2026-10-19T03:00:00Z,26100,,All Windows Workstations;CM - Co-management;W11 - Wave 0 Pilot;CM - Co-management Pilot
+CTS-DT-0019,16777019,1,1,2026-10-19T03:00:00Z,22631,,All Windows Workstations;CM - Co-management;W11 - Wave 0 Pilot;CM - Co-management Pilot
+CTS-LT-0020,16777020,1,1,2026-10-18T02:00:00Z,22631,,All Windows Workstations;CM - Co-management;W11 - Wave 0 Pilot;CM - Co-management Pilot
+CTS-DT-0021,16777021,1,1,2026-10-18T09:00:00Z,26100,,All Windows Workstations;CM - Co-management;W11 - Wave 0 Pilot;CM - Co-management Pilot
+CTS-LT-0022,16777022,1,1,2026-10-19T01:00:00Z,22631,,All Windows Workstations;CM - Co-management;W11 - Wave 0 Pilot;CM - Co-management Pilot
+CTS-LT-0023,16777023,1,1,2026-10-18T05:00:00Z,22631,,All Windows Workstations;CM - Co-management;W11 - Wave 0 Pilot;CM - Co-management Pilot
+CTS-LT-0024,16777024,1,1,2026-10-18T04:00:00Z,22631,,All Windows Workstations;CM - Co-management;W11 - Wave 0 Pilot;CM - Co-management Pilot
+CTS-LT-0025,16777025,1,1,2026-10-18T02:00:00Z,26100,,All Windows Workstations;CM - Co-management;W11 - Wave 0 Pilot;CM - Co-management Pilot
+CTS-LT-0026,16777026,1,1,2026-10-18T17:00:00Z,19045,1,All Windows Workstations;CM - Co-management;W11 - Wave 1;CM - Co-management Pilot
+CTS-DT-0027,16777027,1,1,2026-10-19T07:00:00Z,22631,,All Windows Workstations;CM - Co-management;W11 - Wave 1;CM - Co-management Pilot
+CTS-LT-0028,16777028,1,1,2026-10-19T03:00:00Z,26100,,All Windows Workstations;CM - Co-management;W11 - Wave 1;CM - Co-management Pilot
+CTS-LT-0029,16777029,1,1,2026-10-19T07:00:00Z,19045,1,All Windows Workstations;CM - Co-management;W11 - Wave 1;CM - Co-management Pilot
+CTS-LT-0030,16777030,1,1,2026-10-18T12:00:00Z,19045,1,All Windows Workstations;CM - Co-management;W11 - Wave 1;CM - Co-management Pilot
+CTS-LT-0031,16777031,1,1,2026-10-18T12:00:00Z,22631,,All Windows Workstations;CM - Co-management;W11 - Wave 1;CM - Co-management Pilot
+CTS-LT-0032,16777032,1,1,2026-10-18T13:00:00Z,19045,1,All Windows Workstations;CM - Co-management;W11 - Wave 1;CM - Co-management Pilot
+CTS-DT-0033,16777033,1,1,2026-10-18T18:00:00Z,19045,1,All Windows Workstations;CM - Co-management;W11 - Wave 1;CM - Co-management Pilot
+CTS-LT-0034,16777034,1,1,2026-10-18T17:00:00Z,22631,,All Windows Workstations;CM - Co-management;W11 - Wave 1;CM - Co-management Pilot
+CTS-LT-0035,16777035,1,1,2026-10-18T18:00:00Z,22631,,All Windows Workstations;CM - Co-management;W11 - Wave 1;CM - Co-management Pilot
+CTS-LT-0036,16777036,1,1,2026-10-18T14:00:00Z,19045,1,All Windows Workstations;CM - Co-management;W11 - Wave 1
+CTS-LT-0037,16777037,1,0,2026-08-29T08:00:00Z,19045,1,All Windows Workstations;CM - Co-management;W11 - Wave 1
+CTS-DT-0038,16777038,1,1,2026-10-18T16:00:00Z,22631,,All Windows Workstations;CM - Co-management;W11 - Wave 1
+CTS-LT-0039,16777039,1,1,2026-10-19T01:00:00Z,22631,,All Windows Workstations;CM - Co-management;W11 - Wave 1
+CTS-DT-0040,16777040,1,1,2026-10-18T05:00:00Z,22631,,All Windows Workstations;CM - Co-management;W11 - Wave 1
+CTS-LT-0041,16777041,1,1,2026-10-19T03:00:00Z,19045,1,All Windows Workstations;CM - Co-management;W11 - Wave 1
+CTS-LT-0042,16777042,1,1,2026-10-18T21:00:00Z,26100,,All Windows Workstations;CM - Co-management;W11 - Wave 1
+CTS-LT-0043,16777043,1,1,2026-10-18T20:00:00Z,22631,,All Windows Workstations;CM - Co-management;W11 - Wave 1
+CTS-LT-0044,16777044,1,1,2026-10-18T16:00:00Z,22631,,All Windows Workstations;CM - Co-management;W11 - Wave 1
+CTS-LT-0045,16777045,1,1,2026-10-18T09:00:00Z,22631,,All Windows Workstations;CM - Co-management;W11 - Wave 1
+CTS-LT-0046,16777046,1,1,2026-10-18T09:00:00Z,22631,,All Windows Workstations;CM - Co-management;W11 - Wave 1
+CTS-DT-0047,16777047,1,1,2026-10-18T12:00:00Z,26100,,All Windows Workstations;CM - Co-management;W11 - Wave 1
+CTS-LT-0048,16777048,1,1,2026-10-18T18:00:00Z,22631,,All Windows Workstations;CM - Co-management;W11 - Wave 1
+CTS-LT-0049,16777049,1,1,2026-10-18T06:00:00Z,19045,1,All Windows Workstations;CM - Co-management;W11 - Wave 1
+CTS-LT-0050,16777050,1,1,2026-10-19T00:00:00Z,19045,1,All Windows Workstations;CM - Co-management;W11 - Wave 1
+CTS-LT-0051,16777051,1,1,2026-10-18T10:00:00Z,22631,,All Windows Workstations;CM - Co-management;W11 - Wave 1
+CTS-LT-0052,16777052,1,1,2026-10-19T06:00:00Z,22631,,All Windows Workstations;CM - Co-management;W11 - Wave 1
+CTS-LT-0053,16777053,1,1,2026-10-18T04:00:00Z,19045,1,All Windows Workstations;CM - Co-management;W11 - Wave 1
+CTS-LT-0054,16777054,1,1,2026-10-19T00:00:00Z,22631,,All Windows Workstations;CM - Co-management;W11 - Wave 1
+CTS-LT-0055,16777055,1,1,2026-10-18T06:00:00Z,22631,,All Windows Workstations;CM - Co-management;W11 - Wave 1
+CTS-LT-0056,16777056,1,1,2026-10-19T02:00:00Z,26100,,All Windows Workstations;CM - Co-management;W11 - Wave 1
+CTS-LT-0057,16777057,1,1,2026-10-19T04:00:00Z,26100,,All Windows Workstations;CM - Co-management;W11 - Wave 1
+CTS-LT-0058,16777058,1,1,2026-10-18T13:00:00Z,26100,,All Windows Workstations;CM - Co-management;W11 - Wave 1
+CTS-LT-0059,16777059,1,1,2026-10-18T21:00:00Z,26100,,All Windows Workstations;CM - Co-management;W11 - Wave 1
+CTS-LT-0060,16777060,1,1,2026-10-19T02:00:00Z,22631,,All Windows Workstations;CM - Co-management;W11 - Wave 1
+CTS-LT-0061,16777061,1,1,2026-10-19T04:00:00Z,26100,,All Windows Workstations;CM - Co-management;W11 - Wave 1
+CTS-LT-0062,16777062,1,1,2026-10-18T17:00:00Z,22631,,All Windows Workstations;CM - Co-management;W11 - Wave 1
+CTS-DT-0063,16777063,1,1,2026-10-18T15:00:00Z,19045,0,All Windows Workstations;CM - Co-management;W11 - Wave 1
+CTS-LT-0064,16777064,1,1,2026-10-18T14:00:00Z,19045,1,All Windows Workstations;CM - Co-management;W11 - Wave 1
+CTS-LT-0065,16777065,1,1,2026-10-18T19:00:00Z,19045,1,All Windows Workstations;CM - Co-management;W11 - Wave 1
+CTS-LT-0066,16777066,1,1,2026-10-18T10:00:00Z,22631,,All Windows Workstations;CM - Co-management;W11 - Wave 1
+CTS-LT-0067,16777067,1,1,2026-10-18T06:00:00Z,22631,,All Windows Workstations;CM - Co-management;W11 - Wave 1
+CTS-LT-0068,16777068,1,1,2026-10-18T20:00:00Z,19045,1,All Windows Workstations;CM - Co-management;W11 - Wave 1
+CTS-LT-0069,16777069,1,1,2026-10-18T15:00:00Z,22631,,All Windows Workstations;CM - Co-management;W11 - Wave 1
+CTS-LT-0070,16777070,1,1,2026-10-18T05:00:00Z,22631,,All Windows Workstations;CM - Co-management;W11 - Wave 1
+CTS-LT-0071,16777071,1,1,2026-10-18T11:00:00Z,26100,,All Windows Workstations;CM - Co-management;W11 - Wave 1
+CTS-LT-0072,16777072,1,1,2026-10-18T02:00:00Z,19045,1,All Windows Workstations;CM - Co-management;W11 - Wave 1
+CTS-LT-0073,16777073,1,1,2026-10-18T15:00:00Z,22631,,All Windows Workstations;CM - Co-management;W11 - Wave 1
+CTS-LT-0074,16777074,1,0,2026-09-21T08:00:00Z,22631,,All Windows Workstations;CM - Co-management;W11 - Wave 1
+CTS-LT-0075,16777075,1,1,2026-10-18T03:00:00Z,22631,,All Windows Workstations;CM - Co-management;W11 - Wave 1
+CTS-DT-0076,16777076,1,1,2026-10-18T19:00:00Z,22631,,All Windows Workstations;CM - Co-management;W11 - Wave 1
+CTS-LT-0077,16777077,1,1,2026-10-18T23:00:00Z,22631,,All Windows Workstations;CM - Co-management;W11 - Wave 1
+CTS-LT-0078,16777078,1,0,2026-08-30T08:00:00Z,22631,,All Windows Workstations;CM - Co-management;W11 - Wave 1
+CTS-LT-0079,16777079,1,1,2026-10-18T18:00:00Z,19045,1,All Windows Workstations;CM - Co-management;W11 - Wave 1
+CTS-DT-0080,16777080,1,1,2026-10-18T16:00:00Z,26100,,All Windows Workstations;CM - Co-management;W11 - Wave 1
+CTS-DT-0081,16777081,1,1,2026-10-18T09:00:00Z,19045,1,All Windows Workstations;CM - Co-management;W11 - Wave 1
+CTS-LT-0082,16777082,1,1,2026-10-19T06:00:00Z,22631,,All Windows Workstations;CM - Co-management;W11 - Wave 1
+CTS-DT-0083,16777083,1,1,2026-10-19T07:00:00Z,22631,,All Windows Workstations;CM - Co-management;W11 - Wave 1
+CTS-LT-0084,16777084,1,1,2026-10-18T05:00:00Z,22631,,All Windows Workstations;CM - Co-management;W11 - Wave 1
+CTS-LT-0085,16777085,1,1,2026-10-18T18:00:00Z,19045,1,All Windows Workstations;CM - Co-management;W11 - Wave 1
+CTS-LT-0086,16777086,1,1,2026-10-18T06:00:00Z,26100,,All Windows Workstations;CM - Co-management;W11 - Wave 1
+CTS-DT-0087,16777087,1,1,2026-10-18T18:00:00Z,19045,1,All Windows Workstations;CM - Co-management;W11 - Wave 1
+CTS-LT-0088,16777088,1,1,2026-10-18T02:00:00Z,19045,1,All Windows Workstations;CM - Co-management;W11 - Wave 1
+CTS-LT-0089,16777089,1,1,2026-10-18T21:00:00Z,19045,1,All Windows Workstations;CM - Co-management;W11 - Wave 1
+CTS-DT-0090,16777090,1,1,2026-10-19T07:00:00Z,19045,0,All Windows Workstations;CM - Co-management;W11 - Wave 1
+CTS-LT-0091,16777091,1,1,2026-10-18T17:00:00Z,22631,,All Windows Workstations;CM - Co-management;W11 - Wave 1
+CTS-LT-0092,16777092,1,1,2026-10-18T13:00:00Z,22631,,All Windows Workstations;CM - Co-management;W11 - Wave 1
+CTS-LT-0093,16777093,1,1,2026-10-18T06:00:00Z,19045,0,All Windows Workstations;CM - Co-management;W11 - Wave 1
+CTS-LT-0094,16777094,1,1,2026-10-18T07:00:00Z,26100,,All Windows Workstations;CM - Co-management;W11 - Wave 1
+CTS-LT-0095,16777095,1,1,2026-10-18T04:00:00Z,26100,,All Windows Workstations;CM - Co-management;W11 - Wave 1
+CTS-LT-0096,16777096,1,1,2026-10-19T07:00:00Z,22631,,All Windows Workstations;CM - Co-management;W11 - Wave 1
+CTS-LT-0097,16777097,1,1,2026-10-18T07:00:00Z,26100,,All Windows Workstations;CM - Co-management;W11 - Wave 1
+CTS-DT-0098,16777098,1,1,2026-10-18T13:00:00Z,19045,1,All Windows Workstations;CM - Co-management;W11 - Wave 1
+CTS-LT-0099,16777099,1,1,2026-10-18T21:00:00Z,19045,1,All Windows Workstations;CM - Co-management;W11 - Wave 1
+CTS-LT-0100,16777100,1,1,2026-10-19T05:00:00Z,26100,,All Windows Workstations;CM - Co-management;W11 - Wave 1
+CTS-LT-0101,16777101,1,1,2026-10-19T02:00:00Z,22631,,All Windows Workstations;CM - Co-management;W11 - Wave 1
+CTS-LT-0102,16777102,1,1,2026-10-19T06:00:00Z,22631,,All Windows Workstations;CM - Co-management;W11 - Wave 1
+CTS-LT-0103,16777103,1,1,2026-10-18T03:00:00Z,19045,1,All Windows Workstations;CM - Co-management;W11 - Wave 1
+CTS-LT-0104,16777104,1,1,2026-10-18T16:00:00Z,22631,,All Windows Workstations;CM - Co-management;W11 - Wave 1
+CTS-LT-0105,16777105,1,1,2026-10-18T02:00:00Z,19045,1,All Windows Workstations;CM - Co-management;W11 - Wave 1
+CTS-LT-0106,16777106,1,1,2026-10-18T14:00:00Z,19045,0,All Windows Workstations;CM - Co-management;W11 - Wave 1
+CTS-LT-0107,16777107,1,1,2026-10-18T06:00:00Z,22631,,All Windows Workstations;CM - Co-management;W11 - Wave 1
+CTS-LT-0108,16777108,1,1,2026-10-18T17:00:00Z,22631,,All Windows Workstations;CM - Co-management;W11 - Wave 1
+CTS-LT-0109,16777109,1,1,2026-10-18T05:00:00Z,22631,,All Windows Workstations;CM - Co-management;W11 - Wave 1
+CTS-LT-0110,16777110,1,1,2026-10-19T03:00:00Z,26100,,All Windows Workstations;CM - Co-management;W11 - Wave 1
+CTS-LT-0111,16777111,1,1,2026-10-18T18:00:00Z,22631,,All Windows Workstations;CM - Co-management;W11 - Wave 1
+CTS-LT-0112,16777112,1,1,2026-10-19T02:00:00Z,26100,,All Windows Workstations;CM - Co-management;W11 - Wave 1
+CTS-LT-0113,16777113,1,1,2026-10-18T10:00:00Z,19045,1,All Windows Workstations;CM - Co-management;W11 - Wave 1
+CTS-LT-0114,16777114,1,1,2026-10-19T03:00:00Z,19045,1,All Windows Workstations;CM - Co-management;W11 - Wave 1
+CTS-LT-0115,16777115,1,1,2026-10-18T23:00:00Z,26100,,All Windows Workstations;CM - Co-management;W11 - Wave 1
+CTS-LT-0116,16777116,1,1,2026-10-19T03:00:00Z,22631,,All Windows Workstations;CM - Co-management;W11 - Wave 1
+CTS-LT-0117,16777117,1,1,2026-10-18T08:00:00Z,22631,,All Windows Workstations;CM - Co-management;W11 - Wave 1
+CTS-DT-0118,16777118,1,1,2026-10-18T18:00:00Z,19045,1,All Windows Workstations;CM - Co-management;W11 - Wave 1
+CTS-LT-0119,16777119,1,1,2026-10-18T03:00:00Z,22631,,All Windows Workstations;CM - Co-management;W11 - Wave 1
+CTS-LT-0120,16777120,1,1,2026-10-18T21:00:00Z,26100,,All Windows Workstations;CM - Co-management;W11 - Wave 1
+CTS-LT-0121,16777121,1,1,2026-10-18T21:00:00Z,19045,1,All Windows Workstations;CM - Co-management;W11 - Wave 2
+CTS-LT-0122,16777122,1,1,2026-10-18T11:00:00Z,19045,1,All Windows Workstations;CM - Co-management;W11 - Wave 2
+CTS-LT-0123,16777123,1,1,2026-10-19T04:00:00Z,22631,,All Windows Workstations;CM - Co-management;W11 - Wave 2
+CTS-LT-0124,16777124,1,1,2026-10-18T12:00:00Z,19045,1,All Windows Workstations;CM - Co-management;W11 - Wave 2
+CTS-LT-0125,16777125,1,1,2026-10-19T04:00:00Z,26100,,All Windows Workstations;CM - Co-management;W11 - Wave 2
+CTS-LT-0126,16777126,1,1,2026-10-19T03:00:00Z,19045,1,All Windows Workstations;CM - Co-management;W11 - Wave 2
+CTS-DT-0127,16777127,1,1,2026-10-18T21:00:00Z,19045,1,All Windows Workstations;CM - Co-management;W11 - Wave 2
+CTS-DT-0128,16777128,1,1,2026-10-18T09:00:00Z,19045,1,All Windows Workstations;CM - Co-management;W11 - Wave 2
+CTS-LT-0129,16777129,1,1,2026-10-18T12:00:00Z,19045,1,All Windows Workstations;CM - Co-management;W11 - Wave 2
+CTS-LT-0130,16777130,1,1,2026-10-18T07:00:00Z,19045,1,All Windows Workstations;CM - Co-management;W11 - Wave 2
+CTS-DT-0131,16777131,1,1,2026-10-19T05:00:00Z,19045,1,All Windows Workstations;CM - Co-management;W11 - Wave 2
+CTS-LT-0132,16777132,1,1,2026-10-18T21:00:00Z,19045,1,All Windows Workstations;CM - Co-management;W11 - Wave 2
+CTS-LT-0133,16777133,1,1,2026-10-18T22:00:00Z,19045,1,All Windows Workstations;CM - Co-management;W11 - Wave 2
+CTS-LT-0134,16777134,1,1,2026-10-18T08:00:00Z,19045,1,All Windows Workstations;CM - Co-management;W11 - Wave 2
+CTS-LT-0135,16777135,1,1,2026-10-19T07:00:00Z,22631,,All Windows Workstations;CM - Co-management;W11 - Wave 2
+CTS-DT-0136,16777136,1,1,2026-10-18T18:00:00Z,19045,1,All Windows Workstations;CM - Co-management;W11 - Wave 2
+CTS-DT-0137,16777137,1,1,2026-10-18T17:00:00Z,19045,1,All Windows Workstations;CM - Co-management;W11 - Wave 2
+CTS-DT-0138,16777138,1,1,2026-10-19T07:00:00Z,19045,1,All Windows Workstations;CM - Co-management;W11 - Wave 2
+CTS-LT-0139,16777139,1,1,2026-10-19T04:00:00Z,19045,1,All Windows Workstations;CM - Co-management;W11 - Wave 2
+CTS-LT-0140,16777140,1,1,2026-10-19T06:00:00Z,19045,0,All Windows Workstations;CM - Co-management;W11 - Wave 2
+CTS-LT-0141,16777141,0,0,,19045,1,All Windows Workstations;CM - Co-management;W11 - Wave 2
+CTS-LT-0142,16777142,1,1,2026-10-19T07:00:00Z,19045,1,All Windows Workstations;CM - Co-management;W11 - Wave 2
+CTS-LT-0143,16777143,1,1,2026-10-18T11:00:00Z,19045,1,All Windows Workstations;CM - Co-management;W11 - Wave 2
+CTS-LT-0144,16777144,1,1,2026-10-18T19:00:00Z,19045,1,All Windows Workstations;CM - Co-management;W11 - Wave 2
+CTS-LT-0145,16777145,1,1,2026-10-18T15:00:00Z,19045,1,All Windows Workstations;CM - Co-management;W11 - Wave 2
+CTS-LT-0146,16777146,1,1,2026-10-18T19:00:00Z,19045,1,All Windows Workstations;CM - Co-management;W11 - Wave 2
+CTS-LT-0147,16777147,1,1,2026-10-18T15:00:00Z,19045,1,All Windows Workstations;CM - Co-management;W11 - Wave 2
+CTS-LT-0148,16777148,1,1,2026-10-18T07:00:00Z,19045,1,All Windows Workstations;CM - Co-management;W11 - Wave 2
+CTS-DT-0149,16777149,1,1,2026-10-18T15:00:00Z,19045,1,All Windows Workstations;CM - Co-management;W11 - Wave 2
+CTS-LT-0150,16777150,1,1,2026-10-19T00:00:00Z,26100,,All Windows Workstations;CM - Co-management;W11 - Wave 2
+CTS-LT-0151,16777151,1,1,2026-10-18T16:00:00Z,19045,0,All Windows Workstations;CM - Co-management;W11 - Wave 2
+CTS-DT-0152,16777152,1,1,2026-10-18T21:00:00Z,19045,1,All Windows Workstations;CM - Co-management;W11 - Wave 2
+CTS-LT-0153,16777153,1,1,2026-10-19T06:00:00Z,19045,1,All Windows Workstations;CM - Co-management;W11 - Wave 2
+CTS-LT-0154,16777154,1,1,2026-10-18T09:00:00Z,19045,1,All Windows Workstations;CM - Co-management;W11 - Wave 2
+CTS-LT-0155,16777155,1,1,2026-10-18T19:00:00Z,19045,1,All Windows Workstations;CM - Co-management;W11 - Wave 2
+CTS-LT-0156,16777156,1,1,2026-10-18T03:00:00Z,19045,1,All Windows Workstations;CM - Co-management;W11 - Wave 2
+CTS-DT-0157,16777157,1,1,2026-10-19T06:00:00Z,19045,1,All Windows Workstations;CM - Co-management;W11 - Wave 2
+CTS-LT-0158,16777158,1,1,2026-10-18T13:00:00Z,19045,1,All Windows Workstations;CM - Co-management;W11 - Wave 2
+CTS-LT-0159,16777159,1,1,2026-10-18T08:00:00Z,19045,1,All Windows Workstations;CM - Co-management;W11 - Wave 2
+CTS-DT-0160,16777160,1,1,2026-10-18T15:00:00Z,19045,1,All Windows Workstations;CM - Co-management;W11 - Wave 2
+CTS-LT-0161,16777161,1,1,2026-10-18T16:00:00Z,19045,1,All Windows Workstations;CM - Co-management;W11 - Wave 2
+CTS-LT-0162,16777162,1,1,2026-10-19T02:00:00Z,19045,0,All Windows Workstations;CM - Co-management;W11 - Wave 2
+CTS-LT-0163,16777163,1,1,2026-10-18T16:00:00Z,19045,1,All Windows Workstations;CM - Co-management;W11 - Wave 2
+CTS-LT-0164,16777164,1,1,2026-10-18T09:00:00Z,19045,1,All Windows Workstations;CM - Co-management;W11 - Wave 2
+CTS-LT-0165,16777165,1,1,2026-10-19T01:00:00Z,19045,1,All Windows Workstations;CM - Co-management;W11 - Wave 2
+CTS-DT-0166,16777166,1,1,2026-10-18T12:00:00Z,22631,,All Windows Workstations;CM - Co-management;W11 - Wave 2
+CTS-LT-0167,16777167,1,1,2026-10-18T04:00:00Z,19045,1,All Windows Workstations;CM - Co-management;W11 - Wave 2
+CTS-LT-0168,16777168,1,1,2026-10-19T01:00:00Z,19045,1,All Windows Workstations;CM - Co-management;W11 - Wave 2
+CTS-LT-0169,16777169,1,1,2026-10-18T19:00:00Z,22631,,All Windows Workstations;CM - Co-management;W11 - Wave 2
+CTS-LT-0170,16777170,1,1,2026-10-18T08:00:00Z,19045,1,All Windows Workstations;CM - Co-management;W11 - Wave 2
+CTS-LT-0171,16777171,1,1,2026-10-18T04:00:00Z,19045,1,All Windows Workstations;CM - Co-management;W11 - Wave 2
+CTS-LT-0172,16777172,1,1,2026-10-18T05:00:00Z,19045,1,All Windows Workstations;CM - Co-management;W11 - Wave 2
+CTS-LT-0173,16777173,1,1,2026-10-19T02:00:00Z,19045,1,All Windows Workstations;CM - Co-management;W11 - Wave 2
+CTS-LT-0174,16777174,1,1,2026-10-18T11:00:00Z,19045,1,All Windows Workstations;CM - Co-management;W11 - Wave 2
+CTS-LT-0175,16777175,1,1,2026-10-18T06:00:00Z,19045,1,All Windows Workstations;CM - Co-management;W11 - Wave 2
+CTS-DT-0176,16777176,1,1,2026-10-18T07:00:00Z,19045,1,All Windows Workstations;CM - Co-management;W11 - Wave 2
+CTS-LT-0177,16777177,1,1,2026-10-18T08:00:00Z,19045,1,All Windows Workstations;CM - Co-management;W11 - Wave 2
+CTS-LT-0178,16777178,1,1,2026-10-18T06:00:00Z,19045,1,All Windows Workstations;CM - Co-management;W11 - Wave 2
+CTS-LT-0179,16777179,1,1,2026-10-18T13:00:00Z,19045,1,All Windows Workstations;CM - Co-management;W11 - Wave 2
+CTS-LT-0180,16777180,1,1,2026-10-18T03:00:00Z,19045,1,All Windows Workstations;CM - Co-management;W11 - Wave 2
+CTS-DT-0181,16777181,1,1,2026-10-18T20:00:00Z,19045,1,All Windows Workstations;CM - Co-management;W11 - Wave 2
+CTS-DT-0182,16777182,1,1,2026-10-18T08:00:00Z,19045,1,All Windows Workstations;CM - Co-management;W11 - Wave 2
+CTS-DT-0183,16777183,1,1,2026-10-19T00:00:00Z,19045,1,All Windows Workstations;CM - Co-management;W11 - Wave 2
+CTS-LT-0184,16777184,1,1,2026-10-18T09:00:00Z,22631,,All Windows Workstations;CM - Co-management;W11 - Wave 2
+CTS-DT-0185,16777185,1,1,2026-10-18T20:00:00Z,22631,,All Windows Workstations;CM - Co-management;W11 - Wave 2
+CTS-LT-0186,16777186,1,1,2026-10-18T11:00:00Z,19045,1,All Windows Workstations;CM - Co-management;W11 - Wave 2
+CTS-LT-0187,16777187,1,1,2026-10-18T20:00:00Z,19045,1,All Windows Workstations;CM - Co-management;W11 - Wave 2
+CTS-LT-0188,16777188,1,1,2026-10-18T22:00:00Z,19045,1,All Windows Workstations;CM - Co-management;W11 - Wave 2
+CTS-LT-0189,16777189,1,1,2026-10-18T09:00:00Z,26100,,All Windows Workstations;CM - Co-management;W11 - Wave 2
+CTS-LT-0190,16777190,1,1,2026-10-18T16:00:00Z,19045,0,All Windows Workstations;CM - Co-management;W11 - Wave 2
+CTS-LT-0191,16777191,1,1,2026-10-18T12:00:00Z,19045,0,All Windows Workstations;CM - Co-management;W11 - Wave 2
+CTS-LT-0192,16777192,1,1,2026-10-18T06:00:00Z,19045,1,All Windows Workstations;CM - Co-management;W11 - Wave 2
+CTS-LT-0193,16777193,1,1,2026-10-19T07:00:00Z,19045,1,All Windows Workstations;CM - Co-management;W11 - Wave 2
+CTS-LT-0194,16777194,1,1,2026-10-18T17:00:00Z,22631,,All Windows Workstations;CM - Co-management;W11 - Wave 2
+CTS-LT-0195,16777195,1,1,2026-10-18T21:00:00Z,19045,1,All Windows Workstations;CM - Co-management;W11 - Wave 2
+CTS-LT-0196,16777196,1,1,2026-10-18T20:00:00Z,19045,1,All Windows Workstations;CM - Co-management;W11 - Wave 2
+CTS-DT-0197,16777197,1,1,2026-10-19T04:00:00Z,19045,1,All Windows Workstations;CM - Co-management;W11 - Wave 2
+CTS-LT-0198,16777198,1,1,2026-10-18T02:00:00Z,19045,1,All Windows Workstations;CM - Co-management;W11 - Wave 2
+CTS-LT-0199,16777199,1,1,2026-10-18T16:00:00Z,19045,1,All Windows Workstations;CM - Co-management;W11 - Wave 2
+CTS-LT-0200,16777200,1,1,2026-10-18T12:00:00Z,19045,1,All Windows Workstations;CM - Co-management;W11 - Wave 2
+CTS-LT-0201,16777201,1,1,2026-10-19T05:00:00Z,19045,1,All Windows Workstations;CM - Co-management;W11 - Wave 2
+CTS-LT-0202,16777202,1,1,2026-10-18T12:00:00Z,19045,1,All Windows Workstations;CM - Co-management;W11 - Wave 2
+CTS-DT-0203,16777203,1,1,2026-10-18T10:00:00Z,19045,1,All Windows Workstations;CM - Co-management;W11 - Wave 2
+CTS-LT-0204,16777204,1,1,2026-10-19T00:00:00Z,26100,,All Windows Workstations;CM - Co-management;W11 - Wave 2
+CTS-LT-0205,16777205,1,1,2026-10-18T21:00:00Z,19045,1,All Windows Workstations;CM - Co-management;W11 - Wave 2
+CTS-LT-0206,16777206,1,1,2026-10-18T19:00:00Z,19045,1,All Windows Workstations;CM - Co-management;W11 - Wave 2
+CTS-DT-0207,16777207,1,1,2026-10-19T05:00:00Z,19045,1,All Windows Workstations;CM - Co-management;W11 - Wave 2
+CTS-LT-0208,16777208,1,1,2026-10-18T12:00:00Z,19045,1,All Windows Workstations;CM - Co-management;W11 - Wave 2
+CTS-LT-0209,16777209,1,1,2026-10-19T04:00:00Z,19045,1,All Windows Workstations;CM - Co-management;W11 - Wave 2
+CTS-LT-0210,16777210,1,1,2026-10-18T20:00:00Z,19045,1,All Windows Workstations;CM - Co-management;W11 - Wave 2
+CTS-LT-0211,16777211,1,1,2026-10-18T21:00:00Z,19045,1,All Windows Workstations;CM - Co-management;W11 - Wave 2
+CTS-LT-0212,16777212,1,1,2026-10-18T20:00:00Z,19045,1,All Windows Workstations;CM - Co-management;W11 - Wave 2
+CTS-LT-0213,16777213,1,1,2026-10-18T16:00:00Z,19045,1,All Windows Workstations;CM - Co-management;W11 - Wave 2
+CTS-LT-0214,16777214,1,1,2026-10-18T18:00:00Z,19045,1,All Windows Workstations;CM - Co-management;W11 - Wave 2
+CTS-DT-0215,16777215,1,1,2026-10-19T06:00:00Z,19045,1,All Windows Workstations;CM - Co-management;W11 - Wave 2
+CTS-LT-0216,16777216,1,1,2026-10-18T06:00:00Z,19045,1,All Windows Workstations;CM - Co-management;W11 - Wave 2
+CTS-LT-0217,16777217,1,1,2026-10-18T21:00:00Z,19045,1,All Windows Workstations;CM - Co-management;W11 - Wave 2
+CTS-LT-0218,16777218,1,1,2026-10-18T12:00:00Z,19045,1,All Windows Workstations;CM - Co-management;W11 - Wave 2
+CTS-LT-0219,16777219,1,1,2026-10-19T03:00:00Z,19045,1,All Windows Workstations;CM - Co-management;W11 - Wave 2
+CTS-DT-0220,16777220,1,1,2026-10-18T20:00:00Z,19045,1,All Windows Workstations;CM - Co-management;W11 - Wave 2
+CTS-LT-0221,16777221,1,1,2026-10-18T05:00:00Z,19045,1,All Windows Workstations;CM - Co-management;W11 - Wave 2
+CTS-DT-0222,16777222,0,0,,19045,1,All Windows Workstations;CM - Co-management;W11 - Wave 2
+CTS-LT-0223,16777223,1,1,2026-10-18T05:00:00Z,19045,0,All Windows Workstations;CM - Co-management;W11 - Wave 2
+CTS-DT-0224,16777224,1,1,2026-10-18T18:00:00Z,19045,1,All Windows Workstations;CM - Co-management;W11 - Wave 2
+CTS-LT-0225,16777225,1,1,2026-10-19T03:00:00Z,22631,,All Windows Workstations;CM - Co-management;W11 - Wave 2
+CTS-LT-0226,16777226,1,1,2026-10-18T17:00:00Z,19045,1,All Windows Workstations;CM - Co-management;W11 - Wave 2
+CTS-DT-0227,16777227,1,1,2026-10-18T07:00:00Z,19045,1,All Windows Workstations;CM - Co-management;W11 - Wave 2
+CTS-LT-0228,16777228,1,1,2026-10-18T07:00:00Z,19045,1,All Windows Workstations;CM - Co-management;W11 - Wave 2
+CTS-LT-0229,16777229,1,1,2026-10-18T04:00:00Z,19045,1,All Windows Workstations;CM - Co-management;W11 - Wave 2
+CTS-LT-0230,16777230,1,1,2026-10-18T19:00:00Z,19045,1,All Windows Workstations;CM - Co-management;W11 - Wave 2
+CTS-LT-0231,16777231,1,1,2026-10-19T02:00:00Z,19045,1,All Windows Workstations;CM - Co-management;W11 - Wave 2
+CTS-DT-0232,16777232,1,1,2026-10-18T05:00:00Z,19045,1,All Windows Workstations;CM - Co-management;W11 - Wave 2
+CTS-DT-0233,16777233,1,1,2026-10-18T19:00:00Z,19045,1,All Windows Workstations;CM - Co-management;W11 - Wave 2
+CTS-DT-0234,16777234,1,1,2026-10-18T22:00:00Z,19045,0,All Windows Workstations;CM - Co-management;W11 - Wave 2
+CTS-LT-0235,16777235,1,1,2026-10-18T02:00:00Z,19045,1,All Windows Workstations;CM - Co-management;W11 - Wave 2
+CTS-LT-0236,16777236,1,1,2026-10-18T11:00:00Z,19045,1,All Windows Workstations;CM - Co-management;W11 - Wave 2
+CTS-DT-0237,16777237,1,1,2026-10-18T18:00:00Z,19045,1,All Windows Workstations;CM - Co-management;W11 - Wave 2
+CTS-LT-0238,16777238,1,1,2026-10-19T01:00:00Z,19045,1,All Windows Workstations;CM - Co-management;W11 - Wave 2
+CTS-LT-0239,16777239,1,1,2026-10-18T18:00:00Z,19045,1,All Windows Workstations;CM - Co-management;W11 - Wave 2
+CTS-LT-0240,16777240,1,1,2026-10-18T14:00:00Z,19045,1,All Windows Workstations;CM - Co-management;W11 - Wave 2
+CTS-LT-0241,16777241,1,1,2026-10-18T06:00:00Z,19045,1,All Windows Workstations;CM - Co-management;W11 - Wave 2
+CTS-LT-0242,16777242,1,1,2026-10-18T16:00:00Z,19045,1,All Windows Workstations;CM - Co-management;W11 - Wave 2
+CTS-LT-0243,16777243,1,1,2026-10-19T05:00:00Z,19045,1,All Windows Workstations;CM - Co-management;W11 - Wave 2
+CTS-DT-0244,16777244,1,1,2026-10-18T04:00:00Z,19045,1,All Windows Workstations;CM - Co-management;W11 - Wave 2
+CTS-LT-0245,16777245,1,1,2026-10-19T02:00:00Z,19045,1,All Windows Workstations;CM - Co-management;W11 - Wave 2
+CTS-LT-0246,16777246,1,0,2026-08-29T08:00:00Z,19045,1,All Windows Workstations;CM - Co-management;W11 - Wave 2
+CTS-LT-0247,16777247,1,1,2026-10-19T04:00:00Z,19045,0,All Windows Workstations;CM - Co-management;W11 - Wave 2
+CTS-LT-0248,16777248,1,1,2026-10-19T06:00:00Z,19045,1,All Windows Workstations;CM - Co-management;W11 - Wave 2
+CTS-LT-0249,16777249,1,1,2026-10-18T06:00:00Z,19045,1,All Windows Workstations;CM - Co-management;W11 - Wave 2
+CTS-LT-0250,16777250,1,1,2026-10-18T05:00:00Z,19045,1,All Windows Workstations;CM - Co-management;W11 - Wave 2
+CTS-DT-0251,16777251,1,1,2026-10-18T14:00:00Z,19045,1,All Windows Workstations;CM - Co-management;W11 - Wave 2
+CTS-LT-0252,16777252,1,1,2026-10-18T22:00:00Z,19045,0,All Windows Workstations;CM - Co-management;W11 - Wave 2
+CTS-DT-0253,16777253,1,1,2026-10-18T17:00:00Z,19045,1,All Windows Workstations;CM - Co-management;W11 - Wave 2
+CTS-DT-0254,16777254,1,1,2026-10-19T07:00:00Z,19045,1,All Windows Workstations;CM - Co-management;W11 - Wave 2
+CTS-LT-0255,16777255,1,1,2026-10-19T03:00:00Z,19045,1,All Windows Workstations;CM - Co-management;W11 - Wave 2
+CTS-LT-0256,16777256,1,1,2026-10-18T22:00:00Z,19045,1,All Windows Workstations;CM - Co-management;W11 - Wave 2
+CTS-LT-0257,16777257,1,1,2026-10-18T09:00:00Z,19045,1,All Windows Workstations;CM - Co-management;W11 - Wave 2
+CTS-LT-0258,16777258,1,1,2026-10-18T03:00:00Z,19045,0,All Windows Workstations;CM - Co-management;W11 - Wave 2
+CTS-LT-0259,16777259,1,1,2026-10-19T07:00:00Z,19045,1,All Windows Workstations;CM - Co-management;W11 - Wave 2
+CTS-LT-0260,16777260,1,1,2026-10-18T16:00:00Z,19045,1,All Windows Workstations;CM - Co-management;W11 - Wave 2
