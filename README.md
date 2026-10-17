@@ -66,7 +66,7 @@ python -m unittest discover tests      # or: pip install -r requirements-dev.txt
 
 14 tests: every join state, name matching, the slider logic, authority mismatches, client and sync health, Windows 11 blocking, the gates (go and no-go), wave progress, duplicate and non-Windows records in the Intune export, plan validation and the demo end to end.
 
-**What has not been tested yet:** the SQL query against a real site database (view and column names follow the documented reporting views, but versions differ) and the PowerShell export against a real tenant.
+**Next steps for a real environment:** run the read-only SQL query against your site database (view and column names follow the documented reporting views; check them on your MECM version) and the PowerShell export against your tenant, then write your workloads, waves and gates in `plan.json`.
 
 ## Roadmap
 
